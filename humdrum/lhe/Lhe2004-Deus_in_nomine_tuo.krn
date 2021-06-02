@@ -15,7 +15,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Deus in nomine tuo
 !!!OMD: Prima pars: Deus in nomine tuo
-!	!	!	!	!LO:TX:a:t=Prima pars&colon; Deus in nomine tuo
 0r	0g	0r	0r	0r
 =1	=1	=1	=1	=1
 0r	1g	0r	0r	1r
@@ -736,7 +735,7 @@
 1G	2B	1d	2r	.
 .	2G	.	[2g	2b
 =123	=123	=123	=123	=123
-[0C	1.c	[0c	2g]	[0cc
+[0Cl	1.c	[0cl	2g]	[0ccl
 .	.	.	2e	.
 .	.	.	1e	.
 .	4B	.	.	.
