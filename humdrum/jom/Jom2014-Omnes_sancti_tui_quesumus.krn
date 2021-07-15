@@ -2,7 +2,7 @@
 !!!SCT: Nugent (1982)
 !!!voices: 4
 !!!COM: Jachet of Mantua
-!!!OTL: Omnes sancti dei quesumus
+!!!OTL: Omnes sancti tui quesumus
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -13,8 +13,8 @@
 *F:	*F:	*F:	*F:
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Prima pars: Omnes sancti dei quesumus
-!!!OMD: Prima pars: Omnes sancti dei quesumus
+!!section: Prima pars: Omnes sancti tui quesumus
+!!!OMD: Prima pars: Omnes sancti tui quesumus
 0FF	0F	0A	0cc
 =1	=1	=1	=1
 1C	1E	1G	1cc
