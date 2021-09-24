@@ -111,11 +111,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Altus</part-name>
    <part-name-display>
     <display-text>Altus</display-text>
@@ -302,7 +297,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>tris</text>
+     <text>tri</text>
     </lyric>
    </note>
    <note color="#000000" default-x="152">
@@ -317,7 +312,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>middle</syllabic>
-     <text>tes</text>
+     <text>stes</text>
     </lyric>
    </note>
   </measure>
@@ -2966,7 +2961,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>tris</text>
+     <text>tri</text>
     </lyric>
    </note>
    <note color="#000000" default-x="137">
@@ -2981,7 +2976,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>middle</syllabic>
-     <text>tes</text>
+     <text>stes</text>
     </lyric>
    </note>
   </measure>
