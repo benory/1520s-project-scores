@@ -133,11 +133,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P3">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Tenor I</part-name>
    <part-name-display>
     <display-text>Tenor I</display-text>
@@ -6174,7 +6169,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>middle</syllabic>
-     <text>stres</text>
+     <text>stes</text>
     </lyric>
    </note>
    <note color="#000000" default-x="152">
@@ -8528,7 +8523,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>middle</syllabic>
-     <text>stres</text>
+     <text>stes</text>
     </lyric>
    </note>
   </measure>
