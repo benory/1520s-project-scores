@@ -15,7 +15,6 @@
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 !!section: Prima pars: Verbum bonum
 !!!OMD: Prima pars: Verbum bonum
-!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Prima pars&colon; Verbum bonum	!
 !	!	!	!	!LO:TX:a:t=Canon&colon; tenor/altus II at the fourth	!	!	!	!	!	!	!
 1r	.	0r	.	1D	Ver-	0r	.	0r	.	0r	.
 1GG	Ver-	.	.	1G	-bum	.	.	.	.	.	.
@@ -530,7 +529,6 @@
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 !!section: Secunda pars: Ave solem genuisti
 !!!OMD: Secunda pars: Ave solem genuisti
-!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Secunda pars&colon; Ave solem genuisti	!
 !	!	!	!	!	!	!LO:TX:a:t=Canon&colon; altus II/tenor at the fifth	!	!	!	!	!
 0r	.	0r	.	0r	.	0r	.	1c	A-	0r	.
 .	.	.	.	.	.	.	.	1f	-ve,	.	.
@@ -619,10 +617,10 @@
 4BB	.	4F	.	.	.	.	.	.	.	.	.
 2GG	.	2G	.	2B	.	2d	-nu-	[2d	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
-1C	-lem	2E	.	1c	so-	1e	-i-	4d]	.	1g]	.
+1C	-lem	2E	.	1c	so-	1e	-i-	4d]	.	0g]	.
 .	.	.	.	.	.	.	.	4c	.	.	.
 .	.	2C	-lem	.	.	.	.	1c	-i-	.	.
-1GG	ge-	2.G	ge-	1d	-lem	1d	-sti,	.	.	1r	.
+1GG	ge-	2.G	ge-	1d	-lem	1d	-sti,	.	.	.	.
 .	.	.	.	.	.	.	.	2B	.	.	.
 .	.	4F	.	.	.	.	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
@@ -720,17 +718,17 @@
 [2C	a-	[2E	pro-	.	.	.	.	2c	.	.	.
 .	.	.	.	.	.	4f	.	.	.	.	.
 =120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
-4C]	.	4E]	.	2c	-ve,	2e	.	2G	-sti,	1g]	.
+4C]	.	4E]	.	2c	-ve,	2e	.	2G	-sti,	0g_	.
 4BB	.	4F	.	.	.	.	.	.	.	.	.
 2GG	-ve,	2G	.	2B	.	2d	-tu-	2.d	con-	.	.
-1C	pro-	2E	-tu-	1c	pro-	1e	-li-	.	.	1r	.
+1C	pro-	2E	-tu-	1c	pro-	1e	-li-	.	.	.	.
 .	.	.	.	.	.	.	.	4c	.	.	.
 .	.	2C	.	.	.	.	.	[2c	.	.	.
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
-1GG	-lem	2.G	-li-	1d	-lem	1d	-sti,	2c]	.	0r	.
+1GG	-lem	2.G	-li-	1d	-lem	1d	-sti,	2c]	.	1g]	.
 .	.	.	.	.	.	.	.	2B	-tu-	.	.
 .	.	4F	.	.	.	.	.	.	.	.	.
-2AA	pro-	4E	.	2.c	pro-	1r	.	4A	-li-	.	.
+2AA	pro-	4E	.	2.c	pro-	1r	.	4A	-li-	1r	.
 .	.	4D	.	.	.	.	.	4B	.	.	.
 2BB	-tu-	[2E	.	.	.	.	.	4c	.	.	.
 .	.	.	.	4B	.	.	.	4d	.	.	.
@@ -1054,17 +1052,17 @@
 .	.	.	.	.	.	4c	.	.	.	.	.
 .	.	.	.	2F#i	-di-	2A	.	.	.	[2dd	al-
 =176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176
-0GG	-a	2r	.	0G	-a,	2.B	.	1d	.	4dd]	.
+1GG	-a	2r	.	0G	-a,	2.B	.	1d	.	4dd]	.
 .	.	.	.	.	.	.	.	.	.	4cc	.
 .	.	2.G	al-	.	.	.	.	.	.	4b	.
 .	.	.	.	.	.	4c	.	.	.	4a	.
-.	.	.	.	.	.	1d	.	[1g	-na	4b	.
+1GG	a-	.	.	.	.	1d	.	[1g	-na	4b	.
 .	.	4F	.	.	.	.	.	.	.	4cc	.
 .	.	2D	.	.	.	.	.	.	.	2dd	.
 =177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177
-1C	a-	2C	-le-	2r	.	2e	.	1g]	.	2g	-le-
+1C	-le-	2C	-le-	2r	.	2e	.	1g]	.	2g	-le-
 .	.	2E	.	2.G	al-	2c	.	.	.	1cc	-lu-
-1GG	-le-	1D	-lu-	.	.	1d	-men,	2.g	gau-	.	.
+1GG	.	1D	-lu-	.	.	1d	-men,	2.g	gau-	.	.
 .	.	.	.	4F	.	.	.	.	.	.	.
 .	.	.	.	2D	.	.	.	.	.	2b	.
 .	.	.	.	.	.	.	.	4f	.	.	.
@@ -1111,8 +1109,8 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Benjamin Ory
-!!!END: 2020/12/16
+!!!END: 2021/10/7
 !!!EED: Benjamin Ory
-!!!EEV: 2021/04/30
+!!!EEV: 2021/10/07
 !!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2021/04/30
+!!!ONB: Translated from MusicXML on 2021/10/07
