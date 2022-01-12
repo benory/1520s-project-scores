@@ -15,7 +15,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: O Salutaris hostia
 !!!OMD: Prima pars: O Salutaris hostia
-!	!	!	!	!	!LO:TX:a:t=Prima pars&colon; O Salutaris hostia
+!	!LO:TX:a:t=Canon&colon; tenor II/altus II at the fifth	!	!	!	!
 0F	0r	0r	0r	0r	0r
 =1	=1	=1	=1	=1	=1
 1.A	0r	0r	0r	0c	0r
@@ -465,6 +465,6 @@
 !!!ENC: Benjamin Ory
 !!!END: 2021/1/5
 !!!EED: Benjamin Ory
-!!!EEV: 2021/04/30
-!!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2021/04/30
+!!!EEV: 2022/01/12
+!!!YEC: Copyright 2022 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2022/01/12
