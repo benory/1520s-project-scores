@@ -6,12 +6,12 @@
  </work>
  <identification>
   <creator type="composer">Costanzo Festa</creator>
-  <creator type="arranger">Benjamin Ory 2021/1/26</creator>
+  <creator type="arranger">Benjamin Ory 2022/1/19</creator>
   <creator type="lyricist">CMM 25/3 (Seay)</creator>
   <encoding>
-   <encoding-date>2021-05-20</encoding-date>
+   <encoding-date>2022-01-19</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 19.1.0</software>
+   <software>Sibelius 21.12.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -67,6 +67,7 @@
    <note-size type="grace">60</note-size>
   </appearance>
   <music-font font-family="Opus Std" font-size="12.7559" />
+  <word-font font-family="Times New Roman" font-size="7.6735" />
   <lyric-font font-family="Times New Roman" font-size="7.3745" />
   <lyric-language xml:lang="en" />
  </defaults>
@@ -143,6 +144,11 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Superius II</part-name>
    <part-name-display>
     <display-text>Superius II</display-text>
@@ -245,6 +251,11 @@
    </score-instrument>
   </score-part>
   <score-part id="P8">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Bassus II</part-name>
    <part-name-display>
     <display-text>Bassus II</display-text>
@@ -21765,6 +21776,13 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="86" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor I/superius I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>F</step>
@@ -24249,6 +24267,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="91" default-y="27" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor I/superius I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
@@ -26656,6 +26681,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="90" default-y="28" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor I/superius I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>E</step>
@@ -28842,6 +28874,13 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="83" default-y="19" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor II/superius II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>F</step>
@@ -30566,6 +30605,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="90" default-y="19" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor II/superius II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>F</step>
@@ -32118,6 +32164,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="90" default-y="18" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: tenor II/superius II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>A</step>
@@ -33259,6 +33312,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="83" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus I/altus I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>F</step>
@@ -35365,6 +35425,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="91" default-y="32" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus I/altus I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>B</step>
@@ -37541,6 +37608,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="90" default-y="27" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus I/altus I at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>E</step>
@@ -39592,6 +39666,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="85" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus II/altus II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>F</step>
@@ -41458,6 +41539,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="93" default-y="25" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus II/altus II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>B</step>
@@ -43366,6 +43454,13 @@
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="89" default-y="21" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="7.6735" font-weight="normal">Canon: bassus II/altus II at the octave</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="91">
     <pitch>
      <step>A</step>

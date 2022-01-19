@@ -15,7 +15,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Inviolata, integra, et casta es
 !!!OMD: Prima pars: Inviolata, integra, et casta es
-!	!	!	!	!	!	!	!LO:TX:a:t=Prima pars&colon; Inviolata, integra, et casta es
+!LO:TX:a:t=Canon&colon; bassus II/altus II at the octave	!LO:TX:a:t=Canon&colon; bassus I/altus I at the octave	!LO:TX:a:t=Canon&colon; tenor II/superius II at the octave	!LO:TX:a:t=Canon&colon; tenor I/superius I at the octave	!	!	!	!
 0FF	0F	0F	0F	0r	0r	0r	0r
 =1	=1	=1	=1	=1	=1	=1	=1
 1F	1D	1F	1A	0r	0r	0r	0r
@@ -418,7 +418,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Nostra ut pura
 !!!OMD: Secunda pars: Nostra ut pura
-!	!	!	!	!	!	!	!LO:TX:a:t=Secunda pars&colon; Nostra ut pura
+!LO:TX:a:t=Canon&colon; bassus II/altus II at the octave	!LO:TX:a:t=Canon&colon; bassus I/altus I at the octave	!LO:TX:a:t=Canon&colon; tenor II/superius II at the octave	!LO:TX:a:t=Canon&colon; tenor I/superius I at the octave	!	!	!	!
 0BB-y	0B-y	0F	0d	0r	0r	0r	0r
 =73	=73	=73	=73	=73	=73	=73	=73
 1.D	2.A	1F	1d	0r	0r	0r	0r
@@ -803,7 +803,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Tertia pars: O benigna!
 !!!OMD: Tertia pars: O benigna!
-!	!	!	!	!	!	!	!LO:TX:a:t=Tertia pars&colon; O benigna!
+!LO:TX:a:t=Canon&colon; bassus II/altus II at the octave	!LO:TX:a:t=Canon&colon; bassus I/altus I at the octave	!LO:TX:a:t=Canon&colon; tenor II/superius II at the octave	!LO:TX:a:t=Canon&colon; tenor I/superius I at the octave	!	!	!	!
 0AA	1E	[0A	0e	0r	0r	0r	0r
 .	[1A	.	.	.	.	.	.
 =141	=141	=141	=141	=141	=141	=141	=141
@@ -908,9 +908,7 @@
 1FF	.	.	.	.	1A	1c	1cc
 =159	=159	=159	=159	=159	=159	=159	=159
 0BB-y	1D	0r	1r	1r	0d	0B-y	0dd
-*	*	*	*	*^	*	*	*
-.	1r	.	1d	1BB-y	1BB-y	.	.	.
-*	*	*	*	*v	*v	*	*	*
+.	1r	.	1d/	1BB-y	.	.	.
 =160	=160	=160	=160	=160	=160	=160	=160
 0C	1r	0r	1.c	0E-i	1G	0r	1r
 .	2r	.	.	.	1r	.	1g
@@ -1142,7 +1140,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Benjamin Ory
 !!!END: 2021/1/26
-!!!EED: Benjamin Ory
-!!!EEV: 2021/04/23
+!!!ENC: Benjamin Ory
+!!!EEV: 2022/01/19
 !!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2021/04/23
+!!!ONB: Translated from MusicXML on 2022/01/19
