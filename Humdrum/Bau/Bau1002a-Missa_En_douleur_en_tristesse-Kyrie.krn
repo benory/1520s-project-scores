@@ -16,7 +16,6 @@
 !!section: Kyrie I
 !!!OMD: Kyrie I
 !	!	!	!	!LO:TX:a:t=Canon&colon; superius/tenor at the octave
-!	!	!	!	!LO:TX:a:t=Kyrie I
 0r	1.G	0r	0r	0r
 .	2B-y	.	.	.
 =1	=1	=1	=1	=1
@@ -180,7 +179,6 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!	!	!LO:TX:a:t=Canon&colon; superius/tenor at the octave
-!	!	!	!	!LO:TX:a:t=Christe
 !!section: Christe
 !!!OMD: Christe
 0BB-y	0d	0r	1.B-y	0r
@@ -297,7 +295,6 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(CC|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!	!	!LO:TX:a:t=Canon&colon; superius/tenor at the octave
-!	!	!	!	!LO:TX:a:t=Kyrie II
 !!section: Kyrie II
 !!!OMD: Kyrie II
 0r	0r	0r	1d	0r
@@ -501,6 +498,6 @@
 !!!ENC: Benjamin Ory
 !!!END: 2021/2/19
 !!!EED: Benjmain Ory
-!!!EEV: 2021/04/22
+!!!EEV: 2022/2/22
 !!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2021/04/22
