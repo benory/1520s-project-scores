@@ -2,7 +2,7 @@
 !!!SCT: Ory
 !!!voices: 3
 !!!COM: Anonymous
-!!!OTL: Nigra sum
+!!!OTL: Nigra sum†
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -13,6 +13,8 @@
 *C:	*	*C:	*	*C:	*
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Prima pars: Nigra sum
+!!!OMD: Prima pars: Nigra sum
 0r	.	0r	.	1a	Ni-
 .	.	.	.	1d	-gra
 =1	=1	=1	=1	=1	=1
