@@ -1,0 +1,162 @@
+!!!AGN: Motet
+!!!SCT: Seay (1979)
+!!!voices: 4
+!!!COM: Costanzo Festa
+!!!OTL: Petrus apostolus
+**kern	**kern	**kern	**kern
+*part4	*part3	*part2	*part1
+*staff4	*staff3	*staff2	*staff1
+*I"Bass	*I"Tenor	*I"Altus	*I"Soprano
+*I'B	*I'T	*I'A	*I'S
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!Section: Prima Pars: Petrus apostolus
+!!!OMD: Prima Pars: Petrus apostolus
+0r	0r	1c	1r
+.	.	2e	1g
+.	.	2f	.
+=1	=1	=1	=1
+0r	1G	1g	2b
+.	.	.	2cc
+.	2B	1d	1dd
+.	2c	.	.
+=2	=2	=2	=2
+0r	1d	2f	1a
+.	.	2f	.
+.	1A	2e	[1cc
+.	.	2c	.
+=3	=3	=3	=3
+1C	1c	2e	2cc]
+.	.	2f	4b
+.	.	.	4a
+2E	1c	1g	2g
+2F	.	.	2a
+=4	=4	=4	=4
+1G	2B	1d	1b
+.	2.d	.	.
+1D	.	1f	2r
+.	4c	.	.
+.	[2A	.	2dd
+=5	=5	=5	=5
+1F	4A]	2r	2dd
+.	4B	.	.
+.	2c	2f	2a
+1F	1A	2c	2cc
+.	.	2a	2dd
+=6	=6	=6	=6
+1E	1B	2g	1ee
+.	.	2e	.
+1r	1r	2f	1dd
+.	.	2g	.
+=7	=7	=7	=7
+0r	0r	1a	2cc
+.	.	.	2.ee
+.	.	1g	.
+.	.	.	4dd
+.	.	.	4dd
+.	.	.	8ccL
+.	.	.	8bJ
+=8	=8	=8	=8
+0r	2r	4f	4a
+.	.	4e	4g
+.	2d	4d	4f
+.	.	4c	4e
+.	2d	2B	2d
+.	2B	2G	2dd
+=9	=9	=9	=9
+2r	2c	1g	2ee
+2G	2d	.	1dd
+2G	1e	2G	.
+2E	.	2g	[2cc
+=10	=10	=10	=10
+2F	1d	2a	2cc]
+2G	.	1g	2b
+1A	1c	.	1cc
+.	.	[2f	.
+=11	=11	=11	=11
+1G	0r	2f]	1r
+.	.	2e	.
+1F	.	1f	1a
+=12	=12	=12	=12
+0r	0r	1r	1g
+.	.	1d	1a
+=13	=13	=13	=13
+0r	1A	1c	2.cc
+.	.	.	8bL
+.	.	.	8aJ
+.	1G	1d	4b
+.	.	.	4a
+.	.	.	4b
+.	.	.	4cc
+=14	=14	=14	=14
+1D	1A	1f	4dd
+.	.	.	4a
+.	.	.	2dd
+1C	1c	1e	2.g
+.	.	.	4a
+=15	=15	=15	=15
+1D	1B	1d	4b
+.	.	.	4cc
+.	.	.	4dd
+.	.	.	4b
+1F	1A	2.c	2cc
+.	.	.	2a
+.	.	4d	.
+=16	=16	=16	=16
+1E	1G	4e	2b
+.	.	4f	.
+.	.	4g	1cc
+.	.	4e	.
+1D	1r	2f	.
+.	.	2d	2b
+=17	=17	=17	=17
+1C	0r	2e	4cc
+.	.	.	4b
+.	.	1c	4a
+.	.	.	4g
+1D	.	.	2f
+.	.	2B	2d
+=18	=18	=18	=18
+1C	0r	3.c	4e
+.	.	.	4f
+.	.	6d	4g
+.	.	3e	.
+.	.	.	4e
+1D	.	2A	4f
+.	.	.	4g
+.	.	[2d	[2a
+=19	=19	=19	=19
+1F	1A	4d]	2a]
+.	.	4c	.
+.	.	2A	2f
+1E	1G	2B	3g
+.	.	.	3e
+.	.	2c	.
+.	.	.	3g
+=20	=20	=20	=20
+1D	1A	1d	3f
+.	.	.	3a
+.	.	.	3f
+1C	1c	1e	2g
+.	.	.	[2a
+=21	=21	=21	=21
+0D	1B	[0dl	2a]
+.	.	.	1g
+.	1A	.	.
+.	.	.	2f#i
+=22	=22	=22	=22
+00Gl	00Gl	00d]	00gl
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Benjamin Ory
+!!!END: 2022/3/8
+!!!EED: Benjamin Ory
+!!!EEV: 2022/03/08
+!!!YEC: Copyright 2022 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2022/03/08
