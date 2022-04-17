@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Lhe2008-Deus_in_nomine_tuo</work-title>
+  <work-title>Lhe2013-Deus_in_nomine_tuo</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Lhéritier</creator>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2008-Deus_in_nomine_tuo</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2013-Deus_in_nomine_tuo</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="118" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Ecce enim Deus</credit-words>
