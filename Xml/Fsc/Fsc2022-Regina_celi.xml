@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Fsc2021-Regina_celi</work-title>
+  <work-title>Fsc2022-Regina_celi</work-title>
  </work>
  <identification>
   <creator type="composer">Costanzo Festa</creator>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Fsc2021-Regina_celi</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Fsc2022-Regina_celi</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="103" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Secunda pars: Resurrexit sicut dixit</credit-words>
