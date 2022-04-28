@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Ver2016-Recordare,_Domine</work-title>
+  <work-title>Ver2017-Recordare,_Domine</work-title>
  </work>
  <identification>
   <creator type="composer">Philippe Verdelot</creator>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="162" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Ver2016-Recordare,_Domine</credit-words>
+  <credit-words default-x="785" default-y="162" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Ver2017-Recordare,_Domine</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="118" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Adjuva nos Deus</credit-words>
