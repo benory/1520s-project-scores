@@ -2,16 +2,16 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Jom2012-Omnes_sancti_tui_quesumus</work-title>
+  <work-title>Jom2014-Omnes_sancti_tui_quesumus</work-title>
  </work>
  <identification>
   <creator type="composer">Jachet of Mantua</creator>
   <creator type="arranger">Benjamin Ory 2021/9/9</creator>
   <creator type="lyricist">CMM 54/4 (Nugent)</creator>
   <encoding>
-   <encoding-date>2021-09-09</encoding-date>
+   <encoding-date>2022-10-22</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.2.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jom2012-Omnes_sancti_tui_quesumus</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jom2014-Omnes_sancti_tui_quesumus</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="87" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Omnes sancti tui quesumus</credit-words>
