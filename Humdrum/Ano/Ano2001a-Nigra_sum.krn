@@ -289,10 +289,10 @@
 .	.	4g	.	.	.
 2r	.	2a	.	4cc	sum
 .	.	.	.	4b	.
-2A	sum	[2cc	for-	4a	.
+2A	sed	[2cc	for-	4a	.
 .	.	.	.	4g	.
 =51	=51	=51	=51	=51	=51
-2A	sed	4cc]	.	2a	for-
+2A	sum	4cc]	.	2a	for-
 .	.	4b	.	.	.
 2A	for-	1a	-mo-	2cc	-mo-
 1E	-mo-	.	.	1b	-sa,

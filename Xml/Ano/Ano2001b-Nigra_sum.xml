@@ -10,9 +10,9 @@
   <creator type="lyricist">Ory</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2022-01-10</encoding-date>
+   <encoding-date>2022-11-21</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.12.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -12298,7 +12298,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>sum</text>
+     <text>sed</text>
     </lyric>
    </note>
   </measure>
@@ -12317,7 +12317,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>sed</text>
+     <text>sum</text>
     </lyric>
    </note>
    <note color="#000000" default-x="86" default-y="-35">

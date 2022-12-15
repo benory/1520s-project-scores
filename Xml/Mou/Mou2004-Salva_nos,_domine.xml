@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Mou2004a-Salva_nos,_domine</work-title>
+  <work-title>Mou2004-Salva_nos,_domine</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Mouton</creator>
@@ -10,9 +10,9 @@
   <creator type="lyricist">CMM 3/4 (Zenck)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2021-05-20</encoding-date>
+   <encoding-date>2022-12-15</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 19.1.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -68,11 +68,12 @@
    <note-size type="grace">60</note-size>
   </appearance>
   <music-font font-family="Opus Std" font-size="15.5906" />
+  <word-font font-family="Times New Roman" font-size="9.3787" />
   <lyric-font font-family="Times New Roman" font-size="9.0133" />
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="218" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2004a-Salva_nos,_domine</credit-words>
+  <credit-words default-x="785" default-y="218" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2004-Salva_nos,_domine</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="165" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Salva nos, domine</credit-words>
@@ -91,6 +92,11 @@
  </credit>
  <part-list>
   <score-part id="P1">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Superius</part-name>
    <part-name-display>
     <display-text>Superius</display-text>
@@ -176,6 +182,11 @@
    </score-instrument>
   </score-part>
   <score-part id="P6">
+   <identification>
+    <miscellaneous>
+     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
+    </miscellaneous>
+   </identification>
    <part-name>Bassus</part-name>
    <part-name-display>
     <display-text>Bassus</display-text>
