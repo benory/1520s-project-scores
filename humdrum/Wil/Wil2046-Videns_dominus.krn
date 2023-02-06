@@ -2,7 +2,7 @@
 !!!SCT: Rifkin (1997)
 !!!voices: 4
 !!!COM: Adrian Willaert
-!!!OTL: Videns dominus
+!!!OTL: Videns Dominus
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -13,9 +13,8 @@
 *C:	*C:	*C:	*C:
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Prima pars: Videns dominus
-!!!OMD: Prima pars: Videns dominus
-!	!	!	!LO:TX:a:t=Prima pars&colon; Videns dominus
+!!section: Prima pars: Videns Dominus
+!!!OMD: Prima pars: Videns Dominus
 0r	0r	1.G	0r
 .	.	2G	.
 =1	=1	=1	=1

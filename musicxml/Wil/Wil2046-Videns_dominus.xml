@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Wil2046-Videns_dominus</work-title>
+  <work-title>Wil2046-Videns_Dominus</work-title>
  </work>
  <identification>
   <creator type="composer">Adrian Willaert</creator>
@@ -71,10 +71,10 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil2046-Videns_dominus</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil2046-Videns_Dominus</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="785" default-y="84" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Videns dominus</credit-words>
+  <credit-words default-x="785" default-y="84" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Videns Dominus</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="1461" default-y="84" font-family="Times New Roman" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Adrian Willaert</credit-words>
