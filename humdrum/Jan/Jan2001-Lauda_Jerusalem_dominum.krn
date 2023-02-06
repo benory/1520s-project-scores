@@ -2,7 +2,7 @@
 !!!SCT: Lowinsky (1968)
 !!!voices: 4
 !!!COM: Maistre Jan
-!!!OTL: Lauda Jerusalem dominum
+!!!OTL: Lauda Jerusalem Dominum
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -13,8 +13,8 @@
 *C:	*C:	*C:	*C:
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Prima pars: Lauda Jerusalem dominum
-!!!OMD: Prima pars: Lauda Jerusalem dominum
+!!section: Prima pars: Lauda Jerusalem Dominum
+!!!OMD: Prima pars: Lauda Jerusalem Dominum
 0D	0A	0d	0a
 =1	=1	=1	=1
 1A	0c	1e	1a

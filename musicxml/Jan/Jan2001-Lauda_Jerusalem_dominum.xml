@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Jan2001-Lauda_Jerusalem_dominum</work-title>
+  <work-title>Jan2001-Lauda_Jerusalem_Dominum</work-title>
  </work>
  <identification>
   <creator type="composer">Maistre Jan</creator>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jan2001-Lauda_Jerusalem_dominum</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jan2001-Lauda_Jerusalem_Dominum</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="69" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Mittit cristallum</credit-words>
