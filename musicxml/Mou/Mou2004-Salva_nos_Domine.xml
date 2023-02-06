@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Mou2004-Salva_nos,_domine</work-title>
+  <work-title>Mou2004-Salva_nos,_Domine</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Mouton</creator>
@@ -73,10 +73,10 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="218" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2004-Salva_nos,_domine</credit-words>
+  <credit-words default-x="785" default-y="218" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2004-Salva_nos,_Domine</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="785" default-y="165" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Salva nos, domine</credit-words>
+  <credit-words default-x="785" default-y="165" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Salva nos, Domine</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="1461" default-y="133" font-family="Times New Roman" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Jean Mouton</credit-words>

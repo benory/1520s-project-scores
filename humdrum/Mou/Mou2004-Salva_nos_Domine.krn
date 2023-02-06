@@ -2,7 +2,7 @@
 !!!SCT: Zenck (1952)
 !!!voices: 6
 !!!COM: Jean Mouton
-!!!OTL: Salva nos, domine
+!!!OTL: Salva nos, Domine
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -13,8 +13,8 @@
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Prima pars: Salva nos, domine
-!!!OMD: Prima pars: Salva nos, domine
+!!section: Prima pars: Salva nos, Domine
+!!!OMD: Prima pars: Salva nos, Domine
 !	!	!	!	!	!	!LO:TX:a:t=Canon&colon; tenor I/tenor II at the lower fourth	!	!	!	!	!
 0GG	Sal-	1D	Sal-	0r	.	0r	.	0r	.	0r	.
 .	.	2E	-va	.	.	.	.	.	.	.	.
