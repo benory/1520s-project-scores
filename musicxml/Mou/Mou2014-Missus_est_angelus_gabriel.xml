@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Mou2014-Missus_est_angelus_gabriel</work-title>
+  <work-title>Mou2014-Missus_est_angelus_Gabriel</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Mouton?</creator>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="186" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2014-Missus_est_angelus_gabriel</credit-words>
+  <credit-words default-x="785" default-y="186" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Mou2014-Missus_est_angelus_Gabriel</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="118" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Hic erit magnus</credit-words>
