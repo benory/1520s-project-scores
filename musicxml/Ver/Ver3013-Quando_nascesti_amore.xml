@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Ver3013-Quando_nascesti,_Amore?</work-title>
+  <work-title>Ver3013-Quando_nascesti,_amore?</work-title>
  </work>
  <identification>
   <creator type="composer">Philippe Verdelot</creator>
@@ -71,10 +71,10 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="173" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Ver3013-Quando_nascesti,_Amore?</credit-words>
+  <credit-words default-x="785" default-y="173" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Ver3013-Quando_nascesti,_amore?</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="785" default-y="118" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Section: Quando nascesti, Amore?</credit-words>
+  <credit-words default-x="785" default-y="118" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Section: Quando nascesti, amore?</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="1461" default-y="94" font-family="Times New Roman" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Philippe Verdelot</credit-words>
