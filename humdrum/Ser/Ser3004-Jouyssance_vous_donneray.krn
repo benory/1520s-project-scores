@@ -1,5 +1,5 @@
 !!!AGN: Chanson
-!!!SCT: Christoffersen (1994)
+!!!SCT: Cazeaux_1974a; Christoffersen_1994
 !!!voices: 3
 !!!COM: Claudin de Sermisy
 !!!OTL: Jouyssance vous donneray
@@ -13,62 +13,62 @@
 *F:	*F:	*F:
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
-=1	=1	=1
+1r	1r	1r
 2r	2r	2r
 2G	2G	2g
-=2	=2	=2
+=1	=1	=1
 2G	2G	2g
 2G	2B-y	2g
 2F	2A	2a
 [2G	2G	[2b-y
-=3	=3	=3
+=2	=2	=2
 4G]	1.B-y	4b-]
 4F	.	4a
 4E	.	4g
 4D	.	4f
 2E	.	2g
 2E	2c	2g
-=4	=4	=4
+=3	=3	=3
 2D	1d	2f
 2G	.	2b-y
 2G	2r	2b-y
 2G	2d	2b-y
-=5	=5	=5
+=4	=4	=4
 1.B-y	2d	1.dd
 .	2d	.
 .	[1f	.
 2A	.	2cc
-=6	=6	=6
+=5	=5	=5
 2F	2f]	2a
 2A	2e	2.cc
 2B-y	2d	.
 .	.	4b-y
 2G	4c	[2b-y
 .	4B-y	.
-=7	=7	=7
+=6	=6	=6
 1F	2c	2b-]
 .	2c	2a
 1BB-y	1B-y	1b-y
-=8	=8	=8
+=7	=7	=7
 2G	2r	2r
 2D	2d	1a
 2F	2A	.
 [2C	2c	2e
-=9	=9	=9
+=8	=8	=8
 4C]	2.G	1.g
 4BB-y	.	.
 4C	.	.
 4D	4F	.
 2E-i	2G	.
 2D	2A	2f
-=10	=10	=10
+=9	=9	=9
 2BB-y	2B-y	2.d
 2C	2G	.
 .	.	4e
 2.D	2F	2f
 .	[2f	2g
 4E	.	.
-=11	=11	=11
+=10	=10	=10
 2F	4f]	2a
 .	4e	.
 1G	4d	2.b-y
@@ -77,72 +77,72 @@
 .	.	4a
 2D	4e-i	4cc
 .	4d	4b-y
-=12	=12	=12
+=11	=11	=11
 2F	4c	4a
 .	4B-y	4g
 2G	4A	1g
 .	4G	.
 1D	2A	.
 .	2A	2f#i
-=13	=13	=13
+=12	=12	=12
 0G	1G	1g
 .	1r	1r
-=14	=14	=14
+=13	=13	=13
 1G	1g	1b-y
 2G	2g	2b-y
 2G	2g	2b-y
-=15	=15	=15
+=14	=14	=14
 1.B-y	2.d	2.dd
 .	4e	4cc
 .	2f	2dd
 2G	2g	[2ee
-=16	=16	=16
+=15	=15	=15
 2A	2f	4ee]
 .	.	4dd
 2B-y	4e	1dd
 .	4d	.
 1A	2e	.
 .	2e	2cc#i
-=17	=17	=17
+=16	=16	=16
 2r	1d	1dd
 2D	.	.
 2D	2r	2r
 2D	2d	2a
-=18	=18	=18
+=17	=17	=17
 1G	2d	2b-y
 .	2d	2b-y
 1F	[1f	2a
 .	.	[2dd
-=19	=19	=19
+=18	=18	=18
 2D	2f]	4dd]
 .	.	4cc
 2E	2e	1cc
 2F	2d	.
 2G	4c	[2b-y
 .	4B-y	.
-=20	=20	=20
+=19	=19	=19
 1F	2c	2b-]
 .	2c	2a
 1BB-y	1B-y	1b-y
-=21	=21	=21
+=20	=20	=20
 2G	2r	2r
 2D	2d	1a
 2F	2A	.
 [2C	2c	2e
-=22	=22	=22
+=21	=21	=21
 4C]	2.G	1.g
 4BB-y	.	.
 4C	.	.
 4D	4F	.
 2E-i	2G	.
 2D	2A	2f
-=23	=23	=23
+=22	=22	=22
 2BB-y	2B-y	2d
 2C	2G	2e
 2.D	2F	2.f
 .	[2f	.
 4E	.	4g
-=24	=24	=24
+=23	=23	=23
 2F	4f]	2a
 .	4e	.
 1G	4d	2.b-y
@@ -151,14 +151,14 @@
 .	.	4a
 2C	4e-i	4cc
 .	4d	4b-y
-=25	=25	=25
+=24	=24	=24
 2F	4c	4a
 .	4B-y	4g
 2G	4A	1g
 .	4G	.
 1D	2A	.
 .	2A	2f#i
-=26	=26	=26
+=25	=25	=25
 00Gl	00Gl	00gl
 ==	==	==
 *-	*-	*-
@@ -166,8 +166,8 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Benjamin Ory
-!!!END: 2021/1/8
+!!!END: 2023/02/24
 !!!EED: Benjamin Ory
-!!!EEV: 2021/04/27
-!!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2021/04/27
+!!!EEV: 2023/02/24
+!!!YEC: Copyright 2023 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2023/02/24
