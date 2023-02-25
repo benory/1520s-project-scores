@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Sil2008-Ave_ancilla_trinitatis</work-title>
+  <work-title>Sil2010-Ave_ancilla_trinitatis</work-title>
  </work>
  <identification>
   <creator type="composer">Andreas de Silva</creator>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Sil2008-Ave_ancilla_trinitatis</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Sil2010-Ave_ancilla_trinitatis</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="78" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Ave cujus conceptio</credit-words>
