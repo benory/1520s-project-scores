@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Lhe2016-Virgo_Christi_egregia</work-title>
+  <work-title>Lhe2022-Virgo_Christi_egregia</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Lhéritier</creator>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2016-Virgo_Christi_egregia</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2022-Virgo_Christi_egregia</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="99" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Prima pars: Virgo Christi egregia</credit-words>

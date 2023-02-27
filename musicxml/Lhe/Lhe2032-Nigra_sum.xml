@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Lhe2020-Nigra_sum</work-title>
+  <work-title>Lhe2032-Nigra_sum</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Lhéritier</creator>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="178" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2020-Nigra_sum</credit-words>
+  <credit-words default-x="785" default-y="178" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2032-Nigra_sum</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="118" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Prima pars: Nigra sum</credit-words>

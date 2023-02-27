@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Lhe2011-Ave_Maria,_gratia_plena</work-title>
+  <work-title>Lhe2021-Ave_Maria,_gratia_plena</work-title>
  </work>
  <identification>
   <creator type="composer">Jean Lhéritier</creator>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="137" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2011-Ave_Maria,_gratia_plena</credit-words>
+  <credit-words default-x="785" default-y="137" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Lhe2021-Ave_Maria,_gratia_plena</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="91" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Prima pars: Ave Maria, gratia plena</credit-words>
