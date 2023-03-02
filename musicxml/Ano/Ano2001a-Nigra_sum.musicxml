@@ -10,7 +10,7 @@
   <creator type="lyricist">Ory</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2022-11-21</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
@@ -76,6 +76,9 @@
   <credit-words default-x="785" default-y="195" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Ano2001a-Nigra_sum</credit-words>
  </credit>
  <credit page="1">
+  <credit-words default-x="785" default-y="140" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Prima pars: Nigra sum</credit-words>
+ </credit>
+ <credit page="1">
   <credit-words default-x="1461" default-y="84" font-family="Palatino" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Anonymous</credit-words>
  </credit>
  <credit page="2">
@@ -92,11 +95,6 @@
  </credit>
  <part-list>
   <score-part id="P1">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Superius</part-name>
    <part-name-display>
     <display-text>Superius</display-text>
