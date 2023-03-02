@@ -7,11 +7,10 @@
  <identification>
   <creator type="composer">Noel Bauldeweyn</creator>
   <creator type="arranger">Benjamin Ory 2021/2/24</creator>
-  <creator type="lyricist">Lenaerts</creator>
   <encoding>
-   <encoding-date>2021-02-25</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 19.1.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -67,6 +66,7 @@
    <note-size type="grace">60</note-size>
   </appearance>
   <music-font font-family="Opus Std" font-size="15.5906" />
+  <word-font font-family="Times New Roman" font-size="9.3787" />
   <lyric-font font-family="Times New Roman" font-size="9.0133" />
   <lyric-language xml:lang="en" />
  </defaults>

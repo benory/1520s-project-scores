@@ -7,11 +7,10 @@
  <identification>
   <creator type="composer">Noel Bauldeweyn</creator>
   <creator type="arranger">Benjamin Ory 2021/9/24</creator>
-  <creator type="lyricist">Monumenta Musicae Belgicae (Lenaerts)</creator>
   <encoding>
-   <encoding-date>2021-09-24</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.2.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />

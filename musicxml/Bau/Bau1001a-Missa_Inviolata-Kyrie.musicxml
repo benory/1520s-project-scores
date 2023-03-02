@@ -9,9 +9,9 @@
   <creator type="arranger">Benjamin Ory 2022/3/7</creator>
   <creator type="lyricist">Ory</creator>
   <encoding>
-   <encoding-date>2022-03-07</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.12.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -154,11 +154,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P4">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Tenor II</part-name>
    <part-name-display>
     <display-text>Tenor II</display-text>

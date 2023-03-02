@@ -7,11 +7,10 @@
  <identification>
   <creator type="composer">Jean Conseil</creator>
   <creator type="arranger">Benjamin Ory 2022/4/25</creator>
-  <creator type="lyricist">SCM (Sherr)</creator>
   <encoding>
-   <encoding-date>2022-04-25</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.12.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />

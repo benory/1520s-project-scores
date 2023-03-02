@@ -7,12 +7,12 @@
  <identification>
   <creator type="composer">Noel Bauldeweyn</creator>
   <creator type="arranger">Benjamin Ory 2022/2/24</creator>
-  <creator type="lyricist">1519|3 (Ory)</creator>
+  <creator type="lyricist">Ory</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2022-02-24</encoding-date>
+   <encoding-date>2023-03-02</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 21.12.0</software>
+   <software>Sibelius 22.7.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -68,15 +68,15 @@
    <note-size type="grace">60</note-size>
   </appearance>
   <music-font font-family="Helsinki Std" font-size="15.5906" />
-  <word-font font-family="Palatino Linotype" font-size="9.3787" />
-  <lyric-font font-family="Palatino Linotype" font-size="9.0133" />
+  <word-font font-family="Palatino" font-size="9.3787" />
+  <lyric-font font-family="Palatino" font-size="9.0133" />
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="159" font-family="Palatino Linotype" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Bau2003-Quam_pulchra_es</credit-words>
+  <credit-words default-x="785" default-y="159" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Bau2003-Quam_pulchra_es</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="785" default-y="118" font-family="Palatino Linotype" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Secunda pars: Veni, dilecte mi</credit-words>
+  <credit-words default-x="785" default-y="118" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Secunda pars: Veni, dilecte mi</credit-words>
  </credit>
  <credit page="2">
   <credit-words default-x="109" default-y="1922" font-style="normal" font-weight="normal" justify="left" valign="middle">2</credit-words>
@@ -124,11 +124,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Altus</part-name>
    <part-name-display>
     <display-text>Altus</display-text>
@@ -146,11 +141,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P3">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Tenor</part-name>
    <part-name-display>
     <display-text>Tenor</display-text>
@@ -168,11 +158,6 @@
    </score-instrument>
   </score-part>
   <score-part id="P4">
-   <identification>
-    <miscellaneous>
-     <miscellaneous-field name="show-rhythms">false</miscellaneous-field>
-    </miscellaneous>
-   </identification>
    <part-name>Bassus</part-name>
    <part-name-display>
     <display-text>Bassus</display-text>
