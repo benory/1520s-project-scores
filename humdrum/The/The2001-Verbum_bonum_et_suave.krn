@@ -1,7 +1,7 @@
 !!!AGN: Motet
 !!!SCT: Minor (1974)
 !!!voices: 4
-!!!COM: Pierkin Therache
+!!!COM: Pierrequin de Therache
 !!!OTL: Verbum bonum et suave
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
@@ -15,7 +15,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Verbum bonum et suave
 !!!OMD: Prima pars: Verbum bonum et suave
-!	!	!	!LO:TX:a:t=Prima pars&colon; Verbum bonum et suave
 0r	0r	1D	1r
 .	.	[1G	1d
 =1	=1	=1	=1
