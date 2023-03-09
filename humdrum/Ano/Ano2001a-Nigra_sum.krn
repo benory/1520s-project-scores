@@ -129,15 +129,15 @@
 1D	-ra-	1f	-ra-	4g]	.
 .	.	.	.	4f	.
 .	.	.	.	1f	-ra-
-1C	-vit-	1g	-vit	.	.
+1C	.	1g	-vit	.	.
 .	.	.	.	2e	-vit
 =22	=22	=22	=22	=22	=22
 2F	.	1f	me,	0f	me,
 2D	.	.	.	.	.
 2D	.	2r	.	.	.
-2F	.	2a	sed	.	.
+2F	-vit	2a	sed	.	.
 =23	=23	=23	=23	=23	=23
-2E	-me,	2g	sum	1r	.
+2E	me,	2g	sum	1r	.
 2D	.	1f	for-	.	.
 1r	.	.	.	2r	.
 .	.	4e	.	2a	sed
@@ -249,13 +249,13 @@
 .	.	4b	.	.	.
 2A	de-	2a	.	2cc	de-
 2E	-co-	2g	.	2b	-co-
-[2A	-lo-	2a	.	[2cc	-lor-
+[2A	-lo-	2a	.	[2cc	-lo-
 =43	=43	=43	=43	=43	=43
 4A]	.	2e	-ra-	4cc]	.
 4G	.	.	.	4b	.
-2A	.	2cc	-vit	1a	-a-
+2A	.	2cc	-vit	1a	-ra-
 1E	-ra-	1b	me,	.	.
-.	.	.	.	2g	-vit
+.	.	.	.	2g#i	-vit
 =44	=44	=44	=44	=44	=44
 0A	-vit	2r	.	1a	me,
 .	.	1a	qui-	.	.
@@ -269,8 +269,8 @@
 .	.	2f	.	2a	de-
 =46	=46	=46	=46	=46	=46
 1r	.	2e	-co-	2g	-co-
-.	.	2d	-lo-	2f	-lor-
-1A	Ni-	2d	-ra-	1e	-a-
+.	.	2d	-lo-	2f	-lo-
+1A	Ni-	2d	-ra-	1e	-ra-
 .	.	2c#i	-vit	.	.
 =47	=47	=47	=47	=47	=47
 1D	-gra	1d	me.	1d	-vit
@@ -294,9 +294,9 @@
 =51	=51	=51	=51	=51	=51
 2A	sum	4cc]	.	2a	for-
 .	.	4b	.	.	.
-2A	for-	1a	-mo-	2cc	-mo-
+2A	for-	1a	.	2cc	-mo-
 1E	-mo-	.	.	1b	-sa,
-.	.	2g#i	.	.	.
+.	.	2g#i	-mo-	.	.
 =52	=52	=52	=52	=52	=52
 1A	-sa,	1a	-sa,	2a	fi-
 .	.	.	.	1cc	-li-
@@ -364,8 +364,8 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Benjamin Ory
-!!!END: 2022/1/10
+!!!END: 2023/3/9
 !!!EED: Benjamin Ory
-!!!EEV: 2022/01/10
-!!!YEC: Copyright 2022 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2022/01/10
+!!!EEV: 2023/03/09
+!!!YEC: Copyright 2023 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2023/03/09
