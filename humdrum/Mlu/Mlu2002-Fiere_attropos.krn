@@ -2,7 +2,7 @@
 !!!SCT: Lowinsky (1968)
 !!!voices: 5
 !!!COM: Pierre Moulu
-!!!OTL: Fiere tropos
+!!!OTL: Fiere attropos
 **kern	**kern	**kern	**kern	**kern
 *part5	*part4	*part3	*part2	*part1
 *staff5	*staff4	*staff3	*staff2	*staff1
@@ -13,8 +13,8 @@
 *F:	*F:	*F:	*C:	*F:
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C)	*met(C|)
-!!section: Prima pars: Fiere tropos
-!!!OMD: Prima pars: Fiere tropos
+!!section: Prima pars: Fiere attropos
+!!!OMD: Prima pars: Fiere attropos
 0r	0r	0r	0r	0G
 =1	=1	=1	=1	=1
 0r	0r	0C	0r	1G
