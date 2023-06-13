@@ -15,7 +15,6 @@
 *met(C)	*met(C)	*met(C)	*met(C)	*met(C)
 !!section: Prima pars: Confirma hoc Deus
 !!!OMD: Prima pars: Confirma hoc Deus
-!	!	!	!	!LO:TX:a:t=Prima pars&colon; Confirma hoc Deus
 0r	0r	0r	1G	0r
 .	.	.	[1G	.
 =1	=1	=1	=1	=1
@@ -273,9 +272,8 @@
 =40||	=40||	=40||	=40||	=40||
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Gloria Patri
-!!!OMD: Gloria Patri
-!	!	!	!	!LO:TX:a:t=Secunda pars&colon; Gloria Patri
+!!section: Secunda pars: Gloria Patri
+!!!OMD: Secunda pars: Gloria Patri
 0r	1r	0r	1G	0r
 .	1D	.	2.A	.
 .	.	.	4B	.

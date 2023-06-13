@@ -15,7 +15,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Pater noster
 !!!OMD: Prima pars: Pater poster
-!	!	!	!	!LO:TX:a:t=Prima Pars&colon; Pater poster
 !	!	!	!LO:TX:a:t=Canon&colon; altus/tenor I at the fifth	!
 0r	0F	0r	0r	0r
 =1	=1	=1	=1	=1
@@ -262,7 +261,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Panem nostrum
 !!!OMD: Secunda pars: Panem nostrum
-!	!	!	!	!LO:TX:a:t=Secunda Pars&colon; Panem nostrum
 !	!	!	!LO:TX:a:t=Canon&colon; altus/tenor I at the fifth	!
 1.D	1.A	0r	0F	0r
 2D	2B	.	.	.

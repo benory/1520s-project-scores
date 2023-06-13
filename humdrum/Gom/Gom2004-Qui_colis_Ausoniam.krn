@@ -15,7 +15,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Qui colis Ausoniam
 !!!OMD: Prima pars: Qui colis Ausoniam
-!	!	!	!	!	!LO:TX:a:t=Prima pars&colon; Qui colis Ausoniam
 0r	1r	0r	1.G	0r	0r
 .	[1C	.	.	.	.
 .	.	.	2G	.	.
@@ -595,7 +594,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Perpetuum Clemens
 !!!OMD: Secunda pars: Perpetuum Clemens
-!	!	!	!	!	!LO:TX:a:t=Secunda pars&colon; Perpetuum Clemens
 0r	0r	1G	0r	0r	0r
 .	.	[1d	.	.	.
 =90	=90	=90	=90	=90	=90

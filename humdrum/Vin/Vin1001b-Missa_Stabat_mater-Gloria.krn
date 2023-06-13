@@ -16,7 +16,6 @@
 *met(C)	*met(C)	*met(C)	*met(C)	*met(C)
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
-!	!	!	!	!LO:TX:a:t=Et in terra pax
 0r	1r	1.c	0r	0r
 .	[1c	.	.	.
 .	.	2c	.	.
@@ -488,7 +487,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Qui tollis
 !!!OMD: Qui tollis
-!	!	!	!	!LO:TX:a:t=Qui tollis
 0r	0r	1c	0r	0r
 .	.	2d	.	.
 .	.	[2f	.	.

@@ -15,7 +15,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Prima pars: Gloriosus Dei apostolus Bartholomeus
 !!!OMD: Prima pars: Gloriosus Dei apostolus Bartholomeus
-!	!	!	!LO:TX:a:t=Prima pars&colon; Gloriosus Dei apostolus Bartholomeus
 0r	0G	0r	0r
 =1	=1	=1	=1
 0r	1c	0r	0r
@@ -529,7 +528,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Postquam licaoniam
 !!!OMD: Secunda pars: Postquam licaoniam
-!	!	!	!LO:TX:a:t=Secunda pars&colon; Postquam licaoniam
 0r	0r	1c	0r
 .	.	1f	.
 =88	=88	=88	=88
