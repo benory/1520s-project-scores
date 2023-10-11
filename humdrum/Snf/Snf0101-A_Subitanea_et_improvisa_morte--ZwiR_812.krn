@@ -225,9 +225,14 @@
 !!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!ENC: DTÖ and Scott Leed Edwards, Stefan Gasch, Sonja Tröster
-!!!END: 2023/10/11
-!!!EED: DTÖ and Scott Leed Edwards, Stefan Gasch, Sonja Tröster
+!!!PTL: <i>New Senfl Edition: Motets for Four Voices (A-I)</i>
+!!!PPR: Hollitzer Verlag
+!!!PC#: Denkmäler der Tonkunst in Österreich 163.1
+!!!PDT: 2021
+!!!PED: Scott Lee Edwards, Stefan Gasch, and Sonja Tröster
+!!!YEC: Copyright 2021 Denkmäler der Tonkunst in Österreich
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Benjamin Ory
 !!!EEV: 2023/10/11
-!!!YEC: Copyright 2023 DTÖ, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2023/10/11
+!!!verovio: header true
+!!!header-left: @{PED}, eds. \n @{PTL}
