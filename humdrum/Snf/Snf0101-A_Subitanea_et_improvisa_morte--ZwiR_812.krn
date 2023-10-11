@@ -236,3 +236,5 @@
 !!!EEV: 2023/10/11
 !!!verovio: header true
 !!!header-left: @{PED}, eds. \n @{PTL}
+!!!header-right:
+!!!header-center:
