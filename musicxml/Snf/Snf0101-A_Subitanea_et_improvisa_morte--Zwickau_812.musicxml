@@ -2,14 +2,14 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Snf0101-A_subitanea_et_improvisa_morte_(ZwiR 81/2)</work-title>
+  <work-title>Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 81/2)</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
   <creator type="arranger">DTÖ 2023/10/11</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-10-11</encoding-date>
+   <encoding-date>2023-10-12</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte_(ZwiR 81/2)</credit-words>
+  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 81/2)</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="872" default-y="191" font-family="Adobe Garamond Pro" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: A subitanea et improvisa morte</credit-words>
@@ -165,6 +165,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="45" default-y="30" justify="left" valign="middle" font-family="Adobe Garamond Pro" font-style="normal" font-size="9.3787" font-weight="normal">Altus not extant</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note default-x="60">
     <rest />
     <duration>1024</duration>
