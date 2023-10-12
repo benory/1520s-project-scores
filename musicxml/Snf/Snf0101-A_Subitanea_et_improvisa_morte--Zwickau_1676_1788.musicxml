@@ -2,11 +2,11 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 81/2)</work-title>
+  <work-title>Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 1676-1788)</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
-  <creator type="arranger">DTÖ 2023/10/11</creator>
+  <creator type="arranger">New Senfl Edition and DTÖ 2023/10/11</creator>
   <rights>Copyright © </rights>
   <encoding>
    <encoding-date>2023-10-12</encoding-date>
@@ -72,7 +72,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 81/2)</credit-words>
+  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 1676-1788)</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="872" default-y="191" font-family="Adobe Garamond Pro" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: A subitanea et improvisa morte</credit-words>
