@@ -7,9 +7,10 @@
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
   <creator type="arranger">Benjamin Ory 2023/10/17</creator>
+  <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-10-17</encoding-date>
+   <encoding-date>2023-10-21</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -85,9 +86,9 @@
  </credit>
  <part-list>
   <score-part id="P1">
-   <part-name>Superius</part-name>
+   <part-name>Sopran</part-name>
    <part-name-display>
-    <display-text>Superius</display-text>
+    <display-text>Sopran</display-text>
    </part-name-display>
    <part-abbreviation>Superius</part-abbreviation>
    <part-abbreviation-display>
@@ -102,9 +103,9 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <part-name>Altus</part-name>
+   <part-name>Tenor</part-name>
    <part-name-display>
-    <display-text>Altus</display-text>
+    <display-text>Tenor</display-text>
    </part-name-display>
    <part-abbreviation>Altus</part-abbreviation>
    <part-abbreviation-display>
@@ -136,9 +137,9 @@
    </score-instrument>
   </score-part>
   <score-part id="P4">
-   <part-name>Bassus</part-name>
+   <part-name>Bass</part-name>
    <part-name-display>
-    <display-text>Bassus</display-text>
+    <display-text>Bass</display-text>
    </part-name-display>
    <part-abbreviation>Bassus</part-abbreviation>
    <part-abbreviation-display>
