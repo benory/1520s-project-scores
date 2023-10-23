@@ -7549,7 +7549,6 @@
    <note color="#000000" default-x="15">
     <pitch>
      <step>E</step>
-     <alter>-1</alter>
      <octave>3</octave>
     </pitch>
     <duration>1024</duration>
