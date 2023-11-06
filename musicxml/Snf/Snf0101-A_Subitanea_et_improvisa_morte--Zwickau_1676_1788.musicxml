@@ -6,10 +6,11 @@
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
-  <creator type="arranger">New Senfl Edition and DTÖ 2023/10/11</creator>
+  <creator type="arranger">Benjamin Ory 2023/10/11</creator>
+  <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-10-14</encoding-date>
+   <encoding-date>2023-11-06</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -165,6 +166,13 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="45" default-y="20" justify="left" valign="middle" font-family="Adobe Garamond Pro" font-style="normal" font-size="9.3787" font-weight="normal">Altus not extant</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note default-x="60">
     <rest />
     <duration>2048</duration>
