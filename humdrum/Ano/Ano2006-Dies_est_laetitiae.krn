@@ -271,5 +271,5 @@
 !!!EEV: 2023/11/13
 !!!verovio: header true
 !!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
-!!!header-right: @{COM}
-!!!header-center: @{OTL} \n
+!!!header-right:
+!!!header-center:
