@@ -10,7 +10,7 @@
   <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-11-12</encoding-date>
+   <encoding-date>2023-11-13</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -236,14 +236,6 @@
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
   <measure number="4" width="205">
-   <direction>
-    <direction-type>
-     <other-direction default-x="190" default-y="-20" print-object="no">Taktstrich punkt.</other-direction>
-    </direction-type>
-    <offset sound="no">2047</offset>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <note color="#000000" default-x="15">
     <pitch>
      <step>G</step>

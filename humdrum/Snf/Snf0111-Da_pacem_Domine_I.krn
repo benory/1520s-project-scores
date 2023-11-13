@@ -2,7 +2,7 @@
 !!!SCT: Edwards, Gasch, Tröster (2021)
 !!!voices: 4
 !!!COM: Ludwig Senfl
-!!!OTL: Da pacem Domine I
+!!!OTL: Da pacem, Domine I
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -13,8 +13,8 @@
 *F:	*	*F:	*	*F:	*	*F:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Prima pars: Da pacem Domine
-!!!OMD: Prima pars: Da pacem Domine
+!!section: Prima pars: Da pacem, Domine
+!!!OMD: Prima pars: Da pacem, Domine
 0r	.	0r	.	2.G	Da	0r	.
 .	.	.	.	4A	.	.	.
 .	.	.	.	4B-y	.	.	.
