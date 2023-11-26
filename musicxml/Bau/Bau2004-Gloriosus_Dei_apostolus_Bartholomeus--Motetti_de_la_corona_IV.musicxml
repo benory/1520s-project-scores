@@ -2,15 +2,15 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Bau2004-Gloriosus_Dei_apostolus_Bartholomeus_(Motetti_de_la_corona_IV)</work-title>
+  <work-title>Bau2004-Gloriosus_Dei_apostolus_Bartholomeus--Motetti_de_la_corona_IV</work-title>
  </work>
  <identification>
   <creator type="composer">Noel Bauldeweyn</creator>
   <creator type="arranger">Benjamin Ory 2021/1/4</creator>
   <encoding>
-   <encoding-date>2023-03-02</encoding-date>
+   <encoding-date>2023-11-26</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="186" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Bau2004-Gloriosus_Dei_apostolus_Bartholomeus_(Motetti_de_la_corona_IV)</credit-words>
+  <credit-words default-x="785" default-y="186" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Bau2004-Gloriosus_Dei_apostolus_Bartholomeus--Motetti_de_la_corona_IV</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="83" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda Pars: Postquam licaoniam</credit-words>

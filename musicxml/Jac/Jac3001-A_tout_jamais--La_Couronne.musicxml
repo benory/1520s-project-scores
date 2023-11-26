@@ -2,13 +2,13 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Jac3001-A_tout_jamais</work-title>
+  <work-title>Jac3001-A_tout_jamais--La_Couronne</work-title>
  </work>
  <identification>
   <creator type="composer">Jacotin Frontin?</creator>
   <creator type="arranger">Benjamin Ory 2023/11/6</creator>
   <encoding>
-   <encoding-date>2023-11-06</encoding-date>
+   <encoding-date>2023-11-26</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jac3001-A_tout_jamais</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Palatino" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Jac3001-A_tout_jamais--La_Couronne</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="91" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Section: A tout jamais</credit-words>

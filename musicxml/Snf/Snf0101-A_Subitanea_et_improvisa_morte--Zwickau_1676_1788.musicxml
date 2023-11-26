@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 1676-1788)</work-title>
+  <work-title>Snf0101-A_subitanea_et_improvisa_morte--Zwickau_1676_1788</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
@@ -10,7 +10,7 @@
   <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-11-06</encoding-date>
+   <encoding-date>2023-11-26</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -73,7 +73,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte_(Zwickau 1676-1788)</credit-words>
+  <credit-words default-x="872" default-y="270" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0101-A_subitanea_et_improvisa_morte--Zwickau_1676_1788</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="872" default-y="191" font-family="Adobe Garamond Pro" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: A subitanea et improvisa morte</credit-words>

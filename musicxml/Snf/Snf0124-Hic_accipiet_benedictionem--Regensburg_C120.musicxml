@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Snf0124-Hic_accipiet_benedictionem_(Regensburg_C120)</work-title>
+  <work-title>Snf0124-Hic_accipiet_benedictionem--Regensburg_C120</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
@@ -10,7 +10,7 @@
   <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-10-21</encoding-date>
+   <encoding-date>2023-11-26</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.8.0</software>
    <software>Direct export, not from Dolet</software>
@@ -73,7 +73,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="345" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0124-Hic_accipiet_benedictionem_(Regensburg_C120)</credit-words>
+  <credit-words default-x="872" default-y="345" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0124-Hic_accipiet_benedictionem--Regensburg_C120</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="872" default-y="187" font-family="Adobe Garamond Pro" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Prima pars: Hic accipiet benedictionem</credit-words>
