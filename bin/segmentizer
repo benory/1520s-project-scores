@@ -1,0 +1,74 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Jacek Iwaszko
+# Creation Date: Thu Aug 06 14:28:34 CEST 2019
+# Last Modified: Sun Dec 17 09:19:07 AM PST 2023
+# Filename:      segmentizer
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Script fixing or adding !!!!SEGMENT: [filename] line
+#                at the begining of the file.
+#
+# Usage:         segmentizer file(s) [dir(s)]
+#
+#
+
+use strict;
+
+my @files = sort @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+#################################################################
+
+
+#############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($filename) = @_;
+	my $debugQ;
+	open(FILE, $filename) or next;
+	my @contents = <FILE>;
+	close(FILE);
+	my $filebase = $filename;
+	$filebase =~ s/.*\///;
+	my @checkSegment = grep(/SEGMENT:/, @contents);
+	if (@checkSegment > 0) {
+		for (my $i = 0; $i < @contents; $i++) {
+			if ($contents[$i] =~ /SEGMENT/) {
+				if ($contents[$i] ne "!!!!SEGMENT: $filebase\n") {
+					my $old = $contents[$i];
+					chomp $old;
+					$contents[$i] = "!!!!SEGMENT: $filebase\n";
+					print "UPDATING\t$filebase...\n";
+					print "$filebase\t$old => $contents[$i]";
+					open(FILE, ">", $filename);
+					print FILE @contents;
+					close(FILE);
+					last;
+				} else {
+					print "$filebase\tOK\n" if $debugQ;
+				}
+			}
+		}
+	} else {
+		print "$filebase\tno SEGMENT\n" if $debugQ;
+		print "UPDATING\t$filebase...\n";
+		print "$filebase\t+++!!!!SEGMENT: $filebase\n";
+		open(FILE, ">", $filename);
+		print FILE "!!!!SEGMENT: $filebase\n";
+		print FILE @contents;
+		close(FILE);
+	}
+}
+
+
+
