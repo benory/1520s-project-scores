@@ -1,0 +1,80 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp (craig@ccrma.stanford.edu)
+# Creation Date: Wed Dec 13 15:08:00 PST 2023
+# Last Modified: Sun Dec 17 09:27:17 AM PST 2023
+# Filename:      addId
+# Syntax:        perl 5
+#
+# Description:   Add !!!id entry to file, taken from !!!!SEGMENT:.
+#
+# Usage:         addId file(s)
+#
+#
+
+use strict;
+
+my @files = sort @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+#################################################################
+
+
+#############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($filename) = @_;
+	open(FILE, $filename) or return;
+	return if -l $filename;
+	my @contents = <FILE>;
+	chomp @contents;
+	close(FILE);
+
+	my $segmentIndex = -1;
+	my $idIndex = -1;
+	my $name = "";
+	my $changed = 0;
+	my $testId = "";
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^!!!!SEGMENT:\s*(.*)\s*$/) {
+			$name = $1;
+			$segmentIndex = $i;
+		} elsif ($line =~ /^!!!id:\s*(.*)\s*$/) {
+			$testId = $1;
+			$idIndex = $i;
+		}
+	}
+
+	my $sid = $name;
+	$sid =~ s/.*\///;
+	$sid =~ s/-.*//;
+	next if $sid =~ /^\s*$/;
+	if ($idIndex >= 0) {
+		next if $sid eq $testId;
+		$changed = 1;
+		$contents[$idIndex] = "!!!id: $sid";
+	} elsif ($segmentIndex >= 0) {
+		# Add id line
+		$contents[$segmentIndex] .= "\n!!!id: $sid";
+		$changed = 1;
+	}
+	return if !$changed;
+	open(FILE, ">$filename") or die "Cannot write $filename\n";
+	for (my $i=0; $i<@contents; $i++) {
+		print FILE "$contents[$i]\n";
+	}
+	close FILE;
+}
+
+
+

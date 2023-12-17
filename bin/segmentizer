@@ -10,7 +10,7 @@
 # Description:   Script fixing or adding !!!!SEGMENT: [filename] line
 #                at the begining of the file.
 #
-# Usage:         segmentizer file(s) [dir(s)]
+# Usage:         segmentizer file(s)
 #
 #
 
