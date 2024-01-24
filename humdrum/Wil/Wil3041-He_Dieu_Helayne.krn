@@ -147,10 +147,12 @@
 *	*Xtuplet	*
 0G	3%4G	[0B
 .	3%2d	.
-=23	=23	=23
 *	*tuplet	*
+=23	=23	=23
 *M3/1	*M3/1	*M3/1
 *met(3)	*met()	*met()
+!!primary-mensuration: 3
+!	!	!LO:N:vis=0
 1r	1d	0.B]
 1r	1d	.
 1G	1e	.
