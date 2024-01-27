@@ -1,7 +1,7 @@
 
 
 
-humdrum: segment id
+humdrum: segment id newlines
 
 
 
@@ -51,6 +51,28 @@ id:
 
 notecount:
 	@bin/getWorkIdList | bin/makeNoteCounts
+
+
+
+#############################
+##
+## newlines: Add a newline to the end of a file if there is none.
+##           This can happen when editing in VHV since the editor
+##           likes to eat the last newlines.  Having a text file
+##           with new ending newline can cause problems in various
+##           programs.
+##
+
+nl: newlines
+newline: newlines
+newlines:
+	@for file in humdrum/[A-Z][a-z][a-z]/*.krn; do           \
+		if [ $$(tail -c 1 $$file | od -An -tx1 | sed -e 's/[\t ]*//g') != "0a" ]; then  \
+			echo "Adding newline to end of $$file"; \
+			echo >> $$file;                         \
+		fi;                                             \
+        done
+
 
 
 
