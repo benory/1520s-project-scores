@@ -1,4 +1,7 @@
+!!!SEGMENT: Gsc2010-Christus_vincit_Christus_regnat.krn
+!!!id: Gsc2010
 !!!AGN: Motet
+!!!SCT: Simon Frisch
 !!!voices: 4
 !!!COM: Mathieu Gascongne
 !!!OTL: Christus vincit, Christus regnat
@@ -944,6 +947,7 @@
 !!!EEV: 2024/01/28
 !!!YEC: Copyright 2024 Simon Frisch, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2024/01/28
+!!!verovio: header true
 !!!header-left: Ed. @{ENC}\n
 !!!header-right: 
 !!!header-center: 
