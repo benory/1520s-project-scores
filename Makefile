@@ -54,6 +54,24 @@ notecount:
 
 
 
+##############################
+##
+## fix-barlines: Fix cases where the first measure has missing first barline
+##    Causing a pickup interpretation due to 2/2 being used as the meter rather
+##    than 4/2 for cut-c.
+##
+
+barlines: fix-barlines;
+barline: fix-barlines;
+fb: fix-barlines
+fixbarline: fix-barlines
+fixbarlines: fix-barlines
+fix-barline: fix-barlines
+fix-barlines:
+	@bin/fixBarnums
+
+
+
 #############################
 ##
 ## newlines: Add a newline to the end of a file if there is none.
