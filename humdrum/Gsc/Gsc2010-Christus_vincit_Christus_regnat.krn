@@ -945,5 +945,5 @@
 !!!YEC: Copyright 2024 Simon Frisch, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2024/01/28
 !!!header-left: @{ENC}&nbsp;\n
-!!!header-right: @{COM}
-!!!header-center: @{OTL}
+!!!header-right:
+!!!header-center:
