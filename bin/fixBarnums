@@ -128,7 +128,7 @@ sub processFile {
 				return;
 			}
 		}
- 		`mv -f temp "$filename"`;
+		`mv -f temp "$filename"`;
 
 	}
 	if (-r "temp") {
@@ -143,7 +143,7 @@ sub processFile {
 	# As a for loop in the bash terminal to fix all files in a directory::
 	#
 	# for file in *.krn
-   #    barnum -r "$file.krn" | barnum > "$file-temp" && mv "$file-temp" "$file"
+	#    barnum -r "$file.krn" | barnum > "$file-temp" && mv "$file-temp" "$file"
 	# done
 	#
 
