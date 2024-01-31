@@ -1,0 +1,236 @@
+!!!AGN: Motet
+!!!SCT: Edwards, Gasch, Tröster (2022)
+!!!voices: 4
+!!!COM: Ludwig Senfl
+!!!OTL: Suscepimus Deus misericordiam tuam
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Prima pars: Suscepimus Deus misericordiam tuam
+!!!OMD: Prima pars: Suscepimus Deus misericordiam tuam
+=1	=1	=1	=1	=1	=1	=1	=1
+0r	.	0r	.	0r	.	1g	Su-
+.	.	.	.	.	.	1g	-sce-
+=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	1d	Su-	1a	-pi-
+.	.	.	.	1d	-sce-	1a	-mus,
+=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0r	.	1e	-pi-	1g	De-
+.	.	.	.	1e	-mus,	2g	-us,
+.	.	.	.	.	.	2g	mi-
+=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	0r	.	1d	De-	1f	-se-
+.	.	.	.	2d	-us,	1a	-ri-
+.	.	.	.	2d	mi-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	0r	.	2c	-se-	1cc	-cor-
+.	.	.	.	2e	-ri-	.	.
+.	.	.	.	1g	-cor-	1b	-di-
+=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	0r	.	1f	-di-	1a	-am
+.	.	.	.	1e	-am	2r	.
+.	.	.	.	.	.	2b	tu-
+=7	=7	=7	=7	=7	=7	=7	=7
+0r	.	0r	.	2r	.	1cc	-am,
+.	.	.	.	2e	tu-	.	.
+.	.	.	.	2.f	.	2r	.
+.	.	.	.	.	.	2a	tu-
+.	.	.	.	4e	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+0r	.	0r	.	4d	.	2f	.
+.	.	.	.	4c	.	.	.
+.	.	.	.	1d	.	2a	.
+.	.	.	.	.	.	1g	.
+.	.	.	.	2c	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+0r	.	0r	.	2d	-am	1f	.
+.	.	.	.	2.A	in	.	.
+.	.	.	.	.	.	1a	-am
+.	.	.	.	4B	.	.	.
+.	.	.	.	4c	.	.	.
+.	.	.	.	4d	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+0r	.	0G	Su-	2e	.	4g	in
+.	.	.	.	.	.	4a	.
+.	.	.	.	1d	me-	4b	.
+.	.	.	.	.	.	4cc	.
+.	.	.	.	.	.	4dd	.
+.	.	.	.	.	.	4b	.
+.	.	.	.	[2g	-di-	2ee	.
+=11	=11	=11	=11	=11	=11	=11	=11
+0r	.	0G	-sce-	4g]	.	2dd	me-
+.	.	.	.	4f	.	.	.
+.	.	.	.	2e	.	2cc	-di-
+.	.	.	.	2.d	-o	1b	-o
+.	.	.	.	4e	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+0D	Su-	0A	-pi-	2.f	.	2.a	tem-
+.	.	.	.	4e	.	4g	.
+.	.	.	.	2.d	.	4f	.
+.	.	.	.	.	.	4e	.
+.	.	.	.	.	.	[2f	-pli
+.	.	.	.	8cL	.	.	.
+.	.	.	.	8BJ	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+0D	-sce-	0A	-mus,	2A	.	2f]	.
+.	.	.	.	1F	.	4d	tu-
+.	.	.	.	.	.	4e	.
+.	.	.	.	.	.	4f	.
+.	.	.	.	.	.	4g	.
+.	.	.	.	2f	tem-	4a	.
+.	.	.	.	.	.	4b	.
+=14	=14	=14	=14	=14	=14	=14	=14
+0E	-pi-	1G	De-	2e	.	2cc	.
+.	.	.	.	2.g	-pli	1b	.
+.	.	1G	-us,	.	.	.	.
+.	.	.	.	4f	.	.	.
+.	.	.	.	4e	.	[2ee	.
+.	.	.	.	4d	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+0E	-mus,	1r	.	2c	.	2ee]	.
+.	.	.	.	1g	tu-	4dd	.
+.	.	.	.	.	.	4cc	.
+.	.	1G	mi-	.	.	2b	.
+.	.	.	.	2e	.	2cc	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1D	De-	0F	-se-	2f	.	2dd	.
+.	.	.	.	2d	.	2.ff	.
+1D	-us,	.	.	2.f	.	.	.
+.	.	.	.	.	.	4ee	.
+.	.	.	.	.	.	[2dd	.
+.	.	.	.	4g	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1r	.	0A	-ri-	1e	.	2dd]	.
+.	.	.	.	.	.	2cc#i	.
+1D	mi-	.	.	2d	.	1dd	.
+.	.	.	.	2f	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1C	-se-	0c	-cor-	1e	-i,	0g	-i,
+1E	-ri-	.	.	2r	.	.	.
+.	.	.	.	[2e	tu-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+0G	-cor-	0B	-di-	2e]	.	1r	.
+.	.	.	.	4d	.	.	.
+.	.	.	.	4c	.	.	.
+.	.	.	.	2d	.	2r	.
+.	.	.	.	2e	.	2g	tu-
+=20	=20	=20	=20	=20	=20	=20	=20
+0F	-di-	0A	-am	2f	.	2a	.
+.	.	.	.	1e	.	1cc	.
+.	.	.	.	2d	.	4b	.
+.	.	.	.	.	.	4a	.
+=21	=21	=21	=21	=21	=21	=21	=21
+0E	-am	1r	.	2.e	-i,	2g	.
+.	.	.	.	.	.	2cc	.
+.	.	.	.	4f	.	.	.
+.	.	1B	tu-	2g	.	4b	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	2G	in	4g	.
+.	.	.	.	.	.	4f	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	0c	-am	2A	me-	2e	.
+.	.	.	.	2F	.	2a	.
+1E	tu-	.	.	1G	-di-	4g	.
+.	.	.	.	.	.	4f	.
+.	.	.	.	.	.	4e	.
+.	.	.	.	.	.	4d	.
+=23	=23	=23	=23	=23	=23	=23	=23
+0F	-am	1r	.	2.A	-o	1c	-i,
+.	.	.	.	4B	.	.	.
+.	.	1A	in	2c	.	2r	.
+.	.	.	.	[2d	.	[2f	in
+=24	=24	=24	=24	=24	=24	=24	=24
+0r	.	1F	me-	4d]	.	4f]	.
+.	.	.	.	4e	.	4g	.
+.	.	.	.	1f	.	4a	me-
+.	.	.	.	.	.	4b	.
+.	.	1A	-di-	.	.	4cc	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	4e	.	[2dd	.
+.	.	.	.	4d	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1r	.	0A	-o	1.e	.	2dd]	.
+.	.	.	.	.	.	2cc#i	-di-
+1D	in	.	.	.	.	[1dd	-o
+.	.	.	.	[2d	tem-	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1BB-X	me-	0r	.	4d]	.	2dd]	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	2.f	.	4cc	.
+.	.	.	.	.	.	4b	.
+1D	-di-	.	.	.	.	2a	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	4d	.	[2b-X	tem-
+.	.	.	.	4c	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+0D	-o	0F	tem-	2d	.	4b-]	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	4c	.	1a	.
+.	.	.	.	4B	.	.	.
+.	.	.	.	2A	.	.	.
+.	.	.	.	2B	.	4g	.
+.	.	.	.	.	.	4f	.
+=28	=28	=28	=28	=28	=28	=28	=28
+0r	.	0A	-pli	2c	-pli	2e	.
+.	.	.	.	4F	tu-	2f	-pli
+.	.	.	.	4G	.	.	.
+.	.	.	.	4A	.	4e	tu-
+.	.	.	.	4B	.	4d	.
+.	.	.	.	4c	.	4e	.
+.	.	.	.	4d	.	4f	.
+=29	=29	=29	=29	=29	=29	=29	=29
+0C	tem-	0G	tu-	4e	.	1g	-i,
+.	.	.	.	4d	.	.	.
+.	.	.	.	2e	.	.	.
+.	.	.	.	2.d	.	2r	.
+.	.	.	.	.	.	[2g	tem-
+.	.	.	.	4c	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+0E	-pli	1G	-i,	1c	.	2g]	.
+.	.	.	.	.	.	2g	-pli
+.	.	2r	.	2B	.	1g	tu-
+.	.	2G	tem-	2c	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+0D	tu-	2B	.	0d	-i,	2.f	.
+.	.	1A	-pli	.	.	.	.
+.	.	.	.	.	.	4g	.
+.	.	.	.	.	.	2a	.
+.	.	[2B	tu-	.	.	[2d	.
+=32	=32	=32	=32	=32	=32	=32	=32
+1D	-i,	2B]	.	1r	.	2d]	.
+.	.	4A	.	.	.	1g	.
+.	.	4G	.	.	.	.	.
+2r	.	1A	.	1c	tem-	.	.
+2F	tem-	.	.	.	.	2f#i	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2E	.	[0Gl	-i.	1e	-pli	[0gl	-i.
+2C	-pli	.	.	.	.	.	.
+1G	tu-	.	.	1d	tu-	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+00GGl	-i.	00G]	.	00dl	-i.	00g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: <i> New Senfl Edition: Motets for Four Voices (N-V) </i>
+!!!PPR: Hollitzer Verlag
+!!!PC#: Denkmäler der Tonkunst in Österreich 163.2
+!!!PDT: 2022
+!!!PED: Scott Lee Edwards, Stefan Gasch, and Sonja Tröster
+!!!YEC: Copyright 2022 Denkmäler der Tonkunst in Österreich
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Benjamin Ory
+!!!EEV: 2024/1/31
+!!!verovio: header true
+!!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
+!!!header-right:
+!!!header-center:
