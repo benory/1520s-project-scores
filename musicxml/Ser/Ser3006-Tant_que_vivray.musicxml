@@ -8,7 +8,7 @@
   <creator type="composer">Claudin de Sermisy</creator>
   <creator type="arranger">Benjamin Ory 2023/2/12</creator>
   <encoding>
-   <encoding-date>2024-02-12</encoding-date>
+   <encoding-date>2024-02-13</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 23.11.1</software>
    <software>Direct export, not from Dolet</software>
@@ -3691,7 +3691,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>F&apos;y</text>
+     <text>Fy</text>
     </lyric>
    </note>
    <note color="#000000" default-x="146" default-y="-10">
