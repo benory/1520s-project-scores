@@ -481,5 +481,5 @@
 !!!EEV: 2024/2/14
 !!!verovio: header true
 !!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
-!!!header-right: @{COM}
-!!!header-center: @{OTL}
+!!!header-right:
+!!!header-center:
