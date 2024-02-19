@@ -71,6 +71,7 @@ sub processFile {
 		}
 	}
 
+	my $ok = 0;
 	if ($firstNoteIndex < 0) {
 		# Strange error: no notes in score.
 		return;
@@ -83,33 +84,35 @@ sub processFile {
 
 	if ($firstBarlineIndex < $firstNoteIndex) {
 		# Barline before first note line, so nothing to do.
-		return;
+		$ok = 1;
 	}
 
 	# Need to insert a barline before note line and then renumber the barlines:
 
-	# Create the barline:
-	my @tokens = split(/\t+/, $contents[$firstNoteIndex]);
-	my $barline = "";
-	for (my $i=0; $i<@tokens; $i++) {
-		$barline .= "=\t";
-	}
-	$barline =~ s/\t*$//;
+	if (!$ok) {
+		# Create the barline:
+		my @tokens = split(/\t+/, $contents[$firstNoteIndex]);
+		my $barline = "";
+		for (my $i=0; $i<@tokens; $i++) {
+			$barline .= "=\t";
+		}
+		$barline =~ s/\t*$//;
 
-	# Insert the barline before the first note line:
-	$contents[$firstNoteIndex] = "$barline\n$contents[$firstNoteIndex]";
+		# Insert the barline before the first note line:
+		$contents[$firstNoteIndex] = "$barline\n$contents[$firstNoteIndex]";
 
-	# Update the file:
-	print STDERR "Fixing barlines in $filename...\n";
-	open(FILE, ">$filename") or die "Cannot write to $filename\n";
-	for (my $i=0; $i<@contents; $i++) {
-		print FILE "$contents[$i]\n";
+		# Update the file:
+		print STDERR "Fixing barlines in $filename...\n";
+		open(FILE, ">$filename") or die "Cannot write to $filename\n";
+		for (my $i=0; $i<@contents; $i++) {
+			print FILE "$contents[$i]\n";
+		}
+		close FILE;
 	}
-	close FILE;
 
 	# Now renumber the barlines:
 	`rm -f temp`;
-	my $command = "cat '$filename' | $barnum -r | $barnum > temp";
+	my $command = "cat '$filename' | $barnum -r | $barnum -a > temp";
 	`$command`;
 	if (!-r "temp") {
 		print STDERR "Problem processing $filename\n";
@@ -138,12 +141,12 @@ sub processFile {
 	# There can be internal problems with time signatures, these can
 	# be fixed by correcting the time signature (such as 2/2 to 2/1)
 	# before running this script, or type this command to fix one file:
-	# barnum -r input.krn | barnum > output.krn && mv output.krn input.krn
+	# barnum -r input.krn | barnum -a > output.krn && mv output.krn input.krn
 	#
 	# As a for loop in the bash terminal to fix all files in a directory::
 	#
 	# for file in *.krn
-	#    barnum -r "$file.krn" | barnum > "$file-temp" && mv "$file-temp" "$file"
+	#    barnum -r "$file.krn" | barnum -a > "$file-temp" && mv "$file-temp" "$file"
 	# done
 	#
 
