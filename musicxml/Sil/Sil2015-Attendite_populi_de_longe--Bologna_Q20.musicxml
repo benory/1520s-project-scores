@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Sil2018-Attendite_populi_de_longe</work-title>
+  <work-title>Sil2018-Attendite_populi_de_longe--Bologna_Q20</work-title>
  </work>
  <identification>
   <creator type="composer">Andreas de Silva</creator>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Sil2018-Attendite_populi_de_longe</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Sil2018-Attendite_populi_de_longe--Bologna_Q20</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="77" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Secunda pars: Et in aventis eius</credit-words>
