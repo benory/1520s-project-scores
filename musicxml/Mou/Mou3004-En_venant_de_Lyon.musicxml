@@ -8,9 +8,9 @@
   <creator type="composer">Jean Mouton</creator>
   <creator type="arranger">Benjamin Ory 2021/1/6</creator>
   <encoding>
-   <encoding-date>2023-03-03</encoding-date>
+   <encoding-date>2024-04-05</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -157,7 +157,7 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="292">
+  <measure number="1" width="293">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -173,9 +173,9 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staves>1</staves>
     <clef number="1" color="#000000">
@@ -194,7 +194,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="216">
+  <measure number="2" width="215">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -241,7 +241,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="216">
+  <measure number="4" width="215">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -1375,7 +1375,7 @@
  </part>
  <part id="P2">
   <!--============== Part: P2, Measure: 1 ==============-->
-  <measure number="1" width="292">
+  <measure number="1" width="293">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -1393,9 +1393,9 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staves>1</staves>
     <clef number="1" color="#000000">
@@ -1414,7 +1414,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 2 ==============-->
-  <measure number="2" width="216">
+  <measure number="2" width="215">
    <note color="#000000" default-x="15">
     <pitch>
      <step>C</step>
@@ -1461,7 +1461,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 4 ==============-->
-  <measure number="4" width="216">
+  <measure number="4" width="215">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -2642,7 +2642,7 @@
  </part>
  <part id="P3">
   <!--============== Part: P3, Measure: 1 ==============-->
-  <measure number="1" width="292">
+  <measure number="1" width="293">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -2660,9 +2660,9 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staves>1</staves>
     <clef number="1" color="#000000">
@@ -2685,7 +2685,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="191">
+   <note color="#000000" default-x="192">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -2698,7 +2698,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 2 ==============-->
-  <measure number="2" width="216">
+  <measure number="2" width="215">
    <note color="#000000" default-x="15">
     <pitch>
      <step>A</step>
@@ -2735,7 +2735,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 4 ==============-->
-  <measure number="4" width="216">
+  <measure number="4" width="215">
    <note color="#000000" default-x="15">
     <pitch>
      <step>B</step>
@@ -2781,7 +2781,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="233" default-y="5">
+   <note color="#000000" default-x="234" default-y="5">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -3921,7 +3921,7 @@
  </part>
  <part id="P4">
   <!--============== Part: P4, Measure: 1 ==============-->
-  <measure number="1" width="292">
+  <measure number="1" width="293">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -3939,9 +3939,9 @@
      <fifths>-1</fifths>
      <mode>major</mode>
     </key>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staves>1</staves>
     <clef number="1" color="#000000">
@@ -3968,7 +3968,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="191">
+   <note color="#000000" default-x="192">
     <pitch>
      <step>E</step>
      <octave>3</octave>
@@ -3981,7 +3981,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 2 ==============-->
-  <measure number="2" width="216">
+  <measure number="2" width="215">
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -4025,7 +4025,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 4 ==============-->
-  <measure number="4" width="216">
+  <measure number="4" width="215">
    <note color="#000000" default-x="15">
     <pitch>
      <step>G</step>
@@ -4059,7 +4059,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="87" default-y="-55">
+   <note color="#000000" default-x="88" default-y="-55">
     <pitch>
      <step>D</step>
      <octave>3</octave>
@@ -4083,7 +4083,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="233" default-y="-40">
+   <note color="#000000" default-x="234" default-y="-40">
     <pitch>
      <step>G</step>
      <octave>3</octave>
