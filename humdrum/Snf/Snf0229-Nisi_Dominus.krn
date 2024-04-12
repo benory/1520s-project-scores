@@ -800,7 +800,7 @@
 !!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Benjamin Ory
 !!!EEV: 2024/3/9
-!!!verovio: header true
+!!!verovio: header encoded
 !!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
 !!!header-right: @{COM}
 !!!header-center: @{OTL}
