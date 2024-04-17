@@ -2,15 +2,15 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Ano2007-Pavane_III--Second_livre_contenant_trois_Gaillardes</work-title>
+  <work-title>Ano3001-Pavane_III--Second_livre_contenant_trois_Gaillardes</work-title>
  </work>
  <identification>
   <creator type="composer">Anonymous</creator>
   <creator type="arranger">Benjamin Ory 2024/2/28</creator>
   <encoding>
-   <encoding-date>2024-02-28</encoding-date>
+   <encoding-date>2024-04-17</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 23.11.1</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="799" default-y="155" font-family="Palatino" font-style="normal" font-size="16.9813" font-weight="normal" justify="center" valign="middle">Ano2007-Pavane_III--Second_livre_contenant_trois_Gaillardes</credit-words>
+  <credit-words default-x="799" default-y="155" font-family="Palatino" font-style="normal" font-size="16.9813" font-weight="normal" justify="center" valign="middle">Ano3001-Pavane_III--Second_livre_contenant_trois_Gaillardes</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="799" default-y="105" font-family="Palatino" font-style="normal" font-size="9.2082" font-weight="normal" justify="center" valign="middle">Section: Pavane</credit-words>
