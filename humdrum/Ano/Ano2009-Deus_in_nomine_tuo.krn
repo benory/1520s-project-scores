@@ -443,7 +443,7 @@
 .	.	2G	me-	2c	me-	.	.
 =85	=85	=85	=85	=85	=85	=85	=85
 00D	-e.	00A	-e.	00d	-e.	00f	-e.
-==86	==86	==86	==86	==86	==86	==86	==86
+=86||	=86||	=86||	=86||	=86||	=86||	=86||	=86||
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Secunda pars: Averte mala
@@ -762,4 +762,4 @@
 !!!verovio: header encoded
 !!!header-left: Edited by @{ENC} (2024)\n
 !!!header-right:
-!!!header-center: 
+!!!header-center:
