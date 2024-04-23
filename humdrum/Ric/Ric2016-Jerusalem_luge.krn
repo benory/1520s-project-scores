@@ -1,7 +1,6 @@
 !!!!SEGMENT: Ric2016-Jerusalem_luge.krn
 !!!id: Ric2016
 !!!AGN: Motet
-!!!SCT: Elzinga (1999)
 !!!voices: 5
 !!!COM: Jean Richafort
 !!!OTL: Jerusalem luge
@@ -344,7 +343,6 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Secunda pars: Deduc quasi torrentem
 !!!OMD: Secunda pars: Deduc quasi torrentem
-!	!	!	!	!	!	!	!	!LO:TX:a:t=Secunda Pars&colon; Deduc quasi torrentem	!
 0F	De-	0F	De-	0r	.	0r	.	0r	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 1D	-duc	1B-y	-duc	0r	.	0r	.	0r	.

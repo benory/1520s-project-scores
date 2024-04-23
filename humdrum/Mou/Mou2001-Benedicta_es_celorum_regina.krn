@@ -1,7 +1,6 @@
 !!!!SEGMENT: Mou2001-Benedicta_es_celorum_regina.krn
 !!!id: Mou2001
 !!!AGN: Motet
-!!!SCT: CRIM
 !!!voices: 4
 !!!COM: Jean Mouton
 !!!OTL: Benedicta es celorum regina
@@ -422,7 +421,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Per illud ave 
 !!!OMD: Secunda pars: Per illud ave
-!	!	!	!LO:TX:a:t=Secunda pars&colon; Per illud ave 
 1D	0r	0r	0r
 [1F	.	.	.
 =80	=80	=80	=80

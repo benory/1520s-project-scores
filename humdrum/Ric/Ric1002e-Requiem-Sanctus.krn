@@ -1,7 +1,6 @@
 !!!!SEGMENT: Ric1002e-Requiem-Sanctus.krn
 !!!id: Ric1002e
 !!!AGN: Mass; Sanctus
-!!!SCT: Elzinga (1979)
 !!!voices: 6
 !!!COM: Jean Richafort
 !!!OTL: Sanctus
@@ -257,7 +256,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Benedictus
 !!!OMD: Benedictus
-!	!	!	!	!	!LO:TX:a:t=Benedictus
 !	!LO:TX:a:t=Canon&colon; tenor III/tenor II at the fifth	!	!	!	!
 0AA	0r	0r	[0A	0e	0r
 =43	=43	=43	=43	=43	=43

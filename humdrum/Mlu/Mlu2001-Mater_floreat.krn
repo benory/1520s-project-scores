@@ -1,7 +1,6 @@
 !!!!SEGMENT: Mlu2001-Mater_floreat.krn
 !!!id: Mlu2001
 !!!AGN: Motet
-!!!SCT: Lowinsky (1968)
 !!!voices: 4
 !!!COM: Pierre Moulu
 !!!OTL: Mater floreat
@@ -460,7 +459,7 @@
 =70	=70	=70	=70
 1C	1G	1.c	2f]
 .	.	.	2e
-[1FF	[1F	.	[1f
+[1FFl	[1Fl	.	[1fl
 .	.	2d	.
 =71	=71	=71	=71
 0FF_	0F_	1c	0f_

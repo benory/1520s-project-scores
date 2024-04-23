@@ -1,7 +1,6 @@
 !!!!SEGMENT: Ric2005-Miseremini_mei.krn
 !!!id: Ric2005
 !!!AGN: Motet
-!!!SCT: Elzinga (1999)
 !!!voices: 4
 !!!COM: Jean Richafort
 !!!OTL: Miseremini mei
@@ -351,7 +350,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Cutis mea
 !!!OMD: Secunda pars: Cutis mea
-!	!	!	!LO:TX:a:t=Secunda Pars&colon; Cutis mea
 1r	0r	0c	0r
 [1F	.	.	.
 =56	=56	=56	=56

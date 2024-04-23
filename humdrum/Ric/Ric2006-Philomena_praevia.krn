@@ -1,7 +1,6 @@
 !!!!SEGMENT: Ric2006-Philomena_praevia.krn
 !!!id: Ric2006
 !!!AGN: Motet
-!!!SCT: Elzinga (1999)
 !!!voices: 4
 !!!COM: Jean Richafort
 !!!OTL: Philomena praevia
@@ -353,7 +352,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Veni, veni
 !!!OMD: Secunda pars: Veni, veni
-!	!	!	!LO:TX:a:t=Secunda Pars&colon; Veni, veni
 1A	0r	1r	0r
 2.c	.	1A	.
 4B	.	.	.

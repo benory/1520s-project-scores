@@ -1,7 +1,6 @@
 !!!!SEGMENT: Ric2007-Cognoscimus_Domine.krn
 !!!id: Ric2007
 !!!AGN: Motet
-!!!SCT: Elzinga (1999)
 !!!voices: 4
 !!!COM: Jean Richafort
 !!!OTL: Cognoscimus, Domine
@@ -473,7 +472,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Vita nostra in dolore
 !!!OMD: Secunda pars: Vita nostra in dolore
-!	!	!	!LO:TX:a:t=Secunda Pars&colon; Vita nostra in dolore
 1AA	0r	0r	0r
 1C	.	.	.
 =81	=81	=81	=81

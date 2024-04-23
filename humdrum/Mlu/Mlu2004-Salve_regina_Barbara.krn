@@ -1,7 +1,6 @@
 !!!!SEGMENT: Mlu2004-Salve_regina_Barbara.krn
 !!!id: Mlu2004
 !!!AGN: Motet
-!!!SCT: Picker (1987)
 !!!voices: 4
 !!!COM: Pierre Moulu
 !!!OTL: Salve, regina Barbara
@@ -402,7 +401,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Eya ergo, O Barbara
 !!!OMD: Secunda pars: Eya ergo, O Barbara
-!	!	!	!LO:TX:a:t=Secunda Pars&colon; Eya ergo, O Barbara 
 1F	0r	0r	0r
 2F	.	.	.
 2G	.	.	.
