@@ -1,22 +1,21 @@
 !!!!SEGMENT: Wil3007-Je_lay_aymee_bien_sept_ans_et_demy.krn
 !!!id: Wil3007
 !!!AGN: Chanson
-!!!SCT: Bernstein (1992)
 !!!voices: 5
 !!!COM: Adrian Willaert
 !!!OTL: Je l'ay aymée bien sept ans & demy
 **kern	**kern	**kern	**kern	**kern
 *part5	*part4	*part3	*part2	*part1
 *staff5	*staff4	*staff3	*staff2	*staff1
-*I"Bass	*I"Tenor	*I"Altus II	*I"Altus I	*I"Superius
-*I'B	*I'T	*I'A	*I'A	*I'S
+*I"Bassus	*I"Tenor	*I"Altus II	*I"Altus I	*I"Superius
+*I'B	*I'T	*I'A. II	*I'A. I	*I'S
 *clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*F:	*F:	*F:
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1	=1	=1	=1	=1
-!	!	!LO:TX:a:t=Canon&colon; Altus II/Superius at the fourth	!	!
+!	!	!LO:TX:a:t=Canon&colon; altus II/superius at the fourth	!	!
 1G	0r	0r	0r	0r
 1B-y	.	.	.	.
 =2	=2	=2	=2	=2

@@ -1,7 +1,6 @@
 !!!!SEGMENT: Wil2009-Dominus_regit_me.krn
 !!!id: Wil2009
 !!!AGN: Motet
-!!!SCT: Zenck (1950)
 !!!voices: 4
 !!!COM: Adrian Willaert
 !!!OTL: Dominus regit me
@@ -209,9 +208,9 @@
 .	.	2A	.
 [1BB-y	1r	[1B-y	[1d
 =40	=40	=40	=40
-2BB-]	1.F	1B-]	1d_
+2BB-]	1.F	1B-]	0d_
 2BB-y	.	.	.
-1BB-y	.	1r	1d_
+1BB-y	.	1r	.
 .	2F	.	.
 =41	=41	=41	=41
 1D	2F	0r	1d]
@@ -518,7 +517,7 @@
 .	.	2A	2f
 .	.	2A	2f
 =	=	=	=
-00C;	00c;]	00G;	00e;
+00C	00c]	00G	00e
 =||	=||	=||	=||
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)

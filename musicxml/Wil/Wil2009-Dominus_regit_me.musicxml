@@ -10,9 +10,9 @@
   <creator type="lyricist">Ory</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-03-03</encoding-date>
+   <encoding-date>2024-04-23</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -1608,29 +1608,12 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>1024</duration>
+    <duration>2048</duration>
     <tie type="stop" />
     <tie type="start" />
     <instrument id="P1-I1" />
     <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-    <notations>
-     <tied type="stop" orientation="under" />
-     <tied type="start" orientation="under" />
-    </notations>
-   </note>
-   <note color="#000000" default-x="145">
-    <pitch>
-     <step>D</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>1024</duration>
-    <tie type="stop" />
-    <tie type="start" />
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
+    <type>breve</type>
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="under" />
@@ -3313,9 +3296,6 @@
     <instrument id="P1-I1" />
     <voice>1</voice>
     <staff>1</staff>
-    <notations>
-     <fermata>normal</fermata>
-    </notations>
    </note>
    <barline>
     <bar-style>light-light</bar-style>
@@ -10138,9 +10118,6 @@
     <instrument id="P2-I1" />
     <voice>1</voice>
     <staff>1</staff>
-    <notations>
-     <fermata>normal</fermata>
-    </notations>
    </note>
    <barline>
     <bar-style>light-light</bar-style>
@@ -16891,7 +16868,6 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="over" />
-     <fermata>normal</fermata>
     </notations>
    </note>
    <barline>
@@ -23488,9 +23464,6 @@
     <instrument id="P4-I1" />
     <voice>1</voice>
     <staff>1</staff>
-    <notations>
-     <fermata>normal</fermata>
-    </notations>
    </note>
    <barline>
     <bar-style>light-light</bar-style>

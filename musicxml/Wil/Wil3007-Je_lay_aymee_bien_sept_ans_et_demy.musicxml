@@ -2,15 +2,15 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Wil3007-Je_l&apos;ay_aymée_bien_sept_ans_&amp;_demy</work-title>
+  <work-title>Wil3007-Je_lay_aymee_bien_sept_ans_et_demy</work-title>
  </work>
  <identification>
   <creator type="composer">Adrian Willaert</creator>
   <creator type="arranger">Benjamin Ory 2020/12/18</creator>
   <encoding>
-   <encoding-date>2023-03-03</encoding-date>
+   <encoding-date>2024-04-23</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil3007-Je_l&apos;ay_aymée_bien_sept_ans_&amp;_demy</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil3007-Je_lay_aymee_bien_sept_ans_et_demy</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="84" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Section: Je l&apos;ay aymée bien sept ans &amp; demy</credit-words>
@@ -102,9 +102,9 @@
  </credit>
  <part-list>
   <score-part id="P1">
-   <part-name>Soprano</part-name>
+   <part-name>Superius</part-name>
    <part-name-display>
-    <display-text>Soprano</display-text>
+    <display-text>Superius</display-text>
    </part-name-display>
    <part-abbreviation>S.</part-abbreviation>
    <part-abbreviation-display>
@@ -170,9 +170,9 @@
    </score-instrument>
   </score-part>
   <score-part id="P5">
-   <part-name>Bass</part-name>
+   <part-name>Bassus</part-name>
    <part-name-display>
-    <display-text>Bass</display-text>
+    <display-text>Bassus</display-text>
    </part-name-display>
    <part-abbreviation>B.</part-abbreviation>
    <part-abbreviation-display>
@@ -189,11 +189,11 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="247">
+  <measure number="1" width="246">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>100</left-margin>
+      <left-margin>104</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
      <top-system-distance>145</top-system-distance>
@@ -226,7 +226,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="236">
+  <measure number="2" width="235">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -237,7 +237,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="259">
+  <measure number="3" width="258">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -248,7 +248,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="264">
+  <measure number="4" width="263">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -259,7 +259,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="245">
+  <measure number="5" width="244">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -2541,11 +2541,11 @@
  </part>
  <part id="P2">
   <!--============== Part: P2, Measure: 1 ==============-->
-  <measure number="1" width="247">
+  <measure number="1" width="246">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>100</left-margin>
+      <left-margin>104</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -2586,7 +2586,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 2 ==============-->
-  <measure number="2" width="236">
+  <measure number="2" width="235">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -2597,7 +2597,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 3 ==============-->
-  <measure number="3" width="259">
+  <measure number="3" width="258">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -2608,7 +2608,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 4 ==============-->
-  <measure number="4" width="264">
+  <measure number="4" width="263">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -2619,7 +2619,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 5 ==============-->
-  <measure number="5" width="245">
+  <measure number="5" width="244">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -5789,11 +5789,11 @@
  </part>
  <part id="P3">
   <!--============== Part: P3, Measure: 1 ==============-->
-  <measure number="1" width="247">
+  <measure number="1" width="246">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>100</left-margin>
+      <left-margin>104</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -5826,7 +5826,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.3787" font-weight="normal">Canon: Altus II/Superius at the fourth</words>
+     <words default-x="85" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.3787" font-weight="normal">Canon: altus II/superius at the fourth</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -5841,7 +5841,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 2 ==============-->
-  <measure number="2" width="236">
+  <measure number="2" width="235">
    <note default-x="15">
     <rest />
     <duration>2048</duration>
@@ -5852,7 +5852,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 3 ==============-->
-  <measure number="3" width="259">
+  <measure number="3" width="258">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -5874,7 +5874,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 4 ==============-->
-  <measure number="4" width="264">
+  <measure number="4" width="263">
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -5899,7 +5899,7 @@
    </note>
   </measure>
   <!--============== Part: P3, Measure: 5 ==============-->
-  <measure number="5" width="245">
+  <measure number="5" width="244">
    <note color="#000000" default-x="15">
     <pitch>
      <step>D</step>
@@ -5924,7 +5924,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="211" default-y="-55">
+   <note color="#000000" default-x="210" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -8248,11 +8248,11 @@
  </part>
  <part id="P4">
   <!--============== Part: P4, Measure: 1 ==============-->
-  <measure number="1" width="247">
+  <measure number="1" width="246">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>100</left-margin>
+      <left-margin>104</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -8293,7 +8293,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 2 ==============-->
-  <measure number="2" width="236">
+  <measure number="2" width="235">
    <note default-x="15">
     <rest />
     <duration>512</duration>
@@ -8314,7 +8314,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="128">
+   <note color="#000000" default-x="127">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -8332,7 +8332,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 3 ==============-->
-  <measure number="3" width="259">
+  <measure number="3" width="258">
    <note color="#000000" default-x="15" default-y="-55">
     <pitch>
      <step>B</step>
@@ -8375,7 +8375,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="209" default-y="-5">
+   <note color="#000000" default-x="208" default-y="-5">
     <pitch>
      <step>F</step>
      <octave>3</octave>
@@ -8388,7 +8388,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="234" default-y="-5">
+   <note color="#000000" default-x="233" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>3</octave>
@@ -8403,7 +8403,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 4 ==============-->
-  <measure number="4" width="264">
+  <measure number="4" width="263">
    <note color="#000000" default-x="15">
     <pitch>
      <step>D</step>
@@ -8423,7 +8423,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="207" default-y="5">
+   <note color="#000000" default-x="206" default-y="5">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -8441,7 +8441,7 @@
    </note>
   </measure>
   <!--============== Part: P4, Measure: 5 ==============-->
-  <measure number="5" width="245">
+  <measure number="5" width="244">
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>G</step>
@@ -11486,11 +11486,11 @@
  </part>
  <part id="P5">
   <!--============== Part: P5, Measure: 1 ==============-->
-  <measure number="1" width="247">
+  <measure number="1" width="246">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>100</left-margin>
+      <left-margin>104</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
     </system-layout>
@@ -11526,7 +11526,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="169">
+   <note color="#000000" default-x="168">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -11540,7 +11540,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 2 ==============-->
-  <measure number="2" width="236">
+  <measure number="2" width="235">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
      <step>A</step>
@@ -11564,7 +11564,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="168" default-y="-45">
+   <note color="#000000" default-x="167" default-y="-45">
     <pitch>
      <step>F</step>
      <octave>3</octave>
@@ -11576,7 +11576,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="202" default-y="-50">
+   <note color="#000000" default-x="201" default-y="-50">
     <pitch>
      <step>E</step>
      <octave>3</octave>
@@ -11590,7 +11590,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 3 ==============-->
-  <measure number="3" width="259">
+  <measure number="3" width="258">
    <note color="#000000" default-x="15">
     <pitch>
      <step>D</step>
@@ -11614,7 +11614,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="185" default-y="5">
+   <note color="#000000" default-x="184" default-y="5">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -11633,7 +11633,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 4 ==============-->
-  <measure number="4" width="264">
+  <measure number="4" width="263">
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>B</step>
@@ -11701,7 +11701,7 @@
    </note>
   </measure>
   <!--============== Part: P5, Measure: 5 ==============-->
-  <measure number="5" width="245">
+  <measure number="5" width="244">
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>B</step>

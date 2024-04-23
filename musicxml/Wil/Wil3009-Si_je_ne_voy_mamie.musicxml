@@ -2,15 +2,15 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Wil3009-Si_je_ne_voy_m&apos;amie</work-title>
+  <work-title>Wil3009-Si_je_ne_voy_mamie</work-title>
  </work>
  <identification>
   <creator type="composer">Adrian Willaert</creator>
   <creator type="arranger">Benjamin Ory 2020/12/18</creator>
   <encoding>
-   <encoding-date>2023-03-03</encoding-date>
+   <encoding-date>2024-04-23</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil3009-Si_je_ne_voy_m&apos;amie</credit-words>
+  <credit-words default-x="785" default-y="155" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Wil3009-Si_je_ne_voy_mamie</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="785" default-y="94" font-family="Times New Roman" font-style="normal" font-size="10.9621" font-weight="normal" justify="center" valign="middle">Section: Si je ne voy m&apos;amie</credit-words>
@@ -2377,7 +2377,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.3787" font-weight="normal">Canon: tenor/altus/superius at the 5th and 9th</words>
+     <words default-x="85" default-y="20" justify="left" valign="middle" font-family="Times New Roman" font-style="normal" font-size="9.3787" font-weight="normal">Canon: tenor/altus/superius at the fifth and ninth</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>

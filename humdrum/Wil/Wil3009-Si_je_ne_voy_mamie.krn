@@ -1,7 +1,6 @@
 !!!!SEGMENT: Wil3009-Si_je_ne_voy_mamie.krn
 !!!id: Wil3009
 !!!AGN: Chanson
-!!!SCT: Adams (1982)
 !!!voices: 3
 !!!COM: Adrian Willaert
 !!!OTL: Si je ne voy m'amie
@@ -16,7 +15,7 @@
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 =1	=1	=1
-!LO:TX:a:t=Canon&colon; tenor/altus/superius at the 5th and 9th	!	!
+!LO:TX:a:t=Canon&colon; tenor/altus/superius at the fifth and ninth	!	!
 1F	1r	0r
 2.c	1c	.
 4c	.	.
