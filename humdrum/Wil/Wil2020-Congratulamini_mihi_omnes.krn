@@ -1,7 +1,6 @@
 !!!!SEGMENT: Wil2020-Congratulamini_mihi_omnes.krn
 !!!id: Wil2020
 !!!AGN: Motet
-!!!SCT: Zenck (1950)
 !!!voices: 4
 !!!COM: Adrian Willaert
 !!!OTL: Congratulamini mihi omnes
@@ -463,7 +462,7 @@
 1D	1A	[1d	.
 .	.	.	2f#i
 =75	=75	=75	=75
-1G	1B	1d]	[0g
+1G	1B	1d]	[0gl
 1C	1c	1e	.
 =	=	=	=
 00G	00B	00d	00g]
@@ -472,7 +471,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Recendibus discipulis
 !!!OMD: Secunda pars: Recendibus discipulis
-!	!	!	!LO:TX:a:t=Secunda pars&colon; Recendibus discipulis
 0r	1.G	0r	0r
 .	2G	.	.
 =76	=76	=76	=76

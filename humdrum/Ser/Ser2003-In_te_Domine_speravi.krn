@@ -1,14 +1,13 @@
 !!!!SEGMENT: Ser2003-In_te_Domine_speravi.krn
 !!!id: Ser2003
 !!!AGN: Motet
-!!!SCT: Sherr (1990)
 !!!voices: 4
 !!!COM: Claudin de Sermisy
 !!!OTL: In te Domine speravi
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
-*I"Bass	*I"Tenor	*I"Altus	*I"Superius
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *clefF4	*clefGv2	*clefG2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
@@ -429,7 +428,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Quoniam fortitudo mea
 !!!OMD: Secunda pars: Quoniam fortitudo mea
-!	!	!	!LO:TX:a:t=Secunda pars&colon; Quoniam fortitudo mea
 0r	0r	1.d	0r
 .	.	2d	.
 =73	=73	=73	=73
