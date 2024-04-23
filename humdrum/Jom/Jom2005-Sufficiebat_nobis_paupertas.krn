@@ -1,7 +1,6 @@
 !!!!SEGMENT: Jom2005-Sufficiebat_nobis_paupertas.krn
 !!!id: Jom2005
 !!!AGN: Motet
-!!!SCT: Sherr (1989)
 !!!voices: 5
 !!!COM: Jachet of Mantua
 !!!OTL: Sufficiebat nobis paupertas
@@ -15,6 +14,7 @@
 *B-:	*B-:	*B-:	*B-:	*B-:
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C)
+!!primary-mensuration: met(C|)
 !!section: Prima pars: Sufficiebat nobis paupertas
 !!!OMD: Prima pars: Sufficiebat nobis paupertas
 =1	=1	=1	=1	=1

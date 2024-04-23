@@ -1,7 +1,6 @@
 !!!!SEGMENT: Lhe2016-Deus_in_nomine_tuo.krn
 !!!id: Lhe2016
 !!!AGN: Motet	
-!!!SCT: Perkins (1969)
 !!!voices: 5
 !!!COM: Jean Lhéritier
 !!!OTL: Deus in nomine tuo
@@ -746,9 +745,10 @@
 =	=	=	=	=
 00C]	00G	00c]	00e	00cc]
 =||	=||	=||	=||	=||
-*M2/1	*M2/1	*M2/1	*M2/`	*M2/1
+*M2/1	*M2/1	*M2/1	*M2/1`	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!	!	!	!	!LO:TX:a:t=Secunda pars&colon; Ecce enim Deus
+!!section: Secunda pars: Ecce enim Deus
+!!!OMD: Secunda pars: Ecce enim Deus
 0r	0r	1.g	0r	0r
 .	.	2f	.	.
 =125	=125	=125	=125	=125
