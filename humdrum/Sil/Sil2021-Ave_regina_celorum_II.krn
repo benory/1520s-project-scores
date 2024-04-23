@@ -1,7 +1,6 @@
 !!!!SEGMENT: Sil2021-Ave_regina_celorum_II.krn
 !!!id: Sil2021
 !!!AGN: Motet
-!!!SCT: Kirsch (1971)
 !!!voices: 5
 !!!COM: Andreas de Silva
 !!!OTL: Ave regina celorum II
@@ -499,7 +498,7 @@
 00FF	00C	00F	00A	00f
 =||	=||	=||	=||	=||
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!Section: Secunda pars: Gaude gloriosa
 !!!OMD: Secunda pars: Gaude gloriosa
 0r	0r	0r	0c	0r

@@ -8,9 +8,9 @@
   <creator type="composer">Andreas de Silva</creator>
   <creator type="arranger">Benjamin Ory 2022/5/5</creator>
   <encoding>
-   <encoding-date>2023-03-03</encoding-date>
+   <encoding-date>2024-04-23</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -2804,9 +2804,9 @@
     </system-layout>
    </print>
    <attributes>
-    <time symbol="common" color="#000000">
-     <beats>4</beats>
-     <beat-type>4</beat-type>
+    <time symbol="cut" color="#000000">
+     <beats>2</beats>
+     <beat-type>2</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -2846,7 +2846,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="172">
+   <note color="#000000" default-x="173">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -2873,7 +2873,7 @@
     <dot />
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="-55">
+   <note color="#000000" default-x="201" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -2914,7 +2914,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="148">
+   <note color="#000000" default-x="149">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -9089,9 +9089,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="common" color="#000000">
-     <beats>4</beats>
-     <beat-type>4</beat-type>
+    <time symbol="cut" color="#000000">
+     <beats>2</beats>
+     <beat-type>2</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -9158,7 +9158,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="212" default-y="-35">
+   <note color="#000000" default-x="213" default-y="-35">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -9205,7 +9205,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="93" default-y="-45">
+   <note color="#000000" default-x="94" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -9229,7 +9229,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="172">
+   <note color="#000000" default-x="173">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -9281,7 +9281,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="5">
+   <note color="#000000" default-x="201" default-y="5">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -9320,7 +9320,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="148" default-y="-45">
+   <note color="#000000" default-x="149" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -15075,9 +15075,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="common" color="#000000">
-     <beats>4</beats>
-     <beat-type>4</beat-type>
+    <time symbol="cut" color="#000000">
+     <beats>2</beats>
+     <beat-type>2</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -20578,9 +20578,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="common" color="#000000">
-     <beats>4</beats>
-     <beat-type>4</beat-type>
+    <time symbol="cut" color="#000000">
+     <beats>2</beats>
+     <beat-type>2</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -20642,7 +20642,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="148">
+   <note color="#000000" default-x="149">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -25827,9 +25827,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="common" color="#000000">
-     <beats>4</beats>
-     <beat-type>4</beat-type>
+    <time symbol="cut" color="#000000">
+     <beats>2</beats>
+     <beat-type>2</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
