@@ -8,7 +8,7 @@
   <creator type="composer">Jean de la Fage</creator>
   <creator type="arranger">Benjamin Ory 2024/4/20</creator>
   <encoding>
-   <encoding-date>2024-04-20</encoding-date>
+   <encoding-date>2024-04-25</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -6364,7 +6364,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="over" />
-     <fermata>normal</fermata>
     </notations>
    </note>
   </measure>
@@ -6423,6 +6422,7 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="over" />
+     <fermata>normal</fermata>
     </notations>
    </note>
   </measure>

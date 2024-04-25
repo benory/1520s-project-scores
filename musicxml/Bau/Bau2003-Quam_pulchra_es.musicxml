@@ -10,9 +10,9 @@
   <creator type="lyricist">Ory</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2023-03-02</encoding-date>
+   <encoding-date>2024-04-25</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -2325,7 +2325,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="under" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
@@ -8683,7 +8682,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="over" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
@@ -8727,6 +8725,7 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="over" />
+     <fermata>normal</fermata>
     </notations>
    </note>
    <note color="#000000" default-x="144">
@@ -10960,7 +10959,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="under" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>

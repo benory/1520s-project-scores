@@ -10,7 +10,7 @@
   <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2024-04-17</encoding-date>
+   <encoding-date>2024-04-25</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 24.3.0</software>
    <software>Direct export, not from Dolet</software>
@@ -5390,7 +5390,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="under" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-84" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
@@ -5413,6 +5412,7 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="under" />
+     <fermata>normal</fermata>
     </notations>
    </note>
    <barline>
@@ -14370,7 +14370,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="under" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
@@ -14393,6 +14392,7 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="under" />
+     <fermata>normal</fermata>
     </notations>
    </note>
    <barline>
@@ -28589,7 +28589,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="under" />
-     <fermata>normal</fermata>
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
@@ -28620,6 +28619,7 @@
     <staff>1</staff>
     <notations>
      <tied type="stop" orientation="under" />
+     <fermata>normal</fermata>
     </notations>
    </note>
    <barline>
