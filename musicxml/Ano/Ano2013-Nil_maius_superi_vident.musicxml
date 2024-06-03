@@ -8377,7 +8377,6 @@
     <staff>1</staff>
     <notations>
      <tied type="start" orientation="over" />
-     <fermata>normal</fermata>
     </notations>
    </note>
   </measure>
