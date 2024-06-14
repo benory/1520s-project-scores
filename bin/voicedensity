@@ -1,0 +1,97 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my @files = glob("humdrum/*/*.krn");
+
+(my $maxvoice, my %voices) = getVoices(@files);
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+sub processFile {
+	my ($file) = @_;
+	my $voice = $voices{$file};
+	next if $voice < 0;
+	my @percents = getVoicePercents($file);
+	my $base = $file;
+	$base =~ s/.*\///;
+	$base =~ s/-.*//;
+
+	print "$base\t$voice";
+
+	for (my $i=0; $i<$maxvoice; $i++) {
+		if ($percents[$i]) {
+			print "\t$percents[$i]";
+		} else {
+			print "\t0";
+		}
+	}
+	print "\n";
+}
+
+
+
+##############################
+##
+## getVoicePercents --
+##
+
+sub getVoicePercents {
+	my ($file) = @_;
+	my @output;
+	my $command = "timebasex -t 48 | voicecount -p | extractx -s 1 | ridx -H | sortcount -p";
+	chomp(my @results = `cat "$file" | $command`);
+	foreach my $line (@results) {
+		if ($line =~ /([\d\.]+)\s+(\d+)/) {
+			my $percent = $1;
+			my $voice = $2;
+			$output[$voice] = $percent;
+		}
+
+	}
+	return @output;
+}
+
+
+
+##############################
+##
+## getVoices --
+##
+
+sub getVoices {
+	my @files = @_;
+	my $max = 0;
+	my %output;
+	foreach my $file (@files) {
+		my $voice = getVoice($file);
+		next if $voice < 0;
+		$max = $voice if $voice > $max;
+		$output{$file} = $voice;
+	}
+	return ($max, %output);
+}
+
+
+
+##############################
+##
+## getVoice -- Return the voice number, or -1 otherwise.
+##
+
+sub getVoice {
+	my ($file) = @_;
+	open(FILE, $file) or die "Cannot read $file\n";
+	chomp(my @contents = <FILE>);
+	close FILE;
+	foreach my $line (@contents) {
+		return $1 if $line =~ /^!!!voices?:\s*(\d+)\s*$/;
+	}
+	return -1;
+}
+
+	
+

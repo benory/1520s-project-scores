@@ -93,4 +93,11 @@ newlines:
 
 
 
+v: voicedensity
+voice: voicedensity
+voiceDensity: voicedensity
+voice-density: voicedensity
+voicedensity:
+	bin/voicedensity
+
 
