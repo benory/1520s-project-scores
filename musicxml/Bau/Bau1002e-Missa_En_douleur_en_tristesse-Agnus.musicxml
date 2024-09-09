@@ -8,9 +8,9 @@
   <creator type="composer">Noel Bauldeweyn</creator>
   <creator type="arranger">Benjamin Ory 2021/2/22</creator>
   <encoding>
-   <encoding-date>2023-03-02</encoding-date>
+   <encoding-date>2024-09-09</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 22.7.0</software>
+   <software>Sibelius 24.6.1</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -15807,17 +15807,21 @@
   </measure>
   <!--============== Part: P5, Measure: 63 ==============-->
   <measure number="63" width="252">
-   <note color="#000000" default-x="15" default-y="-5">
+   <note color="#000000" default-x="15">
     <pitch>
-     <step>G</step>
+     <step>A</step>
      <octave>2</octave>
     </pitch>
     <duration>512</duration>
+    <tie type="stop" />
     <instrument id="P5-I1" />
     <voice>1</voice>
     <type>half</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <tied type="stop" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="73" default-y="-10">
     <pitch>
