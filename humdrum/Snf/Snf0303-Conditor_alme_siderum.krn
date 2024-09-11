@@ -1,0 +1,167 @@
+!!!!SEGMENT: Snf0303-Conditor_alme_siderum.krn
+!!!id: Snf0303
+!!!AGN: Motet
+!!!voices: 4
+!!!COM: Ludwig Senfl
+!!!OTL: Conditor alme siderum
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus II	*	*I"Altus I	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A. II	*	*I'A. I	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Prima pars: Conditor alme siderum
+!!!OMD: Prima pars: Conditor alme siderum
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1.A	Con-	1e	Con-	0.r	.	1r	.	2.a	Con-
+.	.	.	.	.	.	.	.	4b-y	.
+.	.	2c	-di-	.	.	1r	.	2cc	.
+2D	-di-	2f	-tor	.	.	.	.	1dd	.
+1A	-tor	1e	al-	.	.	1a	Con-	.	.
+.	.	.	.	.	.	.	.	2cc	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0B-y	al-	0d	-me	1r	.	0f	-di-	1dd	.
+.	.	.	.	1r	.	.	.	2b-y	-di-
+.	.	.	.	.	.	.	.	2b-y	-tor
+1A	-me	2.c	si-	1e	Con-	1a	-tor	[1cc	al-
+.	.	4d	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2A	si-	2e	.	0c	-di-	0cc	al-	2cc]	.
+2F	.	2f	-de-	.	.	.	.	2a	.
+2.A	.	1e	-rum,	.	.	.	.	2.a	-me
+4B-y	.	.	.	.	.	.	.	8gL	.
+.	.	.	.	.	.	.	.	8fJ	.
+2c	.	1r	.	1e	-tor	1cc	-me	4e	.
+.	.	.	.	.	.	.	.	4c	.
+2c	-de-	.	.	.	.	.	.	2cc	si-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1.G	-rum,	0d	ae-	0g	al-	0dd	si-	1.b-y	.
+1.B-y	ae-	.	.	.	.	.	.	1.dd	-de-
+.	.	1d	-ter-	1g	-me	1b-y	-de-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2A	-ter-	2e	-na	1a	si-	0cc	-rum,	2cc	-rum,
+2.F	.	2f	.	.	.	.	.	2.a	ae-
+.	.	1c	lux,	1f	-de-	.	.	.	.
+4G	.	.	.	.	.	.	.	4g	.
+4A	.	.	.	.	.	.	.	2f	.
+4F	.	.	.	.	.	.	.	.	.
+1c	.	2r	.	[1g	-rum,	1cc	ae-	4e	-ter-
+.	.	.	.	.	.	.	.	4f	.
+.	.	2e	ae-	.	.	.	.	4g	.
+.	.	.	.	.	.	.	.	4a	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2.G	.	2d	-ter-	1g]	.	0dd	-ter-	2.b-y	.
+.	.	2d	-na	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.	4a	.
+4B-y	.	1.d	lux	1r	.	.	.	4g	.
+4A	.	.	.	.	.	.	.	4f	.
+4G	.	.	.	.	.	.	.	2g	.
+4F	.	.	.	.	.	.	.	.	.
+1G	.	.	.	1g	ae-	1b-y	-na	1d	-na
+.	.	4c	.	.	.	.	.	.	.
+.	.	4B-y	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1.F	-na	1f	.	1a	-ter-	0cc	lux	1r	.
+.	.	1c	cre-	1f	-na	.	.	1r	.
+2A	lux	.	.	.	.	.	.	.	.
+1G	.	2d	-den-	1g	lux	1b-y	cre-	[1dd	lux
+.	.	2d	-ti-	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2D	.	1d	-um,	1f	cre-	0a	-den-	2dd]	.
+2d	cre-	.	.	.	.	.	.	2a	cre-
+2A	-den-	1r	.	1e	-den-	.	.	1cc	-den-
+2c	.	.	.	.	.	.	.	.	.
+1B-y	-ti-	1G	Chri-	1d	-ti-	1g	-ti-	1dd	-ti-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0A	-um,	0c	.	0e	-um,	0a	-um,	1cc	-um,
+.	.	.	.	.	.	.	.	2r	.
+.	.	.	.	.	.	.	.	2c	Chri-
+1G	Chri-	1B-y	.	1r	.	1b-y	Chri-	2d	.
+.	.	.	.	.	.	.	.	2e	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2.F	-ste,	0c	-ste,	1f	Chri-	0a	-ste,	4f	.
+.	.	.	.	.	.	.	.	4g	.
+.	.	.	.	.	.	.	.	4a	.
+4G	.	.	.	.	.	.	.	4b-y	.
+4A	.	.	.	1e	-ste,	.	.	1cc	.
+4B-y	.	.	.	.	.	.	.	.	.
+4c	.	.	.	.	.	.	.	.	.
+4A	.	.	.	.	.	.	.	.	.
+1B-y	.	1r	.	1d	red-	1g	red-	1dd	-ste,
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1A	red-	1c	red-	1e	-em-	0a	-em-	2.cc	red-
+.	.	.	.	.	.	.	.	4b-y	.
+1F	.	1c	-em-	1f	-ptor	.	.	1a	.
+[1G	.	1B-y	-ptor	[1d	o-	1b-y	-ptor	2g	-em-
+.	.	.	.	.	.	.	.	[2dd	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1G]	.	1B-y	o-	1d]	.	0g	o-	4dd]	.
+.	.	.	.	.	.	.	.	4cc	.
+.	.	.	.	.	.	.	.	4b-y	.
+.	.	.	.	.	.	.	.	4a	.
+1G	-em-	2G	-mni-	1d	-mni-	.	.	1b-y	.
+.	.	2d	-um,	.	.	.	.	.	.
+1C	-ptor	2e	ex-	[1c	-um,	1g	-mni-	2cc	.
+.	.	2e	-au-	.	.	.	.	2g	-ptor
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.F	o-	2f	-di	0c]	.	0f	-um,	2.a	o-
+.	.	1F	pre-	.	.	.	.	.	.
+4G	.	.	.	.	.	.	.	4b-y	.
+2A	.	.	.	.	.	.	.	2cc	.
+2F	-mni-	2f	-ces	.	.	.	.	2a	.
+1B-y	-um,	2.d	sup-	1r	.	1f	ex-	2dd	.
+.	.	.	.	.	.	.	.	2dd	-mni-
+.	.	4e	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0A	ex-	2f	.	2r	.	0a	-au-	0cc	-um,
+.	.	2e	-pli-	2c	ex-	.	.	.	.
+.	.	1c	-cum,	2e	.	.	.	.	.
+.	.	.	.	2f	.	.	.	.	.
+1G	-au-	1d	.	1g	.	1b-y	-di	1r	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2A	.	1c	.	1f	-au-	0cc	pre-	2r	.
+2F	.	.	.	.	.	.	.	2a	ex-
+1c	.	1r	.	1e	.	.	.	2g	.
+.	.	.	.	.	.	.	.	2c	.
+1G	-di	1r	.	1d	-di	1b-y	-ces	1g	-au-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2.c	pre-	2.A	pre-	2e	pre-	0a	sup-	1c	-di
+.	.	.	.	2c	.	.	.	.	.
+4B-y	.	4B-y	.	.	.	.	.	.	.
+2A	.	2c	.	2e	.	.	.	1r	.
+2F	.	1f	.	2f	.	.	.	.	.
+1c	-ces	.	.	1g	.	1g	-pli-	2.cc	pre-
+.	.	2e	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4b-y	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2.F	sup-	2f	-ces	1f	-ces	[0.al	-cum.	2a	.
+.	.	1c	sup-	.	.	.	.	2f	-ces
+4G	.	.	.	.	.	.	.	.	.
+1A	.	.	.	1e	sup-	.	.	1cc	sup-
+.	.	1A	.	.	.	.	.	.	.
+1D	-pli-	.	.	1d	-pli-	.	.	1f	-pli-
+.	.	2d	-pli-	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+00Al	-cum.	00cl	-cum.	00el	-cum.	00a]	.	00ccl	-cum.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!!PTL: <i> New Senfl Edition: Motets for Five Voices</i>
+!!!PPR: Hollitzer Verlag
+!!!PC#: Denkmäler der Tonkunst in Österreich 163.3
+!!!PDT: 2022
+!!!PED: Scott Lee Edwards, Stefan Gasch, and Sonja Tröster
+!!!YEC: Copyright 2022 Denkmäler der Tonkunst in Österreich
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Benjamin Ory
+!!!EEV: 2024/9/11
+!!!verovio: header encoded
+!!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
+!!!header-right: @{COM}
+!!!header-center: @{OTL}
