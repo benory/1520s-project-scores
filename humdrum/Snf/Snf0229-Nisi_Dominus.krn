@@ -632,7 +632,7 @@
 1D	-so-	1d	.	1A	.	1f#i	.
 =126	=126	=126	=126	=126	=126	=126	=126
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*met(C|/3)	*	*met(C|/3)	*	*met(C|/3)	*	*met(C|/3)	*
 0GG	-rum.	0B-y	-rum.	0G	-rum.	0g	-rum.
 1r	.	1r	.	1r	.	1r	.
 =127	=127	=127	=127	=127	=127	=127	=127
@@ -801,5 +801,5 @@
 !!!EEV: 2024/3/9
 !!!verovio: header encoded
 !!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
-!!!header-right: @{COM}
-!!!header-center: @{OTL}
+!!!header-right:
+!!!header-center:

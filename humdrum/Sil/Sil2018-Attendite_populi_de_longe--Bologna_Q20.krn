@@ -1,5 +1,5 @@
-!!!!SEGMENT: Sil2015-Attendite_populi_de_longe--Bologna_Q20.krn
-!!!id: Sil2015
+!!!!SEGMENT: Sil2018-Attendite_populi_de_longe--Bologna_Q20.krn
+!!!id: Sil2018
 !!!AGN: Motet
 !!!voices: 4
 !!!COM: Andreas de Silva
@@ -472,7 +472,7 @@
 0AA]	0A]	0c#]	0e]
 =80	=80	=80	=80
 *M3/1	*M3/1	*M3/1	*M3/1
-*met(O3)	*met(O3)	*met(O3)	*met(O3)
+*met(O|/3)	*met(O|/3)	*met(O|/3)	*met(O|/3)
 0.r	1%3r	0d	0f
 .	.	1B	1g
 =81	=81	=81	=81
