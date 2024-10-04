@@ -1,0 +1,99 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp (craig@ccrma.stanford.edu)
+# Creation Date: Fri Oct  4 10:14:11 PDT 2024
+# Last Modified: Fri Oct  4 10:14:14 PDT 2024
+# Filename:      validateFilenames
+# Syntax:        perl 5
+#
+# Description:   Check to see if there are filename misspelling or missing filenames
+#                on the 1520s metadata spreadsheet.
+#
+# Usage:         bin/validateFilenames # in the base directory of the repository.
+#                Use with Makefile: "make validate"
+#
+
+use strict;
+use warnings;
+use LWP::UserAgent;
+use JSON;
+use File::Basename;
+use Getopt::Long;
+
+# $quietQ: -q option does not print filenames as they are being processed:
+my $quietQ = 0;
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'q|quiet' => \$quietQ
+);
+
+# Download JSON data
+my $mid = "AKfycbwS6_3R_xj1tauNTaNFcdL3p6JeSxDfwU6NRTObOGWYytKsfug5qwklMooTZYngpee9gw";
+my $url = "https://script.google.com/macros/s/$mid/exec";
+
+print "Downloading JSON data $url\n" if !$quietQ;
+
+my $ua = LWP::UserAgent->new;
+
+# Disable SSL verification
+$ua->ssl_opts(verify_hostname => 0, SSL_verify_mode => 0x00);
+
+my $response = $ua->get($url);
+
+if (!$response->is_success) {
+	die "Failed to fetch JSON data: " . $response->status_line;
+}
+
+my $json_content = $response->decoded_content;
+my $data = decode_json($json_content);
+
+# Iterate over JSON entries
+print "Checking for bad file names on spreadsheet\n";
+foreach my $entry (@$data) {
+	my $humdrum_url = $entry->{"Humdrum URL"};
+	my $filebase = $entry->{"FILEBASE"};
+	print "CHECKING $humdrum_url\n" if !$quietQ;
+
+	# Validate Humdrum URL
+	if ($humdrum_url !~ /^https:.*\/$filebase\.krn$/) {
+		warn "\"Humdrum URL\" does not match \"FILEBASE\" on spreadsheet for $filebase\n";
+		next;
+	}
+
+	# Check if Humdrum URL is valid by fetching headers
+	my $head_response = $ua->head($humdrum_url);
+	if (!$head_response->is_success) {
+		warn "Invalid Humdrum URL (not found on GitHub): $humdrum_url\n";
+		next;
+	}
+
+	# Extract composer ID from FILEBASE (first 3 letters, capital + 2 lowercase)
+	if ($filebase =~ /^([A-Z][a-z]{2})/) {
+		my $composerid = $1;
+
+		# Check if the file exists on disk
+		my $file_path = "humdrum/$composerid/$filebase.krn";
+		if (!-r $file_path) {
+			warn "File $file_path does not exist on local hard disk\n";
+		}
+	} else {
+		warn "Invalid FILEBASE format for $filebase\n";
+	}
+}
+
+# Reverse check: Verify files in directory exist in JSON data
+print "Checking for missing JSON entries for Humdrum files on hard disk...\n";
+my $good = 1;
+my %filebase_map = map { $_->{"FILEBASE"} => 1 } @$data;
+foreach my $krn_file (glob("humdrum/*/*.krn")) {
+	my $filename = basename($krn_file, '.krn');
+	if (!exists $filebase_map{$filename}) {
+		warn "File on disk $krn_file does not exist in JSON data\n";
+	$good = 0;
+	}
+}
+print "No missing files on hard disk compared to JSON data\n" if $good;
+
+
+

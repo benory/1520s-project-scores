@@ -92,6 +92,10 @@ newlines:
         done
 
 
+##############################
+##
+## voicedensity:  Do voice density analysis
+##
 
 v: voicedensity
 voice: voicedensity
@@ -99,5 +103,20 @@ voiceDensity: voicedensity
 voice-density: voicedensity
 voicedensity:
 	bin/voicedensity
+
+
+
+##############################
+##
+## validate -- Check to ensure that the filenames on the spreadsheet match
+##             the actual file names in the repository for Humdrum files.
+##
+
+vf: validate-filenames
+validate: validate-filenames
+validateFilenames: validate-filenames
+validate-filenames:
+	bin/validateFilenames
+
 
 
