@@ -1,4 +1,4 @@
-http://1520s-project.com
+http://1520s-project.org
 https://github.com/benory/1520s-Project
 Benjamin Ory
 
