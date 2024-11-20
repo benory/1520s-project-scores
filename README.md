@@ -181,19 +181,19 @@ Individual works by composers are archived independently. Each of their reposito
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/The">The</a></td>
     <td>Pierrequin de Therache</td>
     <td><i>fl.</i> 1492–1527</td>
-    <td><a href="https://1520s-project.org/browse/?q=therache">Works by Pierrequin de Therache on The 1520s Project</a></td>
+    <td><a href="https://1520s-project.org/browse/?q=therache">Works by Therache on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ver">Ver</a></td>
     <td>Philippe Verdelot</td>
     <td><i>fl.</i> 1521–29</td>
-    <td><a href="https://1520s-project.org/browse/?q=verdelot">Works by Philippe Verdelot on The 1520s Project</a></td>
+    <td><a href="https://1520s-project.org/browse/?q=verdelot">Works by Verdelot on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Vin">Vin</a></td>
     <td>Jheronimus Vinders</td>
     <td><i>fl.</i> 1525–26</td>
-    <td><a href="https://1520s-project.org/browse/?q=vinders">Works by Jheronimus Vinders on The 1520s Project</a></td>
+    <td><a href="https://1520s-project.org/browse/?q=vinders">Works by Vinders on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Wil">Wil</a></td>
