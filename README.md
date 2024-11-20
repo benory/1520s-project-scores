@@ -48,7 +48,7 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Con">Con</a></td>
     <td>Jean Conseil</td>
-    <td><i>fl.</i> 1520–1534</td>
+    <td><i>fl.</i> 1520–34</td>
     <td><a href="https://1520s-project.org/browse/?q=conseil">Works by Conseil on The 1520s Project</a></td>
   </tr>
   <tr>
