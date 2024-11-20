@@ -7,10 +7,10 @@
  <identification>
   <creator type="composer">Cipriano de Rore</creator>
   <creator type="arranger">Benjamin Ory 2024/11/10</creator>
-  <creator type="lyricist">Jessie Ann Owens</creator>
+  <creator type="lyricist">Jessie Ann Owens and Scott Metcalfe</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2024-11-18</encoding-date>
+   <encoding-date>2024-11-20</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 24.6.1</software>
    <software>Direct export, not from Dolet</software>
@@ -19861,7 +19861,6 @@
     <instrument id="P5-I1" />
     <voice>1</voice>
     <type>eighth</type>
-    <accidental>natural</accidental>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
