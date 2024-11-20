@@ -213,7 +213,7 @@ After the four-digit work number, an optional letter indicates that a *movement*
 
 ## Download ##
 
-To download this Github repository using [git](http://en.wikipedia.org/wiki/Git_%29software%29) in a terminal, type:
+To download this GitHub repository using [git](http://en.wikipedia.org/wiki/Git_%29software%29) in a terminal, type:
 
 <code>git clone https://github.com/benory/1520s-project-scores.git</code>
 
