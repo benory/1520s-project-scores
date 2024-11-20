@@ -207,7 +207,7 @@ Individual works by composers are archived independently. Each of their reposito
 ## Filenames ##
 
 Each file in the database starts with a unique catalog number for The 1520s Project. This consists of a three-letter composer ID as listed above, followed
-by a four-digit number to represent a specific work by that composer. Typically the first digit of the catalog number will indicate the genre of the work: 1 for masses, 2 for motets, and 3 for secular songs (see the `!!!AGN` reference record inside of the file for the actual genre designations). Exceptions include the music of Ludwig Senfl, which follows the volumes and catalog numbers of the [New Senfl Edition](https://senflonline.com/new-senfl-edition/) and Cipriano de Rore, for which scores have been donated by Jessie Ann Owens.
+by a four-digit number to represent a specific work by that composer. Typically the first digit of the catalog number will indicate the genre of the work: 1 for masses, 2 for motets, and 3 for secular songs (see the `!!!AGN` reference record inside of the file for the actual genre designations). Exceptions include the music of Ludwig Senfl, which follows the volumes and catalog numbers of the [New Senfl Edition](https://senflonline.com/new-senfl-edition/) and Cipriano de Rore, for which a collection of scores have been donated by Jessie Ann Owens.
 
 After the four-digit work number, an optional letter indicates that a *movement*-level encoding of a work is found in the file.  This system is used for storing mass sections in separate files, where "a" is the first section (usually the Kyrie section), "b" is the second section (usually the Gloria section), and so on.
 
