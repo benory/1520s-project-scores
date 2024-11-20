@@ -1,6 +1,6 @@
 # The 1520s Project Musical Scores
 
-This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in four different formats: Sibelius, MusicXML, PDFs, and Humdrum files. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations. These scores encompass the music of the early sixteenth century (ca. 1510 to ca. 1540), mostly representing composers from France, Germany, Italy, and the Low Countries. See [the project's about page] for a histogram showing the number of works in the project by year of first source. These scores are both intended for performance and computational analysis: at present, roughly one quarter of them include the text/lyrics suitable for vocal performance.
+This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in four different formats: Sibelius, MusicXML, PDFs, and Humdrum files. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations. These scores encompass the music of the early sixteenth century (ca. 1510 to ca. 1540), mostly representing composers from France, Germany, Italy, and the Low Countries. See [the project's about page](https://1520s-project.org/about/) for a histogram showing the number of works in the project by year of first source. These scores are both intended for performance and computational analysis: at present, roughly one quarter of them include the text/lyrics suitable for vocal performance.
 
 The scores in this project follow editorial standards first developed by the [Josquin Research Project](https://josquin.stanford.edu). Editorial accidentals have been added to these scores in Humdrum using an "i" character to enable the realization of the performance practice of the time. When an "i" is not found after the accidental, the accidental is explicit, meaning that it was written in the original notation. Sixteenth-century scores also use mensuration signs (analagous in some ways to modern time signatures; they convey tempo). The most common mensuration in this corpus, by far, is Cut-C, from which modern cut-time originates. Barlines are not found in original sources; in this corpus, barlines usually represent breve (double whole notes) durations, and at the ends of sections and pieces, long durations (quadruple whole notes). Sixteenth-century sources either appear in choirbooks ([see an example](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q019/)) or partbooks ([example](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q020/)). In both cases, the music is written in parts. Only in modern editions are these parts placed in a score format.
 
@@ -202,3 +202,17 @@ Individual works by composers are archived independently. Each of their reposito
     <td><a href="https://1520s-project.org/browse/?q=willaert">Works by Willaert on The 1520s Project</a></td>
   </tr>
 </table>
+
+
+## Filenames ##
+
+Each file in the database starts with a unique catalog number for The 1520s Project. This consists of a three-letter composer ID as listed above, followed
+by a four-digit number to represent a specific work by that composer. Typically the first digit of the catalog number will indicate the genre of the work: 1 for masses, 2 for motets, and 3 for secular songs (see the `!!!AGN` reference record inside of the file for the actual genre designations). Exceptions include the music of Ludwig Senfl, which follows the volumes and catalog numbers of the [New Senfl Edition](https://senflonline.com/new-senfl-edition/) and Cipriano de Rore, for which scores have been donated by Jessie Ann Owens.
+
+After the four-digit work number, an optional letter indicates that a *movement*-level encoding of a work is found in the file.  This system is used for storing mass sections in separate files, where "a" is the first section (usually the Kyrie section), "b" is the second section (usually the Gloria section), and so on.
+
+## Download ##
+
+To download this Github repository using [git](http://en.wikipedia.org/wiki/Git_%29software%29) in a terminal, type:
+
+<code>git clone https://github.com/benory/1520s-project-scores.git</code>
