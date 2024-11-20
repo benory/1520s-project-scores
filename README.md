@@ -18,19 +18,19 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Arc">Arc</a></td>
     <td>Jacques Arcadelt</td>
-    <td><i>fl.</i> 1530–1568</td>
+    <td><i>fl.</i> 1530–68</td>
     <td><a href="https://1520s-project.org/browse/?q=arcadelt">Works by Arcadelt on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Bar">Bar</a></td>
     <td>Hotinet Barra</td>
-    <td><i>fl.</i> 1510–1523</td>
+    <td><i>fl.</i> 1510–23</td>
     <td><a href="https://1520s-project.org/browse/?q=barra">Works by Barra on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Bau">Bau</a></td>
     <td>Noel Bauldeweyn</td>
-    <td><i>fl.</i> 1509–1519</td>
+    <td><i>fl.</i> 1509–19</td>
     <td><a href="https://1520s-project.org/browse/?q=bauldeweyn">Works by Bauldeweyn on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Cha">Cha</a></td>
     <td>Nicolas Champion</td>
-    <td><i>fl.</i> 1510–1530</td>
+    <td><i>fl.</i> 1510–30</td>
     <td><a href="https://1520s-project.org/browse/?q=champion">Works by Champion on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -60,31 +60,31 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Fsc">Fsc</a></td>
     <td>Costanzo Festa</td>
-    <td><i>fl.</i> 1517–1545</td>
+    <td><i>fl.</i> 1517–45</td>
     <td><a href="https://1520s-project.org/browse/?q=Festa%2C%20costanzo">Works by Costanzo Festa on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Fss">Fss</a></td>
     <td>Sebastiano Festa</td>
-    <td><i>fl.</i> 1516–1524</td>
+    <td><i>fl.</i> 1516–24</td>
     <td><a href="https://1520s-project.org/browse/?q=Festa%2C%20sebastiano">Works by Sebastiano Festa on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Fva">Fva</a></td>
     <td>Antoine de Févin</td>
-    <td><i>fl.</i> 1507–1512</td>
+    <td><i>fl.</i> 1507–12</td>
     <td><a href="https://1520s-project.org/browse/?q=fevin">Works by Févin on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Gom">Gom</a></td>
     <td>Nicolas Gombert</td>
-    <td><i>fl.</i> 1525–1547</td>
+    <td><i>fl.</i> 1525–47</td>
     <td><a href="https://1520s-project.org/browse/?q=gombert">Works by Gombert on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Gsc">Gsc</a></td>
     <td>Mathieu Gascongne</td>
-    <td><i>fl.</i> 1517–1518</td>
+    <td><i>fl.</i> 1517–18</td>
     <td><a href="https://1520s-project.org/browse/?q=gascongne">Works by Gascongne on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Jom">Jom</a></td>
     <td>Jacquet of Mantua</td>
-    <td><i>fl.</i> 1519–1559</td>
+    <td><i>fl.</i> 1519–59</td>
     <td><a href="https://1520s-project.org/browse/?q=jachet">Works by Jacquet of Mantua on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -108,19 +108,19 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Lhe">Lhe</a></td>
     <td>Jean Lhéritier</td>
-    <td><i>fl.</i> 1506–1525</td>
+    <td><i>fl.</i> 1506–25</td>
     <td><a href="https://1520s-project.org/browse/?q=lheritier">Works by Lhéritier on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Lpi">Lpi</a></td>
     <td>Johannes Lupi</td>
-    <td><i>fl.</i> 1526–1539</td>
+    <td><i>fl.</i> 1526–39</td>
     <td><a href="https://1520s-project.org/browse/?q=lupi">Works by Lupi on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Lps">Lps</a></td>
     <td>Lupus Hellinck</td>
-    <td><i>fl.</i> 1518–1541</td>
+    <td><i>fl.</i> 1518–41</td>
     <td><a href="https://1520s-project.org/browse/?q=hellinck">Works by Hellinck on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Mlu">Mlu</a></td>
     <td>Pierre Moulu</td>
-    <td><i>fl.</i> 1514–1535</td>
+    <td><i>fl.</i> 1514–35</td>
     <td><a href="https://1520s-project.org/browse/?q=moulu">Works by Moulu on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -144,37 +144,37 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ren">Ren</a></td>
     <td>Renaldo</td>
-    <td><i>fl.</i> 1515–1521</td>
+    <td><i>fl.</i> 1515–21</td>
     <td><a href="https://1520s-project.org/browse/?q=renaldo">Works by Renaldo on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ric">Ric</a></td>
     <td>Jean Richafort</td>
-    <td><i>fl.</i> 1509–1550</td>
+    <td><i>fl.</i> 1509–50</td>
     <td><a href="https://1520s-project.org/browse/?q=richafort">Works by Richafort on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ror">Ror</a></td>
     <td>Cipriano de Rore</td>
-    <td><i>fl.</i> 1540–1565</td>
+    <td><i>fl.</i> 1540–65</td>
     <td><a href="https://1520s-project.org/browse/?q=rore">Works by Rore on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ser">Ser</a></td>
     <td>Claudin de Sermisy</td>
-    <td><i>fl.</i> 1508–1555</td>
+    <td><i>fl.</i> 1508–55</td>
     <td><a href="https://1520s-project.org/browse/?q=sermisy">Works by Sermisy on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Snf">Snf</a></td>
     <td>Ludwig Senfl</td>
-    <td><i>fl.</i> 1507–1543</td>
+    <td><i>fl.</i> 1507–43</td>
     <td><a href="https://1520s-project.org/browse/?q=senfl">Works by Senfl on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Sil">Sil</a></td>
     <td>Andreas de Silva</td>
-    <td><i>fl.</i> 1513–1530</td>
+    <td><i>fl.</i> 1513–30</td>
     <td><a href="https://1520s-project.org/browse/?q=silva">Works by de Silva on The 1520s Project</a></td>
   </tr>
   <tr>
@@ -186,19 +186,19 @@ Individual works by composers are archived independently. Each of their reposito
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ver">Ver</a></td>
     <td>Philippe Verdelot</td>
-    <td><i>fl.</i> 1521–1529</td>
+    <td><i>fl.</i> 1521–29</td>
     <td><a href="https://1520s-project.org/browse/?q=verdelot">Works by Philippe Verdelot on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Vin">Vin</a></td>
     <td>Jheronimus Vinders</td>
-    <td><i>fl.</i> 1525–1526</td>
+    <td><i>fl.</i> 1525–26</td>
     <td><a href="https://1520s-project.org/browse/?q=vinders">Works by Jheronimus Vinders on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Wil">Wil</a></td>
     <td>Adrian Willaert</td>
-    <td><i>fl.</i> 1515–1560</td>
+    <td><i>fl.</i> 1515–60</td>
     <td><a href="https://1520s-project.org/browse/?q=willaert">Works by Willaert on The 1520s Project</a></td>
   </tr>
 </table>
