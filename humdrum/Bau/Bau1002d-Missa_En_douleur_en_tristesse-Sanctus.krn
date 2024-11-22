@@ -298,8 +298,8 @@
 =48	=48	=48	=48	=48
 00GG]	00D]	00G]	00d]	00b-]
 =49||	=49||	=49||	=49||	=49||
-*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*M2/1	*	*	*M2/1	*M2/1
+*met(C|)	*	*	*met(C|)	*met(C|)
 !!section: Pleni sunt
 !!!OMD: Pleni sunt
 0r	0r	0r	0r	1g
@@ -742,8 +742,8 @@
 =125	=125	=125	=125	=125
 00GG]	00Dl	00G]	00d	00g]
 =126||	=126||	=126||	=126||	=126||
-*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*	*M2/1	*M2/1	*M2/1
+*	*	*met(C|)	*met(C|)	*met(C|)
 !!section: Benedictus
 !!!OMD: Benedictus
 0r	0r	1c	1r	0g

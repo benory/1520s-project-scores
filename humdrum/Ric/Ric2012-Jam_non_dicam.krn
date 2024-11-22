@@ -660,7 +660,7 @@
 .	.	.	.	.	.	2A	.	2f#i	.
 =	=	=	=	=	=	=	=	=	=
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
 1r	.	1d	-tem.	0G	-tem.	0.B-y	-tem.	0.g	-tem.
 1r	.	1r	.	.	.	.	.	.	.
 1G	Et	1G	Et	1g	Et	.	.	.	.
