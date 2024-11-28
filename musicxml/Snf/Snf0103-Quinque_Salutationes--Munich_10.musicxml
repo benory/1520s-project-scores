@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Snf0103-Quinque_salutationes</work-title>
+  <work-title>Snf0103-Quinque_salutationes--Munich_10</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
@@ -10,7 +10,7 @@
   <creator type="lyricist">New Senfl Edition (DTÖ)</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2024-11-27</encoding-date>
+   <encoding-date>2024-11-28</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 24.6.1</software>
    <software>Direct export, not from Dolet</software>
@@ -73,7 +73,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="363" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0103-Quinque_salutationes</credit-words>
+  <credit-words default-x="872" default-y="363" font-family="Times New Roman" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Snf0103-Quinque_salutationes--Munich_10</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="1636" default-y="57" font-family="Times New Roman" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Ludwig Senfl</credit-words>
