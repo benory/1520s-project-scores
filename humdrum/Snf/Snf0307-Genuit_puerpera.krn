@@ -486,5 +486,5 @@
 !!!EEV: 2024/12/3
 !!!verovio: header encoded
 !!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
-!!!header-right: @{COM}
-!!!header-center: @{OTL}
+!!!header-right:
+!!!header-center:
