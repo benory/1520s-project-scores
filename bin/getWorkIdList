@@ -34,10 +34,10 @@ die "Cannot find cut program.  Install it first somehow.\n" if $cut =~ /^\s*$/;
 
 
 # The $macroid is taken from cell B10 of the link:
-#    https://docs.google.com/spreadsheets/d/1KBXyuyE4pfJ61UtQBEfEwLp-vjoyFO_fbUU03DOsiGU/edit#gid=1415236658
+#    https://docs.google.com/spreadsheets/d/1rVevNfKXd0g4NWOZdm2dG9sbQgOh5nOr_5G_2nizAgY/edit?gid=0#gid=0
 # It may need to be updated occasionally.
 
-my $macroid = "AKfycbwS6_3R_xj1tauNTaNFcdL3p6JeSxDfwU6NRTObOGWYytKsfug5qwklMooTZYngpee9gw";
+my $macroid = "AKfycbxz4kQ33FUXUl5zg4jbG6EhccphbCf3EZ07GWzD2YFMZc8Dnsp-hUTYMU26DU5hLNkLoQ";
 
 my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
 
