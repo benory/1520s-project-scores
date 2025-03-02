@@ -5,7 +5,7 @@
   <work-title>Boy2001-In_principio</work-title>
  </work>
  <identification>
-  <creator type="composer">Simon Boyleau</creator>
+  <creator type="composer">Boyleau</creator>
   <creator type="arranger">Benjamin Ory 2025/3/2</creator>
   <encoding>
    <encoding-date>2025-03-02</encoding-date>
@@ -77,7 +77,7 @@
   <credit-words default-x="785" default-y="118" font-family="Palatino" font-style="normal" font-size="9.3787" font-weight="normal" justify="center" valign="middle">Secunda pars: Erat lux</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="1461" default-y="84" font-family="Palatino" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Simon Boyleau</credit-words>
+  <credit-words default-x="1461" default-y="84" font-family="Palatino" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Boyleau</credit-words>
  </credit>
  <credit page="2">
   <credit-words default-x="109" default-y="1922" font-style="normal" font-weight="normal" justify="left" valign="middle">2</credit-words>
