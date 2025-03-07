@@ -494,7 +494,8 @@
 00r	00F	00r	00f	00a
 =86||	=86||	=86||	=86||	=86||
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
-*met(O/3)	*met(O/3)	*met(O/3)	*met(O/3)	*met(O/3)
+*met(O/3)	*met(O/3)	*met(O/3)	*met(O/3)	*met(C|rev)
+*	*	*	*	*rscale:2
 !!section: Osanna
 !!!OMD: Osanna
 0C	0c	0.r	0.r	0.r
@@ -674,6 +675,7 @@
 =123||	=123||	=123||	=123||	=123||
 *M2/1	*M2/1	*	*	*M2/1
 *met(C|)	*met(C|)	*	*	*met(C|)
+*	*	*	*	*rscale:1
 !!section: Benedictus
 !!!OMD: Benedictus
 0r	1c	0r	0r	0r

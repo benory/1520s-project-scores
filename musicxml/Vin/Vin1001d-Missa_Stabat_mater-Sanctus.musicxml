@@ -8,7 +8,7 @@
   <creator type="composer">Jheronimus Vinders</creator>
   <creator type="arranger">Benjamin Ory 2021/4/22</creator>
   <encoding>
-   <encoding-date>2024-09-15</encoding-date>
+   <encoding-date>2025-03-07</encoding-date>
    <encoder>Benjamin Ory</encoder>
    <software>Sibelius 24.6.1</software>
    <software>Direct export, not from Dolet</software>
@@ -3976,14 +3976,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <other-direction default-y="-5" print-object="no">Prolation</other-direction>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <words justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal">3</words>
+     <other-direction default-y="-20" print-object="no">Prolation</other-direction>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -10477,7 +10470,14 @@
    </attributes>
    <direction>
     <direction-type>
-     <other-direction default-y="-5" print-object="no">Prolation</other-direction>
+     <other-direction default-y="-6" print-object="no">Prolation</other-direction>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="75" default-y="-31" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -14566,7 +14566,14 @@
    </attributes>
    <direction>
     <direction-type>
-     <other-direction default-y="-5" print-object="no">Prolation</other-direction>
+     <other-direction default-y="-8" print-object="no">Prolation</other-direction>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="76" default-y="-33" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -19580,7 +19587,14 @@
    </attributes>
    <direction>
     <direction-type>
-     <other-direction default-y="-5" print-object="no">Prolation</other-direction>
+     <other-direction default-y="-8" print-object="no">Prolation</other-direction>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="76" default-y="-33" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -25019,6 +25033,13 @@
    <direction>
     <direction-type>
      <other-direction default-y="-5" print-object="no">Prolation</other-direction>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="76" default-y="-30" justify="center" valign="middle" font-family="Opus Std" font-style="normal" font-size="15.7124" font-weight="normal"></words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
