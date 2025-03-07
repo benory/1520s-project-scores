@@ -14,7 +14,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*F:	*F:	*F:	*F:
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*met(C|)	*met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
 =1	=1	=1	=1	=1	=1
@@ -316,6 +316,8 @@
 1C	1c	.	.	.	.
 .	.	.	.	.	2e
 =56	=56	=56	=56	=56	=56
+*	*	*M2/1	*	*	*
+*	*	*met(Cr)	*	*	*
 1F	1.A	[0F	1c	2.a	1f
 .	.	.	.	4b-y	.
 2r	.	.	1f	2cc	2r
