@@ -1326,9 +1326,16 @@
 !!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!ENC: Benjamin Ory
-!!!END: 2025/3/7
+!!!!PTL: <i> New Senfl Edition: Motets for Four Voices (N-V) </i>
+!!!PPR: Hollitzer Verlag
+!!!PC#: Denkmäler der Tonkunst in Österreich 163.2
+!!!PDT: 2022
+!!!PED: Scott Lee Edwards, Stefan Gasch, and Sonja Tröster
+!!!YEC: Copyright 2022 Denkmäler der Tonkunst in Österreich
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Benjamin Ory
-!!!EEV: 2025/03/07
-!!!YEC: Copyright 2025 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2025/03/07
+!!!EEV: 2024/3/7
+!!!verovio: header encoded
+!!!header-left: @{PTL}\n@{PED}, eds.\n@{PC#} (@{PDT})&nbsp;\n
+!!!header-right: 
+!!!header-center:
