@@ -9030,14 +9030,18 @@
   <measure number="89" width="274">
    <note color="#000000" default-x="15">
     <pitch>
-     <step>F</step>
+     <step>A</step>
      <octave>4</octave>
     </pitch>
     <duration>1024</duration>
+    <tie type="stop" />
     <instrument id="P2-I1" />
     <voice>1</voice>
     <type>whole</type>
     <staff>1</staff>
+    <notations>
+     <tied type="stop" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="132">
     <pitch>
