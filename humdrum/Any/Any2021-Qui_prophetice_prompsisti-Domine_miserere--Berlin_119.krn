@@ -1,10 +1,10 @@
-!!!!SEGMENT: Any2021-Qui_prophetice_prompsisti-Domine_miserere.krn
+!!!!SEGMENT: Any2021-Qui_prophetice_prompsisti-Domine_miserere--Berlin_119.krn
 !!!id: Any2021
 !!!AGN: Motet
 !!!voices: 5
 !!!COM: Anonymous
 !!!OPR: Qui prophetice prompsisti
-!!!OTL: Domine miserere
+!!!OTL: Domine, miserere
 **kern	**kern	**kern	**kern	**kern
 *part5	*part4	*part3	*part2	*part1
 *staff5	*staff4	*staff3	*staff2	*staff1
@@ -15,8 +15,8 @@
 *F:	*F:	*F:	*F:	*F:
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Quinta pars: Domine miserere
-!!!OMD: Quinta pars: Domine miserere
+!!section: Quinta pars: Domine, miserere
+!!!OMD: Quinta pars: Domine, miserere
 =1	=1	=1	=1	=1
 !	!	!	!	!LO:TX:a:t=Transcribed from the keyboard tablature Berlin 119
 0r	0r	1e	0r	0r

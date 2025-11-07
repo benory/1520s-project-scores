@@ -1,10 +1,10 @@
-!!!!SEGMENT: Any2020-Qui_prophetice_prompsisti-Christi_Dominus.krn
+!!!!SEGMENT: Any2020-Qui_prophetice_prompsisti-Christus_Dominus.krn
 !!!id: Any2020
 !!!AGN: Motet
 !!!voices: 5
 !!!COM: Anonymous
 !!!OPR: Qui prophetice prompsisti
-!!!OTL: Christi Dominus
+!!!OTL: Christus Dominus
 **kern	**kern	**text	**kern	**kern	**text	**kern	**text
 *part5	*part4	*part4	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff4	*staff4	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -15,8 +15,8 @@
 *F:	*F:	*	*F:	*F:	*	*F:	*
 *M2/1	*M2/1	*	*M2/1	*M2/1	*	*M2/1	*
 *met(C|)	*met(C|)	*	*met(C|)	*met(C|)	*	*met(C|)	*
-!!section: Quarta pars: Christi Dominus
-!!!OMD: Quarta pars: Christi Dominus
+!!section: Quarta pars: Christus Dominus
+!!!OMD: Quarta pars: Christus Dominus
 =1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!LO:TX:a:t=Tenor I and Bassus drawn from Berlin 119 \n	!
 1A	0r	.	1r	0r	.	0r	.

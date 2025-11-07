@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Any2020-Qui_prophetice_prompsisti-Christi_Dominus</work-title>
+  <work-title>Any2020-Qui_prophetice_prompsisti-Christus_Dominus</work-title>
  </work>
  <identification>
   <creator type="composer">Ludwig Senfl</creator>
@@ -73,10 +73,10 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="872" default-y="250" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Any2020-Qui_prophetice_prompsisti-Christi_Dominus</credit-words>
+  <credit-words default-x="872" default-y="250" font-family="Adobe Garamond Pro" font-style="normal" font-size="17.2958" font-weight="normal" justify="center" valign="middle">Any2020-Qui_prophetice_prompsisti-Christus_Dominus</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="872" default-y="179" font-family="Adobe Garamond Pro" font-style="normal" font-size="14.9815" font-weight="normal" justify="center" valign="middle">Quarta pars: Christi Dominus</credit-words>
+  <credit-words default-x="872" default-y="179" font-family="Adobe Garamond Pro" font-style="normal" font-size="14.9815" font-weight="normal" justify="center" valign="middle">Quarta pars: Christus Dominus</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="1636" default-y="84" font-family="Adobe Garamond Pro" font-style="normal" font-size="8.6479" font-weight="normal" justify="right" valign="middle">Ludwig Senfl</credit-words>
