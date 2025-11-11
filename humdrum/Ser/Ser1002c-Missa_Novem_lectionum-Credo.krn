@@ -17,7 +17,7 @@
 !!section: Patrem
 !!!OMD: Patrem
 =1	=1	=1	=1
-!	!	!	!LO:TX:a:t=Cantus firmus&colon; Credo I
+!	!	!	!LO:TX:a:t=Cantus firmus&colon; Credo I \n
 1D	0r	1d	0r
 1E	.	1G	.
 =2	=2	=2	=2
@@ -467,7 +467,7 @@
 0D	0A	[0dl	1g]
 .	.	.	1f#i
 =84	=84	=84	=84
-0GG	0G	0d]	0g
+0GGl	0Gl	0d]	0gl
 =85||	=85||	=85||	=85||
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -592,7 +592,7 @@
 .	.	1A	.
 .	.	.	2f#i
 =107	=107	=107	=107
-0r	0r	0G	0g
+0r	0r	0Gl	0gl
 =108||	=108||	=108||	=108||
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -696,7 +696,7 @@
 .	1A	.	.
 2F#i	.	.	.
 =129	=129	=129	=129
-0G	0G	0r	0r
+0Gl	0Gl	0r	0r
 =130||	=130||	=130||	=130||
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -847,7 +847,7 @@
 4BB	.	.	.
 4AA	.	.	.
 =155	=155	=155	=155
-0GG	0G]	0B	0r
+0GGl	0G]	0Bl	0r
 =156||	=156||	=156||	=156||
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
