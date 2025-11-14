@@ -692,9 +692,13 @@
 !!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!ENC: Benjamin Ory
-!!!END: 2021/2/2
+!!!ENC: Vincent Besson, Marco Gurrieri, and Richard Freedman
+!!!END: 2025/3/14
 !!!EED: Benjamin Ory
-!!!EEV: 2021/05/21
-!!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2021/05/21
+!!!EEV: 2021/5/21
+!!!YEC: Copyright 2025 Citations: The Renaissance Imitation Mass Project, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2021/5/21
+!!!verovio: header encoded
+!!!header-left: Edited by @{ENC} (2025)\n Citations: The Renaissance Imitation Mass Project \n
+!!!header-right:
+!!!header-center:
