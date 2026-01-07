@@ -8,9 +8,9 @@
   <creator type="composer">Renaldo</creator>
   <creator type="arranger">Benjamin Ory 2025/1/23</creator>
   <encoding>
-   <encoding-date>2025-02-23</encoding-date>
+   <encoding-date>2026-01-07</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 24.6.1</software>
+   <software>Sibelius 25.12.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -2828,7 +2828,7 @@
    </barline>
   </measure>
   <!--============== Part: P1, Measure: 70 ==============-->
-  <measure number="70" width="208">
+  <measure number="70" width="209">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -2839,9 +2839,9 @@
     </system-layout>
    </print>
    <attributes>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -2922,7 +2922,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="106">
+   <note color="#000000" default-x="105">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -8028,7 +8028,7 @@
    </barline>
   </measure>
   <!--============== Part: P2, Measure: 70 ==============-->
-  <measure number="70" width="208">
+  <measure number="70" width="209">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -8041,9 +8041,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -8122,7 +8122,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="106">
+   <note color="#000000" default-x="105">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -13584,7 +13584,7 @@
    </barline>
   </measure>
   <!--============== Part: P3, Measure: 70 ==============-->
-  <measure number="70" width="208">
+  <measure number="70" width="209">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -13597,9 +13597,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -13678,7 +13678,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note default-x="106">
+   <note default-x="105">
     <rest />
     <duration>512</duration>
     <instrument id="P3-I1" />
@@ -18767,7 +18767,7 @@
    </barline>
   </measure>
   <!--============== Part: P4, Measure: 70 ==============-->
-  <measure number="70" width="208">
+  <measure number="70" width="209">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -18780,9 +18780,9 @@
     </staff-layout>
    </print>
    <attributes>
-    <time symbol="cut" color="#000000">
-     <beats>2</beats>
-     <beat-type>2</beat-type>
+    <time symbol="common" color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
@@ -18862,7 +18862,7 @@
     <type>whole</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="106">
+   <note color="#000000" default-x="105">
     <pitch>
      <step>F</step>
      <octave>3</octave>
