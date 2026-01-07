@@ -3,7 +3,7 @@
 !!!AGN: Mass; Kyrie
 !!!voices: 4
 !!!COM: Renaldo
-!!!OPR: Missa Sine nomine 
+!!!OPR: Missa Sine nomine
 !!!OTL: Kyrie
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
@@ -125,7 +125,7 @@
 00G	00G	00d	00g
 =21||	=21||	=21||	=21||
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*met(C/2)	*met(C/2)	*met(C/2)	*met(C/2)
 !!section: Christe
 !!!OMD: Christe
 0D	0A	0d	0f
