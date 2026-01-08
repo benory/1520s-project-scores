@@ -16,6 +16,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C)	*met(C|)
 !!Section: Prima pars: Vulnerasti cor meum
 !!!OMD: Prima pars: Vulnerasti cor meum
+!!primary-mensuration: met(C|)
 =1	=1	=1	=1	=1
 0r	0r	0r	0r	0f
 =2	=2	=2	=2	=2
@@ -454,6 +455,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C)	*met(C|)
 !!Section: Secunda pars: Et uox tua
 !!!OMD: Secunda pars: Et uox tua
+!!primary-mensuration: met(C|)
 1C	1G	0r	0r	0r
 [1F	[1A	.	.	.
 =78	=78	=78	=78	=78
