@@ -496,6 +496,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O/3)	*met(O/3)	*met(O/3)	*met(O/3)	*met(C|rev)
 *	*	*	*	*rscale:2
+!!primary-mensuration: met(O/3)
 !!section: Osanna
 !!!OMD: Osanna
 0C	0c	0.r	0.r	0.r

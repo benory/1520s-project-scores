@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+
+# Root of your Humdrum repository
+ROOT="${1:-.}"
+
+# File extensions to scan
+EXTENSIONS='\.(krn|hum|mx)$'
+
+find "$ROOT" -type f | grep -E "$EXTENSIONS" | while read -r file; do
+  awk -F'\t' '
+    # Only interpretation lines
+    /^\*/ {
+      delete met
+      met_count = 0
+
+      # Collect *met(...) tokens on this line
+      for (i = 1; i <= NF; i++) {
+        if ($i ~ /^\*met\(/) {
+          met[$i] = 1
+        }
+      }
+
+      # Count distinct mensurations
+      for (m in met) {
+        met_count++
+      }
+
+      # Report if more than one distinct *met()
+      if (met_count > 1) {
+        printf "%s:%d -> ", FILENAME, NR
+        first = 1
+        for (m in met) {
+          if (!first) printf ", "
+          printf "%s", m
+          first = 0
+        }
+        printf "\n"
+      }
+    }
+  ' "$file"
+done

@@ -324,6 +324,7 @@
 *M3/1	*	*M3/1	*	*	*	*M3/1	*
 *met(O)	*	*met(O|)	*	*	*	*met(C|r)	*
 *	*	*rscale:2	*	*rscale:2	*	*rscale:4	*
+!!primary-mensuration: met(O)
 2.F	.	1.F	.	1c	.	4.cc	.
 .	.	.	.	.	.	8b-y	.
 =-	=-	=-	=-	=-	=-	=	=-
