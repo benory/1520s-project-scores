@@ -2,7 +2,7 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-title>Ric2036-Hoc_signum_crucis</work-title>
+    <work-title>Ric2036-Hoc_signum_crucis--Regensburg_2_3</work-title>
     </work>
   <identification>
     <creator type="arranger">Janosch Umbreit 2026/01/23</creator>
@@ -66,7 +66,7 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="784.999564" default-y="1922.006415" justify="center" valign="top" font-size="22">Ric2036-Hoc_signum_crucis</credit-words>
+    <credit-words default-x="784.999564" default-y="1922.006415" justify="center" valign="top" font-size="22">Ric2036-Hoc_signum_crucis--Regensburg_2_3</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
