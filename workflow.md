@@ -48,7 +48,7 @@ Editors may begin in one of three ways:
 
 ## 1. Template File
 
-Template files are available, including: `4vv_no_flats_MenCutC` and `4vv_1flat_MenCircle`.
+Template files are available, including: `4vv_no_flats_MenCutC` (a file with four blank staves, no flat signature, and in 2/1 to match Cut-C mensuration) and `4vv_1flat_MenCircle`.
 
 Templates ensure correct mensuration, proper staff configuration, and standardized layout
 
@@ -56,10 +56,7 @@ Templates ensure correct mensuration, proper staff configuration, and standardiz
 
 ## 2. Optical Music Recognition (OMR)
 
-- **Sibelius**: PhotoScore  
-- **MuseScore**: `File > Import PDF`
-
-All OMR output must be carefully corrected.
+Both **Sibelius** and **MuseScore** have OMR software (for Sibelius, PhotoScore; for MuseScore, `File > Import PDF`). You can use these to generate a first draft of a score. All OMR output must be carefully corrected.
 
 ---
 
@@ -67,9 +64,9 @@ All OMR output must be carefully corrected.
 
 If beginning from an existing edition donated to the project:
 - Correct errors
-- Normalize note values
-- Remove reduction
+- Normalize note values/remove reduction
 - Apply 1520s/JRP tagging conventions
+- Prepare critical commentary
 
 ---
 
@@ -99,7 +96,13 @@ If no mensuration sign appears in the source, add above m. 1: "Mensuration signs
 
 ## Voices in Different Mensurations
 
-All voices must use the same meter in the transcription. Then add technical instructions above relevant staff: `rscale:1/2`, `barlines:2`, `barlines:3`, or `barlines:2, dashed`
+All voices must use the same meter in the transcription. Then add technical instructions above relevant staff: `rscale:1/2`, `barlines:2`, `barlines:3`, or `barlines:2, dashed`.
+
+`rscale:1/2` causes the note values we print to be half the length of the ones you've entered (e.g., whole notes become half notes). You can also use `rscale:1/4`.
+
+`barlines:2` makes barlines appear only every other measure. Use `barlines:3` to make the barline appear every three measures, etc.
+
+For unusual mensurations where the beat is on the breve: use either `barlines:2, dashed` (for `MenCutC2` and `MenReverseC`) or `barlines:3`, dashed (for `MenCircle2`). This will create dashed barlines, with a full barline only after every two or three breves, resepctively.
 
 ---
 
@@ -107,20 +110,15 @@ All voices must use the same meter in the transcription. Then add technical inst
 
 ## Clefs
 
-Use only:
-- Treble  
-- Treble-8vb  
-- Bass  
-
-Choose clefs based on vocal range.
+Use only treble, treble-octave, and bass. Choose clefs based on vocal ranges (don't blindly follow editions). When in doubt, probably use treble-octave.
 
 ---
 
 ## Voice Labels
 
 Standard ordering:
-- Superius (before ca. 1480: Discantus)
-- Altus (before ca. 1480: Contratenor)
+- Superius (before ca. 1480: usually Discantus)
+- Altus (before ca. 1480: usually Contratenor)
 - Tenor
 - Bassus
 
@@ -129,69 +127,38 @@ All voice names must be unique. For The 1520s Project, use only Superius, Altus,
 ---
 
 # Note Values and Reduction
-- Use **original note values**.
-- Correct reductions (2:1, 4:1, etc.).
-- Ensure consistency across the entire piece.
+Use **original values**, correcting the edition's reduction. Be careful in cases where the edition adopts 2:1 reduction here but 4:1 there.
 
 ---
 
 # Editorial Accidentals
 
-Insert editorial accidentals when:
-- Required for cadential inflection  
-- Clear melodic tritone implication  
-- Strong contrapuntal necessity  
-
-Policy:
-- Place on staff
-- Use parentheses
-- Do not blindly follow published editions
+In most cases, ignore the published edition. Insert obvious editorial accidentals as you go, placing sharps, flats, and natural signs on the staff in parentheses. We want editorial accdientals only for cadential inflection and clear melodic tritone leaps or outlines.
 
 ---
 
-# Fermatas and Orthography
+# Fermatas
 
-## Fermatas
-- Add fermatas where musically appropriate
-- Omit fermatas on final note of section
+Add these—but omit fermatas on the last note of a section.
 
 ---
 
 ## Orthography
 
 - Use “e” instead of “ae" except when the earliest source explicitly uses "ae"
-
-Capitalization policy:
-- Do not capitalize “domine,” “deus,” etc.
-- Capitalize proper names only
+- The Josquin Research Project does not capitalize on "Domine," "Dominus," "Deus," etc., and only capitalizes proper names (e.g., "Antonius," "Maria," or "Christus"). The 1520s Project capitalizes "Domine," "Dominus," and "Deus," in addition to proper names.
 
 ---
 
 # Section Names and Analytical Tags
 
-For multi-section works, add section labels:
-- Section: Kyrie I
-- Section: Qui tollis
-- Section: Mente tota
+For any piece in two sections or more, label each, as in: `Section: Kyrie I`; `Section: Qui tollis`; `Section: Mente tota` (as a "Technique" in Sibelius or as "System Text" in MuseScore above the first measure). Do not add full text underlay or include it from a PDF processed using OMR. If, however, full underlay is present in a pre-existing MuseScore/Sibelius/Finale file, you can retain it if it seems plausible.
 
-Add as:
-
-- System Text (MuseScore)
-- Technique (Sibelius)
-
----
-
-## Analytical / Explanatory Tags
-
-Add above relevant staff when applicable:
-
-Examples:
+Add explanatory information as appropriate, above the relevant staff, as a “Technique.” Do this for imitation canons and clear cantus-firmus quotations, as in:
 - Canon at the upper 5th (A→S, 2 breves)
 - T = T of Okeghem’s D’ung aultre amer
 - MS: e’ [error]
 - T governed by a repeat sign
-
-Use sparingly but consistently.
 
 ---
 
