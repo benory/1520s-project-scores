@@ -10,7 +10,7 @@ Supported by the National Endowment for the Humanities (Scholarly Editions and T
 
 This document describes the complete editorial workflow for preparing Renaissance polyphony for publication in The 1520s Project and the Josquin Research Project (JRP). This guide is intended for project editors and external collaborators.
 
-The workflow ensures: consistent editorial standards; accurate analytical processing; clean Humdrum/MEI export; interoperability with digital tools (MEI, Verovio); and long-term sustainability and reproducibility.
+The workflow ensures consistent editorial standards, accurate analytical processing, clean Humdrum and MEI export, interoperability with digital tools (including MEI and Verovio), and long-term sustainability and reproducibility.
 
 ---
 
@@ -23,13 +23,11 @@ The workflow ensures: consistent editorial standards; accurate analytical proces
 5. [Note Values and Reduction Policy](#note-values-and-reduction-policy)  
 6. [Editorial Accidentals](#editorial-accidentals)  
 7. [Fermatas and Orthography](#fermatas-and-orthography)  
-8. [Section Names and Analytical Tags](#section-names-and-analytical-tags)
+8. [Section Names and Analytical Tags](#section-names-and-analytical-tags)  
 9. [Metadata and Attribution](#metadata-and-attribution)  
-10. [Critical Commentary](#critical-commentary)  
-11. [Submission Workflow](#submission-workflow)  
-12. [File Naming Conventions](#file-naming-conventions)  
-13. [Final Deliverables](#final-deliverables)  
-
+10. [Final Deliverables](#final-deliverables)  
+11. [Critical Commentary](#critical-commentary)  
+12. [Submission Workflow](#submission-workflow)   
 ---
 
 # General Principles
@@ -50,7 +48,7 @@ Editors may begin in one of three ways:
 
 Template files are available, including: `4vv_no_flats_MenCutC` (a file with four blank staves, no flat signature, and in 2/1 to match Cut-C mensuration) and `4vv_1flat_MenCircle`.
 
-Templates ensure correct mensuration, proper staff configuration, and standardized layout
+Templates ensure correct mensuration, proper staff configuration, and standardized layout.
 
 ---
 
@@ -102,7 +100,7 @@ All voices must use the same meter in the transcription. Then add technical inst
 
 `barlines:2` makes barlines appear only every other measure. Use `barlines:3` to make the barline appear every three measures, etc.
 
-For unusual mensurations where the beat is on the breve: use either `barlines:2, dashed` (for `MenCutC2` and `MenReverseC`) or `barlines:3`, dashed (for `MenCircle2`). This will create dashed barlines, with a full barline only after every two or three breves, resepctively.
+For unusual mensurations where the beat is on the breve: use either `barlines:2, dashed` (for `MenCutC2` and `MenReverseC`) or `barlines:3, dashed` (for `MenCircle2`). This will create dashed barlines, with a full barline only after every two or three breves, respectively.
 
 ---
 
@@ -124,18 +122,18 @@ Standard ordering:
 
 All voice names must be unique. 
 
-For The 1520s Project, use only Superius, Altus, Tenor and Bassus, or permutations thereof, such as Superius I, Altus II, etc.
+For The 1520s Project, use only Superius, Altus, Tenor, and Bassus, or permutations thereof, such as Superius I, Altus II, etc.
 
 ---
 
 # Note Values and Reduction
-Use **original values**, correcting the edition's reduction. Be careful in cases where the edition adopts 2:1 reduction here but 4:1 there.
+Use **original note values**, correcting the edition's reduction. Be careful in cases where the edition adopts 2:1 reduction here but 4:1 there.
 
 ---
 
 # Editorial Accidentals
 
-In most cases, ignore the published edition. Insert obvious editorial accidentals as you go, placing sharps, flats, and natural signs on the staff in parentheses. We want editorial accdientals only for cadential inflection and clear melodic tritone leaps or outlines.
+In most cases, ignore the published edition. Insert obvious editorial accidentals as you go, placing sharps, flats, and natural signs on the staff in parentheses. We want editorial accidentals only for cadential inflection and clear melodic tritone leaps or outlines.
 
 ---
 
@@ -147,7 +145,7 @@ Add these—but omit fermatas on the last note of a section.
 
 ## Orthography
 
-- Use “e” instead of “ae" except when the earliest source explicitly uses "ae"
+- Use "e" instead of "ae" except when the earliest source explicitly uses "ae"
 - The Josquin Research Project does not capitalize on "Domine," "Dominus," "Deus," etc., and only capitalizes proper names (e.g., "Antonius," "Maria," or "Christus"). The 1520s Project capitalizes "Domine," "Dominus," and "Deus," in addition to proper names.
 
 ---
@@ -181,7 +179,7 @@ Add above m. 1: Source: Bologna Q16
 ## File Naming Conventions
 
 Use the internal **piece ID** consistently across:
-- Sibleius/MuseScore file
+- Sibelius/MuseScore file
 - PDF
 - MusicXML
 - Text file
@@ -240,6 +238,8 @@ After review:
 ---
 
 ## Stage 3 — MusicXML to Humdrum Conversion
+
+Humdrum files are used for computational analysis, long-term preservation, and interoperability with project analytical tools.
 
 After editorial corrections are complete and the final MusicXML file has been exported, convert the file to Humdrum format using the `humlib` tools.
 
