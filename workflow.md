@@ -23,7 +23,7 @@ The workflow ensures: consistent editorial standards; accurate analytical proces
 5. [Note Values and Reduction Policy](#note-values-and-reduction-policy)  
 6. [Editorial Accidentals](#editorial-accidentals)  
 7. [Fermatas and Orthography](#fermatas-and-orthography)  
-8. [Section Names and Analytical Tags](#section-names-and-analytical-tags)  
+8. [Section Names and Analytical Tags](#section-names-and-analytical-tags)
 9. [Metadata and Attribution](#metadata-and-attribution)  
 10. [Critical Commentary](#critical-commentary)  
 11. [Submission Workflow](#submission-workflow)  
@@ -122,7 +122,9 @@ Standard ordering:
 - Tenor
 - Bassus
 
-All voice names must be unique. For The 1520s Project, use only Superius, Altus, Tenor and Bassus, or permutations thereof, such as Superius I, Altus II, etc.
+All voice names must be unique. 
+
+For The 1520s Project, use only Superius, Altus, Tenor and Bassus, or permutations thereof, such as Superius I, Altus II, etc.
 
 ---
 
@@ -181,12 +183,11 @@ Add above m. 1: Source: Bologna Q16
 # Critical Commentary
 
 For each source or edition:
-
 1. Enter one row per source.
 2. Upload music text as `.txt` file (filename = piece ID).
 3. Optional: add 1–3 sentences describing source relationships.
 
-Mass Ordinary movements do not require separate text files.
+Mass Ordinary movements do not require separate text files. One set of source entries per mass is sufficient.
 
 ---
 
@@ -195,7 +196,7 @@ Mass Ordinary movements do not require separate text files.
 ## Stage 1 — Draft
 
 - Upload notation file (MuseScore or Sibelius)
-- Upload `.txt` text file
+- Upload `.txt` file for the text
 - Upload scan (if newly created)
 - Highlight work in tracking sheet (yellow)
 
@@ -207,28 +208,23 @@ After review:
 
 - Incorporate revisions
 - Upload three files:
-
     - Notation file (.mscz or .sib)
     - PDF
     - MusicXML
-
 - Enter completion date in tracking sheet
-
-Project leadership will rename file with official prefix.
 
 ---
 
 # File Naming Conventions
 
 Use the internal **piece ID** consistently across:
-
-- Notation file
+- Sibleius/MuseScore file
 - PDF
 - MusicXML
 - Text file
 - Scan (if applicable)
 
-Example: Ric1001a-Missa_O_genitrix-Kyrie
+Example: `Ric1001a-Missa_O_genitrix-Kyrie`
 
 # Final Deliverables
 
