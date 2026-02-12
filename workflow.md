@@ -215,6 +215,29 @@ After review:
 
 ---
 
+## Stage 3 — MusicXML to Humdrum Conversion
+
+After editorial corrections are complete and the final MusicXML file has been exported, convert the file to Humdrum format using the `humlib` tools.
+
+### Command-Line Workflow
+
+1. Convert MusicXML to Humdrum using `musicxml2hum`.
+2. Apply the appropriate project-specific `humextra` filter:
+   - `1520ify` for *The 1520s Project*
+   - `jrpize` for the *Josquin Research Project (JRP)*
+3. Renumber measures using `barnum -a` to ensure consistent bar numbering.
+
+This should look like the following:
+
+```bash
+musicxml2hum example_piece.xml \
+  | 1520ify \
+  | barnum -a \
+  > example_piece.krn
+```
+
+---
+
 # File Naming Conventions
 
 Use the internal **piece ID** consistently across:
