@@ -230,10 +230,7 @@ After editorial corrections are complete and the final MusicXML file has been ex
 This should look like the following:
 
 ```bash
-musicxml2hum example_piece.musicxml \
-  | 1520ify \
-  | barnum -a \
-  > example_piece.krn
+musicxml2hum example_piece.musicxml | 1520ify | barnum -a > example_piece.krn
 ```
 
 ---
