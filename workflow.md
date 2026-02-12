@@ -178,6 +178,30 @@ Enter in Arranger field: Name YYYY/MM/DD (example: Jane Smith 2026/02/10)
 
 Add above m. 1: Source: Bologna Q16
 
+## File Naming Conventions
+
+Use the internal **piece ID** consistently across:
+- Sibleius/MuseScore file
+- PDF
+- MusicXML
+- Text file
+- Scan (if applicable)
+
+Example: `Ric1001a-Missa_O_genitrix-Kyrie`
+
+---
+
+# Final Deliverables
+
+Each completed edition must include:
+
+- Notation file (.mscz or .sib)
+- PDF engraving
+- MusicXML
+- Text file (if applicable)
+
+All files must conform to the project's editorial policy.
+
 ---
 
 # Critical Commentary
@@ -232,30 +256,6 @@ This should look like the following:
 ```bash
 musicxml2hum example_piece.musicxml | 1520ify | barnum -a > example_piece.krn
 ```
-
----
-
-# File Naming Conventions
-
-Use the internal **piece ID** consistently across:
-- Sibleius/MuseScore file
-- PDF
-- MusicXML
-- Text file
-- Scan (if applicable)
-
-Example: `Ric1001a-Missa_O_genitrix-Kyrie`
-
-# Final Deliverables
-
-Each completed edition must include:
-
-- Notation file (.mscz or .sib)
-- PDF engraving
-- MusicXML
-- Text file (if applicable)
-
-All files must conform to the project's editorial policy.
 
 ---
 
