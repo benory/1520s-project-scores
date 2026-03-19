@@ -603,11 +603,11 @@
 .	.	.	.	.	.	2G#i	.
 =104	=104	=104	=104	=104	=104	=104	=104
 0AAl	[mul.]	0Al	-mul.	0Al	-mul.	0Al	-mul.
-=105	=105	=105	=105	=105	=105	=105	=105
+=105||	=105||	=105||	=105||	=105||	=105||	=105||	=105||
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Tertia pars: Plebs Hebrea
-!!!OMD: Tertia pars: Plebs Hebrea
+!!section: Quarta pars: Plebs Hebrea
+!!!OMD: Quarta pars: Plebs Hebrea
 0A	Plebs	0c	Plebs	0e	Plebs	0A	Plebs
 =106	=106	=106	=106	=106	=106	=106	=106
 1F	He-	1c	He-	1f	He-	1A	He-
