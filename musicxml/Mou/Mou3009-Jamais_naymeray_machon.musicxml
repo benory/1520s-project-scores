@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Mou3009-Jamais_naymeray_machon</work-title>
+    </work>
+  <identification>
+    <creator type="arranger">Max Blistain 2026/03/22</creator>
+    <creator type="composer">Jean Mouton</creator>
+    <encoding>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-03-26</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="creationDate">2025-10-08</miscellaneous-field>
+      <miscellaneous-field name="platform">Apple Macintosh</miscellaneous-field>
+      </miscellaneous>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>5.50064</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>2031.01</page-height>
+      <page-width>1570</page-width>
+      <page-margins type="both">
+        <left-margin>109</left-margin>
+        <right-margin>109</right-margin>
+        <top-margin>109</top-margin>
+        <bottom-margin>109</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <appearance>
+      <line-width type="light barline">1.5625</line-width>
+      <line-width type="heavy barline">5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">5</line-width>
+      <line-width type="dashes">1.5625</line-width>
+      <line-width type="enclosure">0.9375</line-width>
+      <line-width type="ending">1.5625</line-width>
+      <line-width type="extend">0.9375</line-width>
+      <line-width type="leger">1.5625</line-width>
+      <line-width type="pedal">1.5625</line-width>
+      <line-width type="octave shift">1.5625</line-width>
+      <line-width type="slur middle">1.5625</line-width>
+      <line-width type="slur tip">0.625</line-width>
+      <line-width type="staff">0.9375</line-width>
+      <line-width type="stem">0.9375</line-width>
+      <line-width type="tie middle">1.5625</line-width>
+      <line-width type="tie tip">0.625</line-width>
+      <line-width type="tuplet bracket">1.25</line-width>
+      <line-width type="wedge">1.25</line-width>
+      <note-size type="cue">75</note-size>
+      <note-size type="grace">60</note-size>
+      <note-size type="grace-cue">45</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
+    <word-font font-family="Times New Roman" font-size="9.3787"/>
+    <lyric-font font-family="Times New Roman" font-size="9.0133"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="784.999564" default-y="1922.006415" justify="center" valign="top" font-family="Palatino" font-size="18.239201">Mou3009-Jamais_naymeray_machon</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1460.99926" default-y="1794.764656" justify="right" valign="bottom" font-size="8.6479">Jean Mouton</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Superius</part-name>
+      <part-abbreviation>S.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Soprano</instrument-name>
+        <instrument-sound>voice.soprano</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P2">
+      <part-name>Tenor</part-name>
+      <part-abbreviation>T.</part-abbreviation>
+      <score-instrument id="P2-I1">
+        <instrument-name>Tenor</instrument-name>
+        <instrument-sound>voice.tenor</instrument-sound>
+        </score-instrument>
+      <midi-device id="P2-I1" port="1"></midi-device>
+      <midi-instrument id="P2-I1">
+        <midi-channel>2</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P3">
+      <part-name>Bassus</part-name>
+      <part-abbreviation>B.</part-abbreviation>
+      <score-instrument id="P3-I1">
+        <instrument-name>Bass (2)</instrument-name>
+        <instrument-sound>voice.bass</instrument-sound>
+        </score-instrument>
+      <midi-device id="P3-I1" port="1"></midi-device>
+      <midi-instrument id="P3-I1">
+        <midi-channel>3</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="284.52">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>74.63</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <top-system-distance>216.31</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>-1</fifths>
+          <mode>major</mode>
+          </key>
+        <time>
+          <beats>2</beats>
+          <beat-type>1</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <note default-x="95.72" default-y="-10">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      <note default-x="189.34" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="236.15" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="2" width="201.3">
+      <note default-x="12.5" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="3" width="201.3">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="4" width="194.47">
+      <note default-x="13.46" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="60.27" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="91.48" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="121.72" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="194.47">
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="83.68" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="130.49" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="161.7" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="6" width="201.3">
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="7" width="272.88">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>26.11</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>168.82</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="76.24" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="118.01" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="159.78" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="215.47" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="start" orientation="under" placement="below"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="8" width="161.22">
+      <note default-x="13.46" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="55.23" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="96.04" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="9" width="195.07">
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="10" width="160.26">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="11" width="195.07">
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="12" width="160.26">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="13" width="181.14">
+      <note default-x="12.5" default-y="-10">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        </note>
+      <note default-x="96.04" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.81" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="14" width="244.57">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>26.11</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>168.82</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="76.24" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.93" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="159.62" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="201.31" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="15" width="180.83">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="16" width="174.84">
+      <note default-x="13.46" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="55.15" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.95" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.78" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="175.05">
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="76" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.69" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="145.49" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="18" width="180.83">
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="19" width="208.83">
+      <note default-x="12.5" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.47" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="start" orientation="under" placement="below"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="20" width="160.95">
+      <note default-x="13.46" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="55.15" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="21" width="423.04">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>26.11</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>168.82</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="76.24" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="155.91" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="209.02" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="262.14" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="341.81" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="22" width="332.75">
+      <note default-x="12.5" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="92.17" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="171.84" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="251.51" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="23" width="365.94">
+      <note default-x="12.5" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.77" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="284.71" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="24" width="204.16">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>breve</type>
+        <notehead smufl="noteheadDoubleWholeSquare">other</notehead>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P2">
+    <measure number="1" width="284.52">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>-1</fifths>
+          <mode>major</mode>
+          </key>
+        <time>
+          <beats>2</beats>
+          <beat-type>1</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="95.72" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="142.53" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="189.34" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="236.15" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="2" width="201.3">
+      <note default-x="12.5" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="105.16" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="3" width="201.3">
+      <note default-x="12.5" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="59.31" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="4" width="194.47">
+      <note default-x="13.46" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <dot default-x="31.46" default-y="-112.53"/>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="91.48" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="121.72" default-y="-107.53">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="194.47">
+      <note default-x="12.5" default-y="-107.53">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="83.68" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="130.49" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="161.7" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="6" width="201.3">
+      <note default-x="12.5" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="7" width="272.88">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="118.01" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="159.78" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="187.62" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="215.47" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="243.32" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="8" width="161.22">
+      <note default-x="12.5" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="96.04" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="9" width="195.07">
+      <note default-x="12.5" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="10" width="160.26">
+      <note default-x="12.5" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="11" width="195.07">
+      <note default-x="12.5" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="12" width="160.26">
+      <note default-x="12.5" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="13" width="181.14">
+      <note default-x="12.5" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="96.04" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.81" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="14" width="244.57">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.93" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="158.66" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start" orientation="over" placement="above"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="15" width="180.83">
+      <note default-x="12.5" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="54.19" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="16" width="174.84">
+      <note default-x="13.46" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <dot default-x="31.46" default-y="-112.53"/>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="82.95" default-y="-112.53">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.78" default-y="-107.53">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="175.05">
+      <note default-x="12.5" default-y="-107.53">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="76" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.69" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="145.49" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="18" width="180.83">
+      <note default-x="12.5" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="19" width="208.83">
+      <note default-x="12.5" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="123.68" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="151.47" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="179.27" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="20" width="160.95">
+      <note default-x="12.5" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="21" width="423.04">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="155.91" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="209.02" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="262.14" default-y="-117.53">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="341.81" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="22" width="332.75">
+      <note default-x="12.5" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="92.17" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="171.84" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="251.51" default-y="-122.53">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="23" width="365.94">
+      <note default-x="12.5" default-y="-127.53">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="65.61" default-y="-132.53">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="118.73" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="171.84" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="223.99" default-y="-137.53">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="24" width="204.16">
+      <note default-x="12.5" default-y="-142.53">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>breve</type>
+        <notehead smufl="noteheadDoubleWholeSquare">other</notehead>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P3">
+    <measure number="1" width="284.52">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>-1</fifths>
+          <mode>major</mode>
+          </key>
+        <time>
+          <beats>2</beats>
+          <beat-type>1</beat-type>
+          </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note default-x="95.72" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="142.53" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="189.34" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="236.15" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="2" width="201.3">
+      <note default-x="12.5" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="105.16" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="3" width="201.3">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="59.31" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-215.06">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-215.06">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="4" width="194.47">
+      <note default-x="12.5" default-y="-220.06">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="121.72" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="194.47">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="83.68" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="130.49" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="161.7" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="6" width="201.3">
+      <note default-x="12.5" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="59.31" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="106.12" default-y="-220.06">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="152.93" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="7" width="272.88">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-230.06">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="118.01" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="159.78" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="215.47" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="8" width="161.22">
+      <note default-x="12.5" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="96.04" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="9" width="195.07">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="10" width="160.26">
+      <note default-x="12.5" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="11" width="195.07">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="82.12" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="109.96" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.73" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="12" width="160.26">
+      <note default-x="12.5" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.08" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="13" width="181.14">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.27" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="96.04" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.81" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="14" width="244.57">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.93" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="158.66" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start" orientation="over" placement="above"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="15" width="180.83">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="54.19" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-215.06">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-215.06">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="16" width="174.84">
+      <note default-x="12.5" default-y="-220.06">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="109.78" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="175.05">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="76" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="117.69" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="145.49" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      </measure>
+    <measure number="18" width="180.83">
+      <note default-x="12.5" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-220.06">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="137.58" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="19" width="208.83">
+      <note default-x="12.5" default-y="-230.06">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="54.19" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="151.47" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="20" width="160.95">
+      <note default-x="12.5" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      <note default-x="95.88" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="21" width="423.04">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>67.53</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="76.24" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="155.91" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="209.02" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadBlack">other</notehead>
+        </note>
+      <note default-x="262.14" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="341.81" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="22" width="332.75">
+      <note default-x="12.5" default-y="-220.06">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="92.17" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="171.84" default-y="-230.06">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="251.51" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      </measure>
+    <measure number="23" width="365.94">
+      <note default-x="12.5" default-y="-245.06">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="118.73" default-y="-235.06">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead smufl="noteheadHalf">other</notehead>
+        </note>
+      <note default-x="223.99" default-y="-240.06">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notehead smufl="noteheadWhole">other</notehead>
+        </note>
+      </measure>
+    <measure number="24" width="204.16">
+      <note default-x="12.5" default-y="-225.06">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>breve</type>
+        <notehead smufl="noteheadDoubleWholeSquare">other</notehead>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
