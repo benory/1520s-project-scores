@@ -14,6 +14,8 @@
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+!!section: Poggiand’al ciel
+!!!OMD: Poggiand’al ciel
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	2r	.	1r	.	2d	Pog-	1r	.
 .	.	2G	Pog-	.	.	2.g	-giand’	.	.
@@ -374,7 +376,7 @@
 2C	.	2c	Spi-	.	.	.	.	2ee-X	Spi-
 .	.	.	.	8d	.	.	.	.	.
 .	.	.	.	4c	.	.	.	.	.
-4G	-o,	4d	-o,	4.B-y	.	2g	-phe	[1dd	-o.
+4G	-o,	4d	-o,	4.B-y	.	2g	-phe	[1ddl	-o.
 4.G	Ga-	2d	Ga-	.	.	.	.	.	.
 .	.	.	.	8A	.	.	.	.	.
 .	.	.	.	4G	-phe	[2g	Ga-	.	.
@@ -398,6 +400,10 @@
 0Dl	-o.	0dl	-o.	0Al	-o.	0f#Xl	-o.	1dd]	.
 .	.	.	.	.	.	.	.	1r	.
 =37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+!!section: Tal si trova
+!!!OMD: Tal si trova
 0r	.	2.G	Tal	2.d	Tal	2r	.	2bnX	Tal
 .	.	.	.	.	.	2g	Tal	4bni	si
 .	.	4c	si	4e	si	.	.	2cc	tro-
