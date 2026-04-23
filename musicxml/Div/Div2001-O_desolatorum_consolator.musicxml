@@ -9,7 +9,7 @@
     <creator type="composer">Antonius Divitis</creator>
     <encoding>
       <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-03-17</encoding-date>
+      <encoding-date>2026-04-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -10211,12 +10211,12 @@
       <note default-x="121.48" default-y="-205.95">
         <pitch>
           <step>B</step>
+          <alter>-1</alter>
           <octave>3</octave>
           </pitch>
         <duration>12</duration>
         <voice>1</voice>
         <type>half</type>
-        <accidental parentheses="yes">natural</accidental>
         <stem>down</stem>
         </note>
       </measure>
