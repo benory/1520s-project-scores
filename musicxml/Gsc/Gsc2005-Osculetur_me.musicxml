@@ -10,9 +10,9 @@
   <creator type="lyricist">Irene Holzer</creator>
   <rights>© Irene Holzer</rights>
   <encoding>
-   <encoding-date>2026-02-26</encoding-date>
+   <encoding-date>2026-06-18</encoding-date>
    <encoder>Benjamin Ory</encoder>
-   <software>Sibelius 26.2.0</software>
+   <software>Sibelius 26.5.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -22830,10 +22830,9 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="138" default-y="-30">
+   <note color="#000000" default-x="138" default-y="-35">
     <pitch>
-     <step>B</step>
-     <alter>-1</alter>
+     <step>A</step>
      <octave>3</octave>
     </pitch>
     <duration>512</duration>
