@@ -465,7 +465,6 @@
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: s1,s2,s3,s4,s5,s6
-!!!YEM: Copyright © 2023 by Thomas Schmidt
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Maura Sugg
@@ -475,7 +474,3 @@
 !!!YEC: Copyright 2026 Nicolò Ferrari and Thomas Schmidt, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2026/08/21
 !!muse2ps: C^@{COM}^i2I150v85,85,85,85,85,100z18l2550t200c122
-!!!verovio: header encoded
-!!!header-left: Edited by Nicolò Ferrari and Thomas Schmidt (2026)\n
-!!!header-right:
-!!!header-center:
