@@ -40,6 +40,18 @@ Individual works by composers are archived independently. Each of their reposito
     <td><a href="https://1520s-project.org/browse/?q=bisgueria">Works by Bisgueria on The 1520s Project</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Bnt">Bnt</a></td>
+    <td>Johannes Brunet</td>
+    <td><i>fl.</i> 1510–30</td>
+    <td><a href="https://1520s-project.org/browse/?q=brunet">Works by Brunet on The 1520s Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Boy">Boy</a></td>
+    <td>Boyleau</td>
+    <td><i>fl.</i> 1518</td>
+    <td><a href="https://1520s-project.org/browse/?q=boyleau">Works by Boyleau on The 1520s Project</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Cha">Cha</a></td>
     <td>Nicolas Champion</td>
     <td><i>fl.</i> 1510–30</td>
@@ -50,6 +62,18 @@ Individual works by composers are archived independently. Each of their reposito
     <td>Jean Conseil</td>
     <td><i>fl.</i> 1520–34</td>
     <td><a href="https://1520s-project.org/browse/?q=conseil">Works by Conseil on The 1520s Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Crp">Crp</a></td>
+    <td>Carpentras</td>
+    <td><i>fl.</i> 1505–32</td>
+    <td><a href="https://1520s-project.org/browse/?q=carpentras">Works by Carpentras on The 1520s Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Div">Div</a></td>
+    <td>Antonius Divitis</td>
+    <td><i>fl.</i> 1501–25</td>
+    <td><a href="https://1520s-project.org/browse/?q=divitis">Works by Divitis on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Era">Era</a></td>
@@ -94,16 +118,22 @@ Individual works by composers are archived independently. Each of their reposito
     <td><a href="https://1520s-project.org/browse/?q=jacotin">Works by Jacotin on The 1520s Project</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Jan">Jan</a></td>
+    <td>Maistre Jan</td>
+    <td><i>fl.</i> 1512–38</td>
+    <td><a href="https://1520s-project.org/browse/?q=maistre%20Jan">Works by Maistre Jan on The 1520s Project</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Jom">Jom</a></td>
     <td>Jacquet of Mantua</td>
     <td><i>fl.</i> 1519–59</td>
     <td><a href="https://1520s-project.org/browse/?q=jachet">Works by Jacquet of Mantua on The 1520s Project</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/lfg">Lfg</a></td>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Lfg">Lfg</a></td>
     <td>Jean de la Fage</td>
     <td><i>fl.</i> 1518–30</td>
-    <td><a href="https://1520s-project.org/browse/?q=jachet">Works by la Fage on The 1520s Project</a></td>
+    <td><a href="https://1520s-project.org/browse/?q=Fage">Works by la Fage on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Lhe">Lhe</a></td>
@@ -142,10 +172,22 @@ Individual works by composers are archived independently. Each of their reposito
     <td><a href="https://1520s-project.org/browse/?q=mouton">Works by Mouton on The 1520s Project</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Opi">Opi</a></td>
+    <td>Benedictus de Opitiis</td>
+    <td><i>fl.</i> 1492–1521</td>
+    <td><a href="https://1520s-project.org/browse/?q=opitiis">Works by de Opitiis on The 1520s Project</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ren">Ren</a></td>
     <td>Renaldo</td>
     <td><i>fl.</i> 1515–21</td>
     <td><a href="https://1520s-project.org/browse/?q=renaldo">Works by Renaldo on The 1520s Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Res">Res</a></td>
+    <td>Nicole Regnes</td>
+    <td><i>fl.</i> 1530–51</td>
+    <td><a href="https://1520s-project.org/browse/?q=regnes">Works by Regnes on The 1520s Project</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/benory/1520s-project-scores/tree/main/humdrum/Ric">Ric</a></td>
