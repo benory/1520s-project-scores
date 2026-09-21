@@ -50,7 +50,7 @@ id:
 ##
 
 notecount:
-	@bin/getWorkIdList | bin/makeNoteCounts
+	@bash -o pipefail -c 'bin/getWorkIdList | bin/makeNoteCounts'
 
 
 
@@ -117,6 +117,5 @@ validate: validate-filenames
 validateFilenames: validate-filenames
 validate-filenames:
 	bin/validateFilenames
-
 
 

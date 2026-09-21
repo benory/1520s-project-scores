@@ -24,13 +24,9 @@
 use strict;
 use Getopt::Long;
 
-my $wget = `which wget`;
-chomp $wget;
-die "Cannot find wget program.  Install it first (with homebrew).\n" if $wget =~ /^\s*$/;
-
-my $cut = `which cut`;
-chomp $cut;
-die "Cannot find cut program.  Install it first somehow.\n" if $cut =~ /^\s*$/;
+my $curl = `which curl`;
+chomp $curl;
+die "Cannot find curl program.  Install it first.\n" if $curl =~ /^\s*$/;
 
 
 # The $macroid is taken from cell B10 of the link:
@@ -41,11 +37,16 @@ my $macroid = "AKfycbxz4kQ33FUXUl5zg4jbG6EhccphbCf3EZ07GWzD2YFMZc8Dnsp-hUTYMU26D
 
 my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
 
-my @result = `wget "$url" -O - 2> /dev/null | $cut -f 1`;
+open(my $download, "-|", $curl, "--fail", "--silent", "--show-error", "--location", $url)
+	or die "Cannot start curl: $!\n";
+my @result = <$download>;
+close($download) or die "Failed to download work IDs from spreadsheet (curl status $?).\n";
+die "Spreadsheet download returned no data.\n" unless @result;
 
-# my $headerList = shift @result;
-
-print @result;
-
+for my $line (@result) {
+	$line =~ s/\r?\n$//;
+	my ($id) = split(/\t/, $line, 2);
+	print "$id\n";
+}
 
 
