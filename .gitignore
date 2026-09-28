@@ -5,6 +5,11 @@ _site/
 .gitignore
 .DS_Store
 
+.asset-build/
+.asset-build-xml/
+
+.asset-build-media/
+
 # Published generated exports belong in R2, not the source repository.
 /pdf/
 /musicxml/

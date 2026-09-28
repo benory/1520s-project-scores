@@ -1,0 +1,14 @@
+{
+  "project": "1520s",
+  "tool_revision": "60f309517ba0775879e2c6198aefe0ccf67a1fd4",
+  "score_patterns": [
+    "humdrum/[A-Z]??/*.krn"
+  ],
+  "formats": [
+    "krn",
+    "mid",
+    "mei",
+    "musicxml"
+  ],
+  "state_directory": ".asset-build-xml"
+}
