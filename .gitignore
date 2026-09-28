@@ -4,3 +4,7 @@ _site/
 .jekyll-metadata
 .gitignore
 .DS_Store
+
+# Published generated exports belong in R2, not the source repository.
+/pdf/
+/musicxml/

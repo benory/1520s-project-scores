@@ -1,6 +1,6 @@
 # The 1520s Project Musical Scores
 
-This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in four different formats: Sibelius, MusicXML, PDFs, and Humdrum files. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations. These scores encompass the music of the early sixteenth century (ca. 1510 to ca. 1540), mostly representing composers from France, Germany, Italy, and the Low Countries. See [the project's about page](https://1520s-project.org/about/) for a histogram showing the number of works in the project by year of first source. These scores are both intended for historical study and computational analysis. At present, roughly one quarter include the text/lyrics required for vocal performance.
+This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in Humdrum and Sibelius source formats. Humdrum is the master for generated assets; PDF and MusicXML downloads are published through Cloudflare R2 and linked from each work page. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations. These scores encompass the music of the early sixteenth century (ca. 1510 to ca. 1540), mostly representing composers from France, Germany, Italy, and the Low Countries. See [the project's about page](https://1520s-project.org/about/) for a histogram showing the number of works in the project by year of first source. These scores are both intended for historical study and computational analysis. At present, roughly one quarter include the text/lyrics required for vocal performance.
 
 The scores in this project follow editorial standards first developed by the [Josquin Research Project](https://josquin.stanford.edu). Editorial accidentals have been added to these scores in Humdrum using an "i" character to enable the realization of the performance practice of the time. When an "i" is not found after the accidental, the accidental is explicit, meaning that the accidental was written in the original notation. Sixteenth-century scores also use mensuration signs (analagous in some ways to modern time signatures; they convey tempo). The most common mensuration in this corpus, by far, is Cut-C, from which modern cut-time originates. Barlines are not found in original sources. In this corpus, barlines usually represent breve (double whole notes) durations, and at the ends of sections and pieces, long durations (quadruple whole notes). Sixteenth-century sources either appear in choirbooks ([see an example](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q019/)) or partbooks ([example](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q020/)). In both cases, the music was usually written in parts. Only in modern editions are these parts placed in a score format.
 
@@ -264,3 +264,15 @@ After you have downloaded this repository with `git`, you can check periodically
 ```bash
 git pull
 ```
+
+## Generated downloads
+
+PDF and MusicXML files are no longer tracked in this repository. Download the
+published versions from each work page on [The 1520s Project](https://1520s-project.org).
+Both standard PDFs and PDFs with editorial accidentals are available there.
+Generated assets are served from `https://assets.1520s-project.org/1520s/`.
+Keep Humdrum and Sibelius sources here; do not add generated exports back to Git.
+
+The former `pdf/` and `musicxml/` directories remain recoverable from Git history.
+The last commit containing them before this cleanup is
+`c0c9b8fc5bc2e3a3a0791d1ddc2bbdae75bd225c`. This cleanup does not rewrite history or remove published R2 files.
