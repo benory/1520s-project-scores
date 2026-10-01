@@ -1,6 +1,6 @@
 # The 1520s Project Musical Scores
 
-This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in Humdrum and Sibelius source formats. Humdrum is the master for generated assets; PDF and MusicXML downloads are published through Cloudflare R2 and linked from each work page. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations. 
+This repository contains digital scores from [The 1520s Project](https://1520s-project.org) in Humdrum, Sibelius, and MuseScore source formats. Humdrum is the master for generated assets; PDF and MusicXML downloads are published through Cloudflare R2 and linked from each work page. The primary web interface of these scores is https://1520s-project.org which allows online searching and browsing, conversions into other data formats, such as MEI and MIDI, as well as some data visualizations.
 
 These scores encompass the music of the early sixteenth century (ca. 1510 to ca. 1540), mostly representing composers from France, Germany, Italy, and the Low Countries. See [the project's about page](https://1520s-project.org/about/) for a histogram showing the number of works in the project by year of first source. These scores are both intended for historical study and computational analysis. At present, roughly one quarter include the text/lyrics required for vocal performance.
 
@@ -270,3 +270,5 @@ git pull
 ## Generated downloads
 
 PDF and MusicXML files can be downloaded from each work page on [The 1520s Project](https://1520s-project.org). Generated assets are served from `https://assets.1520s-project.org/1520s/`.
+
+Notation source files (Sibelius `.sib` and MuseScore `.mscz`) are stored in `notation-files/`; Humdrum masters are in `humdrum/`.
