@@ -1,52 +1,6 @@
-#!/usr/bin/env perl
-#
-# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
-# Creation Date: Sat Oct 28 14:31:11 PDT 2023
-# Last Modified: Thu Jan 30 11:20:00 PST 2025
-# Filename:      1520s-project-scores/bin/getWorkIdList
-# Syntax:        perl 5
-#
-# Description:   Download work IDs for files from 1520s project metadata
-#                spreadsheet, such as:
-#
-#Ano2001-Nigra_sum.krn
-#Ano2002-Laudate_Dominum_omnes_gentes--Motetti_novi_libro_II.krn
-#Ano2003-Domine_quis_habitabit--Motetti_novi_e_chanzoni.krn
-#Ano2004-Congratulamini_mihi_omnes.krn
-#Ano2005-Ecce_tu_pulcra_es.krn
-#Ano2006-Dies_est_laetitiae.krn
-#
-#                 This is copyied from the spreadsheet
-#                 https://docs.google.com/spreadsheets/d/1rVevNfKXd0g4NWOZdm2dG9sbQgOh5nOr_5G_2nizAgY/edit#gid=0
-#                 Column A.
-#
-
-use strict;
-use Getopt::Long;
-
-my $curl = `which curl`;
-chomp $curl;
-die "Cannot find curl program.  Install it first.\n" if $curl =~ /^\s*$/;
-
-
-# The $macroid is taken from cell B10 of the link:
-#    https://docs.google.com/spreadsheets/d/1rVevNfKXd0g4NWOZdm2dG9sbQgOh5nOr_5G_2nizAgY/edit?gid=0#gid=0
-# It may need to be updated occasionally.
-
-my $macroid = "AKfycbzPjKo_5RlBSDPoHM8vWdw93fisuU6RcKCPpl7cT18qLY7Tx-qhXKxwONcznwbshA-ZmA";
-
-my $url = "https://script.google.com/macros/s/$macroid/exec?sheet=works&format=tsv";
-
-open(my $download, "-|", $curl, "--fail", "--silent", "--show-error", "--location", $url)
-	or die "Cannot start curl: $!\n";
-my @result = <$download>;
-close($download) or die "Failed to download work IDs from spreadsheet (curl status $?).\n";
-die "Spreadsheet download returned no data.\n" unless @result;
-
-for my $line (@result) {
-	$line =~ s/\r?\n$//;
-	my ($id) = split(/\t/, $line, 2);
-	print "$id\n";
-}
-
-
+#!/usr/bin/env bash
+# Read validated Sheet CSV through the shared digital-library-build tools.
+set -euo pipefail
+SCORES_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+LIBRARY_BUILD="${ASSET_TOOL_DIR:-$SCORES_ROOT/../digital-library-build}"
+exec "${SHEET_PYTHON:-python3}" "$LIBRARY_BUILD/tools/metadata/score_metadata.py" work-ids --project 1520s --scores "$SCORES_ROOT" "$@"
