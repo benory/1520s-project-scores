@@ -1,0 +1,171 @@
+!!!!SEGMENT: Fva1003b-Missa_pro_fidelibus_defunctis-Kyrie.krn
+!!!id: Fva1003b
+!!!AGN: Mass; Kyrie
+!!!voices: 4
+!!!OPR: Missa pro fidelibus defunctis
+!!!COM: Antoine de Févin
+!!!OTL: Kyrie
+**kern	**kern	**kern	**kern
+*part4	*part3	*part2	*part1
+*staff4	*staff3	*staff2	*staff1
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
+*I'B.	*I'T.	*I'A.	*I'S.
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-e-]	*k[b-]	*k[b-]	*k[b-]
+*g:	*F:	*F:	*F:
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1	=1	=1	=1
+!!section: Kyrie I
+!!!OMD: Kyrie I
+[0F	1.F	0c	[0f
+.	2G	.	.
+=2	=2	=2	=2
+1F]	1A	1c	0f]
+1BB-y	[1B-y	1d	.
+=3	=3	=3	=3
+0E-y	1B-]	1G	1g
+.	1G	[1g	[1g
+=4	=4	=4	=4
+1C	1c	2g]	1g]
+.	.	2f	.
+[1c	1F	[1f	1a
+=5	=5	=5	=5
+2c]	0G	2f]	0b-y
+4B-y	.	4e	.
+4A	.	4d	.
+1B-y	.	1e	.
+=6	=6	=6	=6
+[0c	0F	0f	[0a
+=7	=7	=7	=7
+0c]	1r	1F	0a]
+.	1F	1F	.
+=8	=8	=8	=8
+1C	1E	2G	1g
+.	.	1c	.
+1D	1F	.	[1f
+.	.	2A	.
+=9	=9	=9	=9
+0C	0G	0c	1f]
+.	.	.	1e
+=10	=10	=10	=10
+1F	1A	1d	1f
+[1E-y	[1B-y	[1e-X	[1g
+=11	=11	=11	=11
+2E-]	2B-]	2e-]	2g]
+2F	2A	2d	2f
+1D	1F	1B-y	[1f
+=12	=12	=12	=12
+0C	0G	0c	1f]
+.	.	.	1e
+=13	=13	=13	=13
+0Fl	0Fl	0cl	0fl
+=14||	=14||	=14||	=14||
+!!section: Christe
+!!!OMD: Christe
+[0G	[0d	[0g	[0b-y
+=15	=15	=15	=15
+0G]	0d_	0g]	0b-]
+=16	=16	=16	=16
+0D	0d]	0f	0a
+=17	=17	=17	=17
+1E-y	1G	1e	1g
+[1F	1c	1A	[1a
+=18	=18	=18	=18
+2F]	1A	0d	2a]
+2E-y	.	.	2g
+1D	1B-y	.	1f
+=19	=19	=19	=19
+1.C	0c	[0G	1e
+.	.	.	[1g
+2D	.	.	.
+=20	=20	=20	=20
+1E-y	1B-y	1G]	2g]
+.	.	.	2f
+1F	1A	[1c	[1f
+=21	=21	=21	=21
+0C	0G	0c]	1f]
+.	.	.	1e
+=22	=22	=22	=22
+[0Fl	[0Fl	1.A	[0fl
+.	.	2B-y	.
+=23	=23	=23	=23
+0F]	0F]	0cl	0f]
+=24||	=24||	=24||	=24||
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Kyrie II
+!!!OMD: Kyrie II
+[0F	[0c	[0f	[0a
+=25	=25	=25	=25
+0F]	0c]	0f]	0a]
+=26	=26	=26	=26
+0C	0c	0e	0g
+=27	=27	=27	=27
+0D	1A	0d	0f
+.	1F	.	.
+=28	=28	=28	=28
+[0BB-y	0F	1d	[0b-y
+.	.	1d	.
+=29	=29	=29	=29
+0BB-]	1F	1.f	0b-]
+.	1G	.	.
+.	.	4e	.
+.	.	4d	.
+=30	=30	=30	=30
+1.F	1.A	1c	0a
+.	.	1F	.
+4E-y	2B-y	.	.
+4D	.	.	.
+=31	=31	=31	=31
+0C	1.c	1G	1r
+.	.	2r	[1cc
+.	4B-y	[2g	.
+.	4A	.	.
+=32	=32	=32	=32
+1C	2G	2g]	1cc]
+.	2A	4f	.
+.	.	4e	.
+[1G	1B-y	[1d	[1b-y
+=33	=33	=33	=33
+2G]	0G	1d]	2b-]
+2F	.	.	2a
+1E-y	.	1c	[1g
+=34	=34	=34	=34
+0D	0A	0d	1g]
+.	.	.	1f#i
+=35	=35	=35	=35
+0E-y	1G	1B-y	0g
+.	[1c	1G	.
+=36	=36	=36	=36
+1C	2c]	1g	1e
+.	2B-y	.	.
+1D	1A	1f	1f
+=37	=37	=37	=37
+1E-y	1G	1e	1g
+[1F	[1c	1c	[1a
+=38	=38	=38	=38
+2F]	1c]	1A	2a]
+2E-y	.	.	2g
+1D	1F	1B-y	[1f
+=39	=39	=39	=39
+0C	0G	0c	1f]
+.	.	.	2e
+.	.	.	2d
+=40	=40	=40	=40
+[0C	[0G	[0c	[0e
+=41	=41	=41	=41
+0C;]	0G;]	0c;]	0e;]
+=42	=42	=42	=42
+0Fl	0Fl	0cl	0fl
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: David Nivarlet
+!!!END: 2026/05/25
+!!!EED: Benjamin Ory
+!!!EEV: 2026/11/03
+!!!YEC: Copyright 2026 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2026/11/03
