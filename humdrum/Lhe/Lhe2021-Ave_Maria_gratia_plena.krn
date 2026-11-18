@@ -1,5 +1,5 @@
-!!!!SEGMENT: Lhe2021-Ave_Maria_gratia_plena.krn
-!!!id: Lhe2021
+!!!!SEGMENT: Lhe2030-Ave_Maria_gratia_plena.krn
+!!!id: Lhe2030
 !!!AGN: Motet
 !!!voices: 4
 !!!COM: Jean Lhéritier
@@ -8,13 +8,11 @@
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
-*I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
+*I'B.	*I'T.	*I'A.	*I'S.
+*clefF4	*clefGv2	*clefG2	*clefG2
 *k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!Section: Prima pars: Ave Maria, gratia plena
 =1	=1	=1	=1
 0r	0r	0e	0r
 =2	=2	=2	=2
@@ -166,7 +164,7 @@
 .	1A	.	.
 .	.	4c	.
 1E	.	1B	[1e
-.	2G	.	.
+.	2G#i	.	.
 =34	=34	=34	=34
 1AA	2A	2A	2e]
 .	2c	2e	2a
@@ -192,9 +190,9 @@
 .	4B	.	.
 2A	4c	2e	.
 .	4d	.	.
-2A	[2e	2c	2a
+2A	(2e	2c	2a
 =39	=39	=39	=39
-1G	4e]	2.g	2b
+1G	4e)	2.g	2b
 .	4d	.	.
 .	1d	.	2b
 .	.	4f	.
@@ -217,9 +215,8 @@
 2G	1e	2r	.
 2A	.	2A	2cc#i
 =43	=43	=43	=43
-1D	2r	2.A	1dd
-.	1f	.	.
-.	.	4F	.
+1D	2r	2A	1dd
+.	1f	2F	.
 1r	.	1B-X	1d
 .	4e	.	.
 .	4d	.	.
@@ -248,7 +245,7 @@
 2F	2A	2d	[2a
 =48	=48	=48	=48
 1E	1B	1.e	2a]
-.	.	.	2g
+.	.	.	2g#i
 1AA	[1A	.	2a
 .	.	2A	[2cc
 =49	=49	=49	=49
@@ -331,9 +328,9 @@
 [1G	[1d	[1g	[1b
 =64	=64	=64	=64
 1G;]	1d;]	1g;]	1b;]
-1r	[1d	[1f	1a
+1r	[1d	(1f	1a
 =65	=65	=65	=65
-0r	1d]	1f]	1.a
+0r	1d]	1f)	1.a
 .	2c	2e	.
 .	2A	2f	2a
 =66	=66	=66	=66
@@ -345,7 +342,7 @@
 .	2c	4f	1a
 .	.	4e	.
 .	1B	2d	.
-.	.	[2e	2g#i
+.	.	[2e	2g
 =68	=68	=68	=68
 2F	1A	4e]	1a
 .	.	4d	.
@@ -407,17 +404,17 @@
 4A	4c	2e	.
 4G	4B	.	.
 2F	2A	2d	.
-2E	[2e	2c	.
+2E	(2e	2c	.
 =79	=79	=79	=79
-2.F	4e]	1d	1a
+2.F	4e)	1d	1a
 .	4d	.	.
 .	1d	.	.
 4G	.	.	.
 1E	.	1e	[1g
-.	2c	.	.
+.	2c#i	.	.
 =80	=80	=80	=80
 1D	1d	1A	2g]
-.	.	.	2f
+.	.	.	2f#i
 1r	1e	2r	1g
 .	.	2c	.
 =81	=81	=81	=81
@@ -437,17 +434,15 @@
 2D	.	1a	.
 .	.	.	4b
 2A	2e	.	2cc
-2B	2d	2g	2dd
+2B	2d	2g	[2dd
 =84	=84	=84	=84
-1A	1e	2a	2dd
+1A	1e	2a	2dd]
 .	.	2a	2cc#i
 [1D	[1d	[1f	[1dd
 =85	=85	=85	=85
 1D]	1d]	1f]	1dd]
-[1G	[1d	[1g	[1b
+1G;	1d;	1g;	1b;
 =86	=86	=86	=86
-0G;]	0d;]	0g;]	0b;]
-=	=	=	=
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met(3)	*met(3)
 0G	0d	0g	0b
@@ -470,7 +465,7 @@
 =91	=91	=91	=91
 1c	0e	0g	1cc
 1G	.	.	1.b
-1A	1c	1e	.
+1A	1c	1g	.
 .	.	.	2a
 =92	=92	=92	=92
 1D	1d	1f	0a
@@ -480,17 +475,17 @@
 0F	0A	0c	0a
 1F	1A	1d	1a
 =94	=94	=94	=94
-0.E;	0.B;	0.e;	0.g;
+0.E;	0.B;	0.e;	0.g#i;
 =95	=95	=95	=95
-00AAl	00Al	00el	00al
+0.AAl	0.Al	0.el	0.al
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [*]
+!!!system-decoration: s1,s2,s3,s4
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!ENC: Benjamin Ory
-!!!END: 2022/4/17
+!!!ENC: Simon Hensel
+!!!END: 2026/11/07
 !!!EED: Benjamin Ory
-!!!EEV: 2022/04/17
-!!!YEC: Copyright 2022 Benjamin Ory, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2022/04/17
+!!!EEV: 2026/11/18
+!!!YEC: Copyright 2026 Benjamin Ory, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2026/11/18
