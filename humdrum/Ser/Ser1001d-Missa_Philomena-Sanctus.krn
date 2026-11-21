@@ -1,9 +1,10 @@
 !!!!SEGMENT: Ser1001d-Missa_Philomena-Sanctus.krn
 !!!id: Ser1001d
+!!!OTL: Sanctus
 !!!AGN: Mass; Kyrie
 !!!voices: 2-4
 !!!COM: Claudin de Sermisy
-!!!OTL: Sanctus
+!!!OPR: Missa Philomena
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
