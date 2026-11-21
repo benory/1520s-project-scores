@@ -1,9 +1,10 @@
 !!!!SEGMENT: Lpi1001c-Missa_Philomena-Credo.krn
 !!!id: Lpi1001c
+!!!OTL: Credo
 !!!AGN: Mass; Credo
 !!!voices: 4
 !!!COM: Johannes Lupi
-!!!OTL: Credo
+!!!OPR: Missa Philomena
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1

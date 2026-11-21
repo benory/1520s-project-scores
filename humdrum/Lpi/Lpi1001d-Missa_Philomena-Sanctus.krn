@@ -1,9 +1,10 @@
 !!!!SEGMENT: Lpi1001d-Missa_Philomena-Sanctus.krn
 !!!id: Lpi1001d
+!!!OTL: Sanctus
 !!!AGN: Mass; Sanctus
 !!!voices: 2-4
 !!!COM: Johannes Lupi
-!!!OTL: Sanctus
+!!!OPR: Missa Philomena
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
